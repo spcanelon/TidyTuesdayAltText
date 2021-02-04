@@ -1,0 +1,148 @@
+Week,Date,Data,Source,Article,TableYear
+1,2018-04-02,US Tuition Costs,onlinembapage.com,onlinembapage.com,2018
+2,2018-04-09,NFL Positional Salaries,Spotrac.com,fivethirtyeight.com,2018
+3,2018-04-16,Global Mortality,ourworldindata.org,ourworldindata.org,2018
+4,2018-04-23,Australian Salaries by Gender,data.gov.au,data.gov.au,2018
+5,2018-04-30,ACS Census Data (2015),"census.gov , Kaggle",No article,2018
+6,2018-05-07,Global Coffee Chains,"Starbucks: kaggle.com , Tim Horton: timhortons.com , Dunkin Donuts: odditysoftware.com",flowingdata.com,2018
+7,2018-05-14,Star Wars Survey,fivethirtyeight package,fivethirtyeight.com,2018
+8,2018-05-21,US Honey Production,"USDA, Kaggle.com",Bee Culture,2018
+9,2018-05-29,Comic book characters,FiveThirtyEight package,FiveThirtyEight.com,2018
+10,2018-06-05,Biketown Bikeshare,BiketownPDX,Biketown cascadiaRconf/cRaggy,2018
+11,2018-06-12,FIFA World Cup Audience,FiveThirtyEight package,FiveThirtyEight.com,2018
+12,2018-06-19,Hurricanes & Puerto Rico,FiveThirtyEight package,FiveThirtyEight.com,2018
+13,2018-06-26,Alcohol Consumption,FiveThirtyEight package,FiveThirtyEight.com,2018
+14,2018-07-03,Global Life Expectancy,ourworldindata.org,ourworldindata.org,2018
+15,2018-07-10,Craft Beer USA,data.world,thrillist.com,2018
+16,2018-07-17,Exercise USA,CDC,CDC - National Health Statistics Reports,2018
+17,2018-07-23,p-hack-athon collaboration,simplystatistics.org,p-hack-athon,2018
+18,2018-07-31,Dallas Animal Shelter FY2017,Dallas OpenData,Dallas OpenData FY2017 Summary,2018
+19,2018-08-07,Airline Safety,FiveThirtyEight Package,538 - Airline Safety,2018
+20,2018-08-14,Russian Troll Tweets,FiveThirtyEight.com,538 - Russian Troll Tweets,2018
+21,2018-08-21,California Fires,BuzzFeed.com,"BuzzFeed News - California Fires, RMarkdown",2018
+22,2018-08-28,NFL Stats,pro-football-reference.com,eldo.co,2018
+23,2018-09-04,Fast Food Calories,fastfoodnutrition.org,franchiseopportunities.com,2018
+24,2018-09-11,Cats vs Dogs (USA),data.world,Washington Post,2018
+25,2018-09-18,US Flights or Hypoxia,faa.govSoaring Society of America,travelweekly.comSSA - Hypoxia,2018
+26,2018-09-25,Global Invasive Species,"Paini et al, 2016griis.org","Paini et al, 2016griis.org",2018
+27,2018-10-02,US Births,fivethirtyeight package,538 - Births,2018
+28,2018-10-09,US Voter Turnout,data.world,Star Tribune,2018
+29,2018-10-16,College Major & Income,fivethirtyeight/ACS,fivethirtyeight,2018
+30,2018-10-23,Horror Movie Profit,the-numbers.com,fivethirtyeight,2018
+31,2018-10-30,R and R package downloads,cran-logs.rstudio.com,No Article,2018
+32,2018-11-06,US Wind Farm locations,usgs.gov,Wind Market Reports,2018
+33,2018-11-13,Malaria Data,ourworldindata.orgMalaria Data Challenge,ourworldindata.org malariaAtlas,2018
+34,2018-11-20,Thanksgiving Dinner or Transgender Day of Remembrance,fivethirtyeightTDoR,fivethirtyeightTDoR,2018
+35,2018-11-27,Baltimore Bridges,Federal Highway Administration,Baltimore Sun,2018
+36,2018-12-04,Medium Article Metadata,Kaggle.com,TidyText package,2018
+37,2018-12-11,NYC Restaurant inspections,NYC OpenData/NYC Health Department,FiveThirtyEight,2018
+38,2018-12-18,Cetaceans Data,The Pudding,The Pudding,2018
+1,2019-01-01,#Rstats & #TidyTuesday Tweets,rtweet,stackoverflow.blog,2019
+2,2019-01-08,TV's Golden Age,IMDb,The Economist,2019
+3,2019-01-15,Space Launches,JSR Launch Vehicle Database,The Economist,2019
+4,2019-01-22,Incarceration Trends,Vera Institute,Vera Institute,2019
+5,2019-01-29,Dairy production & Consumption,USDA,NPR,2019
+6,2019-02-05,House Price Index & Mortgage Rates,FreddieMac & FreddieMac,Fortune,2019
+7,2019-02-12,Federal R&D Spending,AAAS,New York Times,2019
+8,2019-02-19,US PhD's Awarded,NSF,#epibookclub,2019
+9,2019-02-26,French Train Delays,SNCF,RTL - Today,2019
+10,2019-03-05,Women in the Workplace,Census Bureau & Bureau of Labor,Census Bureau,2019
+11,2019-03-12,Board Games,Board Game Geeks,fivethirtyeight,2019
+12,2019-03-19,Stanford Open Policing Project,Stanford Open Policing Project SOPP - arXiv:1706.05678,SOPP - arXiv:1706.05678,2019
+13,2019-03-26,Seattle Pet Names,seattle.gov,Curbed Seattle,2019
+14,2019-04-02,Seattle Bike Traffic,seattle.gov,Seattle Times,2019
+15,2019-04-09,Tennis Grand Slam Champions,Wikipedia,Financial Times,2019
+16,2019-04-16,The Economist Data Viz Mistakes,The Economist,The Economist,2019
+17,2019-04-23,Anime Data,MyAnimeList,MyAnimeList,2019
+18,2019-04-30,Chicago Bird Collisions,"Winger et al, 2019","Winger et al, 2019",2019
+19,2019-05-07,Global Student to Teacher Ratios,UNESCO,Center for Public Education,2019
+20,2019-05-14,Nobel Prize Winners,Kaggle,The Economist,2019
+21,2019-05-21,Global Plastic Waste,Our World In Data,Our World in Data,2019
+22,2019-05-28,Wine Ratings,Kaggle,Vivino,2019
+23,2019-06-04,Ramen Ratings,TheRamenRater.com,Food Republic,2019
+24,2019-06-11,Meteorites,NASA,The Guardian - Meteorite map,2019
+25,2019-06-18,Christmas Bird Counts,Bird Studies Canada,Hamilton Christmas Bird Count,2019
+26,2019-06-25,Global UFO Sightings,NUFORC,Example Plots,2019
+27,2019-07-02,Media Franchise Revenues,Wikipedia,reddit/dataisbeautiful post,2019
+28,2019-07-09,Women's World Cup,data.world,Wikipedia,2019
+29,2019-07-16,R4DS Membership,R4DS Slack,R4DS useR Presentation,2019
+30,2019-07-23,Wildlife Strikes,FAA,FAA,2019
+31,2019-07-30,Video Games,Steam Spy,Liza Wood,2019
+32,2019-08-06,Bob Ross paintings,FiveThirtyEight,FiveThirtyEight,2019
+33,2019-08-13,Roman Emperors,Wikipedia / Zonination,reddit.com/r/dataisbeautiful,2019
+34,2019-08-20,Nuclear Explosions,SIPRI,Our World in Data,2019
+35,2019-08-27,Simpsons Guest Stars,Wikipedia,Wikipedia,2019
+36,2019-09-03,Moore's Law,Wikipedia,Wikipedia,2019
+37,2019-09-10,Amusement Park Injuries,Data.world & Saferparks,Saferparks,2019
+38,2019-09-17,National Park Visits,Data.world,fivethirtyeight article,2019
+39,2019-09-24,School Diversity,NCES,Washington Post article,2019
+40,2019-10-01,All the Pizza,"Jared Lander & Ludmila Janda, Tyler Richards, DataFiniti",Tyler Richards on TWD,2019
+41,2019-10-08,Powerlifting,OpenPowerlifting.org,Elias Oziolor,2019
+42,2019-10-15,Car Fuel Economy,EPA,Ellis Hughes,2019
+43,2019-10-22,Horror movie ratings,IMDB,Stephen Follows,2019
+44,2019-10-29,NYC Squirrel Census,Squirrel Census,CityLab,2019
+45,2019-11-05,Bike & Walk Commutes,ACS,ACS,2019
+46,2019-11-12,CRAN Code,CRAN,Phillip Massicotte,2019
+47,2019-11-19,NZ Bird of the Year,New Zealand Forest and Bird Org,Dragonfly Data Science & Nathan Moore,2019
+48,2019-11-26,Student Loan Debt,Department of Education,Dignity and Debt,2019
+49,2019-12-03,Philly Parking Tickets,Open Data Philly,NBC Philadelphia,2019
+50,2019-12-10,Replicating plots in R,Simply Statistics,Rafael Irizarry,2019
+51,2019-12-17,Adoptable dogs,Petfinder,The Pudding,2019
+52,2019-12-24,Christmas Songs,Billboard Top 100,A Dash of Data,2019
+1,2019-12-31,Bring your own data from 2019!,,,2020
+2,2020-01-07,Australian Fires,Bureau of Meteorology,NY Times & BBC,2020
+3,2020-01-14,Passwords,Knowledge is Beautiful,Information is Beautiful,2020
+4,2020-01-21,Song Genres,spotifyr,Kaylin Pavlik,2020
+5,2020-01-28,San Francisco Trees,data.sfgov.org,SF Weekly,2020
+6,2020-02-04,NFL Attendance,Pro Football Reference,Casino.org,2020
+7,2020-02-11,Hotel Bookings,"Antonio, Almeida, and Nunes, 2019",tidyverts,2020
+8,2020-02-18,Food's Carbon Footprint,nu3,r-tastic by Kasia Kulma,2020
+9,2020-02-25,Measles Vaccination,The Wallstreet Journal,The Wall Street Journal,2020
+10,2020-03-03,NHL Goals,HockeyReference.com,Washington Post,2020
+11,2020-03-10,"College Tuition, Diversity, and Pay",TuitionTracker.org,TuitionTracker.org,2020
+12,2020-03-17,The Office,schrute,The Pudding,2020
+13,2020-03-24,Traumatic Brain Injury,CDC,CDC Traumatic Brain Injury Report,2020
+14,2020-03-31,Beer Production,TTB,Brewers Association,2020
+15,2020-04-07,Tour de France,tdf package,Alastair Rushworth's blog,2020
+16,2020-04-14,Best Rap Artists,BBC Music,Simon Jockers at Datawrapper,2020
+17,2020-04-21,GDPR Violations,Privacy Affairs,Roel Hogervorst,2020
+18,2020-04-28,Broadway Musicals,Playbill,Alex Cookson,2020
+19,2020-05-05,Animal Crossing,Villager DB,Polygon,2020
+20,2020-05-12,Volcano Eruptions,Smithsonian,Axios & Wikipedia,2020
+21,2020-05-19,Beach Volleyball,BigTimeStats,FiveThirtyEight & Wikipedia,2020
+22,2020-05-26,Cocktails,Kaggle & Kaggle,FiveThirtyEight,2020
+23,2020-06-02,Marble Races,Jelle's Marble Runs,Randy Olson,2020
+24,2020-06-09,African-American Achievements,Wikipedia & Wikipedia,David Blackwell & Petition for David Blackwell,2020
+25,2020-06-16,African-American History,Black Past & Census & Slave Voyages,The Guardian,2020
+26,2020-06-23,Caribou Locations,Movebank,B.C. Ministry of Environment,2020
+27,2020-06-30,Claremont Run of X-Men,Claremont Run,Wikipedia - Uncanny X-Men,2020
+28,2020-07-07,Coffee Ratings,James LeDoux & Coffee Quality Database,Yorgos Askalidis - TWD,2020
+29,2020-07-14,Astronaut Database,"Corlett, Stavnichuk & Komarova article","Corlett, Stavnichuk & Komarova article",2020
+30,2020-07-21,Australian Animal Outcomes,RSPCA,RSPCA Report,2020
+31,2020-07-28,Palmer Penguins,"Gorman, Williams and Fraser, 2014",Palmer Penguins,2020
+32,2020-08-04,European Energy,Eurostat Energy,Washington Post Energy,2020
+33,2020-08-11,Avatar: The Last Airbender,appa,Exploring Avatar: The Last Airbender transcript data,2020
+34,2020-08-18,Extinct Plants,IUCN Red List,Florent Lavergne infographic,2020
+35,2020-08-25,Chopped,Kaggle & IMDB,Vice,2020
+36,2020-09-01,Global Crop Yields,Our World in Data,Our World in Data,2020
+37,2020-09-08,Friends,friends R package,ceros interactive article,2020
+38,2020-09-15,Gov Spending on Kids,Urban Institute,Joshua Rosenberg's tidykids package,2020
+39,2020-09-22,Himalayan Climbers,The Himalayan Database,Alex Cookson blog post,2020
+40,2020-09-29,Beyonce & Taylor Swift Lyrics,Rosie Baillie and Dr. Sara Stoudt,Taylor Swift lyrics,2020
+41,2020-10-06,NCAA Women's Basketball,FiveThirtyEight,FiveThirtyEight,2020
+42,2020-10-13,datasauRus dozen,Alberto Cairo,datasauRus R package,2020
+43,2020-10-20,Great American Beer Festival Data,Great American Beer Festival,2019 GABF Medal Winner Analysis,2020
+44,2020-10-27,Canadian Wind Turbines,open.canada.ca,Canada's National Observer,2020
+45,2020-11-03,Ikea Furniture,Kaggle,FiveThirtyEight,2020
+46,2020-11-10,Historical Phones,Mobile vs Landline subscriptions,Pew Research Smartphone Adoption,2020
+47,2020-11-17,Black in Data,Black in Data Week,BlackInData #DataViz,2020
+48,2020-11-24,Washington Trails,WTA,TidyX,2020
+49,2020-12-01,Toronto Shelters,opendatatoronto,rabble.ca,2020
+50,2020-12-08,Women of 2020,BBC,BBC,2020
+51,2020-12-15,Ninja Warrior,Data.World,sasukepedia,2020
+52,2020-12-22,Big Mac Index,TheEconomist,TheEconomist,2020
+1,2020-12-29,Bring your own data from 2020!,,,2021
+2,2021-01-05,Transit Cost Project,TransitCosts.com,Transit Costs Case Study,2021
+3,2021-01-12,Art Collections,Tate Collection,Aspect Ratio of Artworks through Time,2021
+4,2021-01-19,Kenya Census,rKenyaCensus,Introducing rKenyaCensus,2021
+5,2021-01-26,Plastic Pollution,Break Free from Plastic,Sarah Sauve,2021

@@ -1,0 +1,352 @@
+tweet_date,image_url,hashtag_list,week,year,tweet_id,url_check,alt_text
+2021-01-01T18:25:03Z,http://pbs.twimg.com/media/EqqpRuLXAAY6NYN.jpg,"tidytuesday, rstats, dataviz",1,2021,1345073569613623296,Images-only,Image
+2021-01-01T21:50:01Z,http://pbs.twimg.com/tweet_video_thumb/EqrXcloXcAAB4Tc.jpg,TidyTuesday,1,2021,1345125149276835840,Images-only,
+2021-01-01T22:44:59Z,http://pbs.twimg.com/media/EqrjIVZXEAALXkX.jpg,"datavisualization, ggplot2, rstats, dataviz, TidyTuesday, SWDchallenge, NewYear2021",1,2021,1345138983374893056,Links included,Image
+2021-01-02T10:40:21Z,http://pbs.twimg.com/media/EquIc0yW4AIE4yj.jpg,"TidyTuesday, data, TidyTuesday, data",1,2021,1345319010829795328,Links included,Image
+2021-01-03T13:30:11Z,http://pbs.twimg.com/tweet_video_thumb/Eqz49zNXUAAYbsi.jpg,"rstats, Tidytuesday, r4ds",1,2021,1345724137663246336,Links included,Image
+2021-01-03T14:01:15Z,http://pbs.twimg.com/media/Eq0AFQXXUAAD2MN.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",1,2021,1345731955778875392,Links included,Image
+2021-01-03T17:19:03Z,http://pbs.twimg.com/media/Eq0sJHsXEAIJM1q.jpg,"Tidytuesday, academia, WomenWhoCode, R",1,2021,1345781734718263296,Images-only,Image
+2021-01-03T20:32:14Z,http://pbs.twimg.com/media/Eq1X2N5XMAAb4PH.jpg,"TidyTuesday, gt, rstats",1,2021,1345830351378280448,Links included,Image
+2021-01-04T12:13:56Z,http://pbs.twimg.com/media/Eq4wjqiXYAI61qe.jpg,"TidyTuesday, RStats",1,2021,1346067335027838976,Images-only,Image
+2021-01-04T16:02:25Z,http://pbs.twimg.com/media/Eq5lZSqXIAENceE.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",1,2021,1346124836674936832,Links included,Image
+2021-01-04T19:22:06Z,http://pbs.twimg.com/media/Eq6S9HlW8AIgiX7.jpg,"TidyTuesday, RStats",1,2021,1346175090136936448,Images-only,Image
+2021-01-04T20:39:02Z,http://pbs.twimg.com/media/Eq6kM4eW8AYX7fv.jpg,"RStats, TidyTuesday",1,2021,1346194449613926400,Links included,"Unless we test this statistically we can't really be sure of the nature of the relationship between the poverty rates and the dropout rates from secondary schools. This is rendered using data from the Tunisian government, and done with ggplot2."
+2021-01-04T22:06:15Z,http://pbs.twimg.com/media/Eq64GJdXUAAvaRO.png,tidytuesday,1,2021,1346216399644094464,Links included,Image
+2021-01-05T03:19:36Z,http://pbs.twimg.com/media/Eq7y24NUUAElULc.jpg,"rstats, TidyTuesday",1,2021,1346295253364424704,Links included,Image
+2021-01-05T11:47:49Z,http://pbs.twimg.com/media/Eq9y_RHW8AAI4Ql.jpg,"TidyTuesday, RStats",1,2021,1346423150247096320,Links included,Image
+2021-01-05T12:13:20Z,http://pbs.twimg.com/media/Eq96ReSXMAA_lSm.png,"tidytuesday, rstats, dataviz",1,2021,1346429574331170816,Images-only,Image
+2021-01-05T12:41:51Z,http://pbs.twimg.com/media/Eq-A0rOUwAIQ_M2.jpg,"TidyTuesday, datascience, dataviz, rstats, projectmanagement",1,2021,1346436750650982400,Links included,Image
+2021-01-05T13:53:28Z,http://pbs.twimg.com/media/Eq-Q3KCXIAY86vw.jpg,"tidytuesday, rstats, dataviz",1,2021,1346454775211171840,Links included,Image
+2021-01-05T15:00:45Z,http://pbs.twimg.com/media/Eq-g4DLUwAM5KJI.jpg,TidyTuesday,1,2021,1346471704244092928,Links included,Image
+2021-01-05T15:28:00Z,http://pbs.twimg.com/media/Eq-mtYaVgAEjyPV.jpg,"tidytuesday, dataviz, rstats",1,2021,1346478564263092224,Links included,Image
+2021-01-05T20:19:11Z,http://pbs.twimg.com/media/Eq_opbGW4AASPQP.jpg,TidyTuesday,1,2021,1346551843787321344,Links included,Image
+2021-01-05T21:21:01Z,http://pbs.twimg.com/media/Eq_3q5VWMAEWGWz.png,TidyTuesday,1,2021,1346567404864892928,Links included,Image
+2021-01-05T21:22:22Z,http://pbs.twimg.com/media/Eq_3GACXMAYFbqw.jpg,"TidyTuesday, rstats, dataviz",1,2021,1346567744574140416,Images-only,Image
+2021-01-05T22:06:21Z,http://pbs.twimg.com/media/Eq_8j8dU0AAaKUV.jpg,"tidytuesday, rstats",1,2021,1346578812130115584,Links included,Image
+2021-01-05T22:12:04Z,http://pbs.twimg.com/media/ErADULUXAAE6I2e.png,"Rstats, TidyTuesday",1,2021,1346580249853747200,Links included,Image
+2021-01-05T22:14:52Z,http://pbs.twimg.com/media/ErAEKoIXMAU9uga.png,"TidyTuesday, rstats",1,2021,1346580952617799680,Links included,Image
+2021-01-05T22:40:53Z,http://pbs.twimg.com/media/ErAKHVoXAAQGtEs.jpg,"TidyTuesday, rstats, dataviz",1,2021,1346587503466262528,Links included,Image
+2021-01-06T00:21:04Z,http://pbs.twimg.com/media/ErAgZewW8AIkX2L.jpg,"66daysofdata, TidyTuesday",1,2021,1346612712558759936,Links included,Image
+2021-01-06T00:35:34Z,http://pbs.twimg.com/media/ErAkMriXMAEXzew.jpg,"TidyTuesday, rstats",1,2021,1346616364165808128,Links included,Image
+2021-01-06T02:52:51Z,http://pbs.twimg.com/media/ErBDFCmXcAEcAWm.png,"TidyTuesday, Rstats",1,2021,1346650909632294912,Links included,Image
+2021-01-06T03:12:31Z,http://pbs.twimg.com/media/ErBH256UcAA1dFn.jpg,TidyTuesday,1,2021,1346655860458541056,Links included,Image
+2021-01-06T03:42:37Z,http://pbs.twimg.com/media/ErBOiWjXIAAcCtY.jpg,"TidyTuesday, rstats",1,2021,1346663435468234752,Links included,"Data visualization with data from the Transit Costs Project. Title: Longest transit projects worldwide: How much is done? Subtitle: Percent of the line length completed for the top 20 transit projects. The longest project is the Paris GPX, started in 2017 and 80% completed."
+2021-01-06T04:33:11Z,http://pbs.twimg.com/media/ErBZE7PXEAEu1kA.jpg,"TidyTuesday, rstats",1,2021,1346676161850564608,Links included,Image
+2021-01-06T04:49:04Z,http://pbs.twimg.com/media/ErBX3FRUwAIPwHe.png,"TidyTuesday, rstats",1,2021,1346680160091684864,Images-only,Image
+2021-01-06T05:08:18Z,http://pbs.twimg.com/media/ErBisu7XUAEohpt.png,"TidyTuesday, rstats",1,2021,1346685000184426496,Images-only,Image
+2021-01-06T05:37:37Z,http://pbs.twimg.com/media/ErBn2CtUcAAi_ER.png,"TidyTuesday, rstats",1,2021,1346692377021358080,Links included,Image
+2021-01-06T06:20:01Z,http://pbs.twimg.com/media/ErBxmyTUwAIIdxV.jpg,TidyTuesday,1,2021,1346703045522935808,Images-only,Image
+2021-01-06T08:41:09Z,http://pbs.twimg.com/media/ErCS3YwXUAEGq3j.jpg,"TidyTuesday, rstats",1,2021,1346738564114087936,Links included,Image
+2021-01-06T10:27:16Z,http://pbs.twimg.com/media/ErCrGV3W8AEiqGQ.jpg,TidyTuesday,1,2021,1346765271072124928,Links included,Image
+2021-01-06T13:11:49Z,http://pbs.twimg.com/media/ErDQ4aKU0AArs7M.jpg,"TidyTuesday, RStats",1,2021,1346806677496942592,Links included,Image
+2021-01-06T14:05:00Z,http://pbs.twimg.com/media/ErBl6hLW4AIIQSy.jpg,"TidyTuesday, r4ds, rstats, ggplot2",1,2021,1346820062766776320,Links included,Image
+2021-01-06T16:43:03Z,http://pbs.twimg.com/media/ErEBOXcXcAIaig8.png,"TidyTuesday, rstats, ggplot2, dataviz",1,2021,1346859837825683456,Links included,Image
+2021-01-06T16:54:15Z,http://pbs.twimg.com/media/ErEEb_sW4AAIgd1.jpg,tidytuesday,1,2021,1346862654997094400,Images-only,Image
+2021-01-06T18:50:46Z,http://pbs.twimg.com/media/ErEddvgXIAofy55.png,"TidyTuesday, rstats",1,2021,1346891977296637952,Links included,Image
+2021-01-06T19:01:26Z,http://pbs.twimg.com/media/ErEhiQ7VkAIW2ur.jpg,"TidyTuesday, RStats, dataviz, r4ds, ggplot2",1,2021,1346894661973987328,Links included,Image
+2021-01-06T19:05:30Z,http://pbs.twimg.com/media/ErEh5g-W8AAod_J.png,"TidyTuesday, RStats",1,2021,1346895685057179648,Images-only,Image
+2021-01-06T19:30:03Z,http://pbs.twimg.com/media/ErEoDPPXcAAB5qJ.jpg,"TidyTuesday, Rstats, ggplot, tidyverse, dataviz, DataScience, DataVisualization",1,2021,1346901865729024000,Links included,Image
+2021-01-06T19:45:58Z,http://pbs.twimg.com/media/ErErpSwXAAEeCqX.png,"TidyTuesday, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz",1,2021,1346905870576340992,Images-only,Image
+2021-01-06T20:38:32Z,http://pbs.twimg.com/media/ErE22UjW4AUomqT.png,"TidyTuesday, RStats, dataviz",1,2021,1346919098731671552,Images-only,Image
+2021-01-06T21:06:06Z,http://pbs.twimg.com/media/ErE-BObVkAAxyQw.jpg,TidyTuesday,1,2021,1346926036231933952,Images-only,Tidy tuesday bar plot showing the prices of different Tokyo railways.
+2021-01-06T21:46:50Z,http://pbs.twimg.com/media/ErFHScBW8AAUwIk.png,TidyTuesday,1,2021,1346936287119470592,Images-only,Image
+2021-01-06T22:11:30Z,http://pbs.twimg.com/media/ErFMvTGVoAEmNAJ.jpg,TidyTuesday,1,2021,1346942495008018432,Links included,A plot showing the construction durations for the most expensive transit-infrastructure projects from each country. The United States spends far more per km of infrastructure than any other country.
+2021-01-07T02:26:45Z,http://pbs.twimg.com/media/ErGHXn6XEAA1joJ.jpg,"Rstats, TidyTuesday",1,2021,1347006731931570176,Images-only,Image
+2021-01-07T07:14:42Z,http://pbs.twimg.com/media/ErHJF6qW4AA-QbU.jpg,"tidytuesday, ggplot, tidyverse",1,2021,1347079193998327808,Links included,Image
+2021-01-07T18:14:54Z,http://pbs.twimg.com/media/ErJgGa-W8AEqPAZ.jpg,tidytuesday,1,2021,1347245341188435968,Images-only,Image
+2021-01-07T18:29:22Z,http://pbs.twimg.com/media/ErJjuZ5XcAAhN0g.jpg,"tidytuesday, rstats, dataviz, TidyTuesday, ggplot2",1,2021,1347248980682530816,Links included,Image
+2021-01-07T19:48:59Z,http://pbs.twimg.com/media/ErJ1v0BXEAEL6x-.png,"tidytuesday, tidyverse",1,2021,1347269017053102080,Images-only,Image
+2021-01-07T22:23:04Z,http://pbs.twimg.com/media/ErKYqi2XYAEaZUF.png,"TidyTuesday, rstats",1,2021,1347307792596656128,Links included,Image
+2021-01-07T22:39:27Z,http://pbs.twimg.com/media/ErKdCktVcAAWG5d.jpg,TidyTuesday,1,2021,1347311917493227520,Links included,Image
+2021-01-08T02:46:14Z,http://pbs.twimg.com/media/ErLUW1dXUAETPvG.jpg,tidytuesday,2,2021,1347374023651581952,Images-only,Image
+2021-01-08T08:38:25Z,http://pbs.twimg.com/media/ErMlCKwWMAMaXm4.jpg,"TidyTuesday, rstats, ggplot2, r4ds, dataviz, DataVisualization",2,2021,1347462652109484032,Images-only,Image
+2021-01-08T12:34:14Z,http://pbs.twimg.com/media/ErNcDE1XMAI_NIk.jpg,"TidyTuesday, RStats, dataviz",2,2021,1347521995995549696,Links included,Image
+2021-01-08T15:40:23Z,http://pbs.twimg.com/media/ErOF6icXUAcGGfE.jpg,TidyTuesday,2,2021,1347568844018233344,Links included,Image
+2021-01-08T16:06:00Z,http://pbs.twimg.com/media/ErN-2hZXMAI0n7A.png,"Tidytuesday, trains, rstats, dataviz, L9, ggplot2, tidyverse",2,2021,1347575288847233024,Images-only,Image
+2021-01-08T22:25:25Z,http://pbs.twimg.com/media/ErPapLOXAAEecJx.jpg,"Rstats, dataviz, TidyTuesday",2,2021,1347670774044389376,Links included,"Screenshot of the Notion database showing a gallery of all the data visualizations in the collection, organized in a grid"
+2021-01-09T08:20:57Z,http://pbs.twimg.com/media/ErRp8lQUcAAsXHv.jpg,"TidyTuesday, RStats",2,2021,1347820646080806912,Links included,Image
+2021-01-09T08:24:00Z,http://pbs.twimg.com/media/ErRrwzCW8AAe2_6.jpg,tidytuesday,2,2021,1347821410828349440,Links included,Image
+2021-01-09T10:38:27Z,http://pbs.twimg.com/media/ErSLNEjWMAE1Ihd.png,"RStats, TidyTuesday",2,2021,1347855248132616192,Links included,Image
+2021-01-09T10:38:29Z,http://pbs.twimg.com/media/ErSLNdsW4AA7BD0.png,"RStats, tidytuesday, cowplot",2,2021,1347855255103528960,Images-only,Image
+2021-01-09T13:27:47Z,http://pbs.twimg.com/ext_tw_video_thumb/1347897791671136256/pu/img/35E3fSKoZPz4BqY9.jpg,"TidyTuesday, ggplot2, tidyverse, rstats, r4ds",2,2021,1347897859639812096,Links included,Image
+2021-01-09T14:44:42Z,http://pbs.twimg.com/media/ErTDTwIVEAMII8s.jpg,"TidyTuesday, RStats",2,2021,1347917219355795456,Links included,Image
+2021-01-09T16:35:08Z,http://pbs.twimg.com/media/ErTcyM1XYAcRVgN.jpg,"TidyTuesday, RStats, tidyverse, Fleet",2,2021,1347945008410865664,Images-only,Image
+2021-01-09T18:36:56Z,http://pbs.twimg.com/media/ErT1jMyXEAAIE8n.jpg,"TidyTuesday, rstats, tidyverse, ggplot2, r4ds, dataviz",2,2021,1347975663274389504,Links included,Image
+2021-01-09T22:28:28Z,http://pbs.twimg.com/media/ErUtshwXIAEcBct.jpg,"TidyTuesday, python, matplotlib",2,2021,1348033929551478784,Images-only,Image
+2021-01-10T07:44:16Z,http://pbs.twimg.com/ext_tw_video_thumb/1348173765637791744/pu/img/RYLAdn54zf5-HBUu.jpg,"MakingOf, TidyTuesday",2,2021,1348173802073694208,Links included,Image
+2021-01-10T12:29:16Z,http://pbs.twimg.com/media/ErXuD6OW4AQ-SgK.jpg,"TidyTuesday, rstats, r4ds, dataviz",2,2021,1348245520867872768,Links included,Image
+2021-01-13T00:25:29Z,http://pbs.twimg.com/media/Erkk-1CXEAAbrJh.jpg,"TidyTuesday, rstats",2,2021,1349150540610076672,Links included,Image
+2021-01-13T02:53:26Z,http://pbs.twimg.com/media/ErlHEO2VgAMavQx.jpg,"66DaysOfData, tidyTuesday, rstats, dataviz, datascience, dataanalytics",2,2021,1349187773652037632,Images-only,Image
+2021-01-13T03:59:45Z,http://pbs.twimg.com/media/ErlWR83VoAQawKk.jpg,TidyTuesday,2,2021,1349204463739756544,Images-only,Image
+2021-01-13T04:59:11Z,http://pbs.twimg.com/media/ErljaJlXAAE79OF.png,"TidyTuesday, Rstats",2,2021,1349219419550060544,Links included,Image
+2021-01-13T05:51:10Z,http://pbs.twimg.com/media/Erluow9W8AEF3nt.png,"TidyTuesday, 66daysofdata, rstats, dataviz",2,2021,1349232502683144192,Links included,Image
+2021-01-13T06:19:29Z,http://pbs.twimg.com/media/Erl162sVQAAc0In.png,"R, TidyTuesday",2,2021,1349239627622727680,Links included,Image
+2021-01-13T07:51:55Z,http://pbs.twimg.com/media/ErmKqcsWMAAseed.jpg,"TidyTuesday, DataScience, TidyModels",2,2021,1349262887076945920,Images-only,Image
+2021-01-13T09:26:18Z,http://pbs.twimg.com/media/ErmgBQdW8AAX53H.jpg,"TidyTuesday, dataviz, RStats",2,2021,1349286641807056896,Links included,"Plot showing number of acquisitions of works of art by Tate by year, from 1823 to 2013"
+2021-01-13T13:27:26Z,http://pbs.twimg.com/media/ErnXbN8WMAEdQKq.png,TidyTuesday,2,2021,1349347322510106624,Images-only,Image
+2021-01-13T13:29:47Z,http://pbs.twimg.com/media/ErnXwWQW8AEovbf.jpg,"TidyTuesday, Rstats",2,2021,1349347916629086208,Links included,"Data visualization: 100 Years of Art at the Tate Museum.From 1914-2014, over 2000 artists had at least one piece of art acquired by the museum while they were still alive. Each small dot below represents an artist whose art was acquired by the Tate, the year and the artist's age at acquisition. Each larger dot represents the average age of all artists for that year. Created by @kllycttn, Data from Tate Art Museum, #TidyTuesday"
+2021-01-13T14:15:33Z,http://pbs.twimg.com/media/Erngw0oXUAAenjm.png,"TidyTuesday, genuary",2,2021,1349359432413675520,Images-only,Image
+2021-01-13T14:28:00Z,http://pbs.twimg.com/media/Ernl0vuW8AowA7l.jpg,"TidyTuesday, Rstats",2,2021,1349362568507305984,Links included,Image
+2021-01-13T16:15:20Z,http://pbs.twimg.com/media/Ern92_5XMAQ4PH9.jpg,"TidyTuesday, r4ds, rstats, ggplot2, dataviz",2,2021,1349389579799949312,Links included,Data visualization from week 3 of TidyTuesday: flowers representing the pieces of artwork in the Tate collections.
+2021-01-13T17:10:40Z,http://pbs.twimg.com/media/EroJcWFXEAAluHu.png,"TidyTuesday, Rstats, dataviz",2,2021,1349403501806415872,Images-only,Image
+2021-01-13T17:41:10Z,http://pbs.twimg.com/media/EroRNhdXIAA7vYp.png,"TidyTuesday, dataviz, rstats, tidyverse, ggplot2",2,2021,1349411179299549184,Images-only,Image
+2021-01-13T18:46:24Z,http://pbs.twimg.com/media/ErogOj5XAAAHrEZ.png,"tidytuesday, r4ds, tidyverse, rstats",2,2021,1349427593758572544,Images-only,Image
+2021-01-13T18:50:48Z,http://pbs.twimg.com/media/EroamveVcAAUYrU.jpg,"tidytuesday, rstats",2,2021,1349428702602436608,Links included,"By 2013, more than half of the pieces in the Tate artwork collection were made after 1950."
+2021-01-13T19:45:38Z,http://pbs.twimg.com/media/Eroup2hW8AI3wmb.jpg,"dataviz, TidyTuesday, Rstats, ggplot2, tidyverse, DataScience, DataVisualization, r4ds",2,2021,1349442501908819968,Links included,Image
+2021-01-13T19:59:24Z,http://pbs.twimg.com/media/Erox8T3XAAAnsEJ.jpg,"TidyTuesday, Rstats, tidyverse",2,2021,1349445964550057984,Links included,Image
+2021-01-13T21:07:45Z,http://pbs.twimg.com/media/ErpA3vWXYAI5O2n.png,"TidyTuesday, r4ds, tidyverse, rstats",2,2021,1349463167747960832,Links included,Image
+2021-01-13T21:53:17Z,http://pbs.twimg.com/tweet_video_thumb/ErpKge3XUAImJHc.jpg,TidyTuesday,2,2021,1349474626632626176,Links included,
+2021-01-13T23:25:03Z,http://pbs.twimg.com/media/Erpgbh4XIAM_F6q.jpg,"TidyTuesday, Rstats",2,2021,1349497717970628608,Links included,Image
+2021-01-14T00:17:38Z,http://pbs.twimg.com/media/ErptDRaUcAEEwBM.png,"TidyTuesday, rstats, ggplot2, dataviz",2,2021,1349510952312455168,Links included,"A bar graph showing the colors used by Turner in his oil paint on canvas works over time by year. Turner uses mostly shades of brown and green. In 1827, he brings in many shades of blue, and in 1829, he is focused in shades of yellow, orange, and brown."
+2021-01-14T01:05:17Z,http://pbs.twimg.com/media/Erp38iNW4AMuaX-.jpg,"Rstats, TidyTuesday",2,2021,1349522942707822592,Images-only,Image
+2021-01-14T03:04:39Z,http://pbs.twimg.com/media/ErqSEIxXYAM8nmn.jpg,"TidyTuesday, rstats, dataviz",2,2021,1349552983139377152,Images-only,Image
+2021-01-14T04:29:46Z,http://pbs.twimg.com/media/Erqmv02XAAE2PlW.png,"TidyTuesday, theme_economist, Rstats",2,2021,1349574404817170432,Links included,Image
+2021-01-14T04:57:48Z,http://pbs.twimg.com/media/ErqtLZVVoAIbezx.jpg,"TidyTuesday, theme_economist, Rstats",2,2021,1349581458713706496,Links included,
+2021-01-14T08:23:26Z,http://pbs.twimg.com/media/ErrarV2W8AA4zeB.jpg,TidyTuesday,2,2021,1349633207772344320,Images-only,Image
+2021-01-14T09:28:43Z,http://pbs.twimg.com/media/ErrqlawUwAIR1hU.jpg,TidyTuesday,2,2021,1349649639037759488,Links included,Image
+2021-01-14T13:15:02Z,http://pbs.twimg.com/media/ErsdUrgXYAIsgmX.png,"RStats, OpenStreetMap, TidyTuesday, Geneve, dataviz",2,2021,1349706590392299520,Links included,Image
+2021-01-14T14:43:50Z,http://pbs.twimg.com/media/ErsyJiYUYAQL2r6.jpg,"TidyTuesday, dataviz, RStats, ggplot2",2,2021,1349728938268962816,Links included,"The Notion 2018 TidyTuesday database showing a gallery of all the data visualizations in the collection, organized in a grid"
+2021-01-14T17:59:35Z,http://pbs.twimg.com/media/Ertfll9WMAI5fVo.jpg,TidyTuesday,2,2021,1349778199589359616,Links included,Image
+2021-01-14T18:34:10Z,http://pbs.twimg.com/media/Ertnz_RXUAY4sIz.png,"tidytuesday, rstats, dataviz, TidyTuesday, ggplot2",2,2021,1349786903399325696,Links included,Image
+2021-01-14T18:43:47Z,http://pbs.twimg.com/media/ErtqAuTXMAIgeQ4.jpg,"TidyTuesday, rstats, ggplot2, tidyverse, r4ds, dataviz",2,2021,1349789322640240640,Links included,Image
+2021-01-14T19:23:03Z,http://pbs.twimg.com/media/ErtywkCW8AEE4mm.png,"TidyTuesday, rstats, ggplot2",2,2021,1349799207289413632,Links included,Image
+2021-01-14T20:33:45Z,http://pbs.twimg.com/media/EruCSFJVEAAEPP5.jpg,TidyTuesday,2,2021,1349816998750928896,Links included,Image
+2021-01-14T20:39:58Z,http://pbs.twimg.com/media/EruEliDVgAAIvIq.png,"TidyTuesday, rstats, ggplot2, dataviz",2,2021,1349818563469561856,Images-only,"A bar graph showing the colors used by Turner in his oil paint on canvas works over time by year. Turner uses mostly shades of brown and green. In 1827, he brings in many shades of blue, and in 1829, he is focused in shades of yellow, orange, and brown."
+2021-01-14T21:56:56Z,http://pbs.twimg.com/media/EruV86cW4AUY-wR.jpg,"TidyTuesday, rstats",2,2021,1349837931196915712,Links included,Image
+2021-01-15T00:17:27Z,http://pbs.twimg.com/media/Eru2IKVVcAgwigK.png,"TidyTuesday, rstats",3,2021,1349873292505608192,Links included,Image
+2021-01-15T01:11:56Z,http://pbs.twimg.com/media/ErvCzVoWMAAmUQT.jpg,"TidyTuesday, rstats, TateMuseum",3,2021,1349887006726361088,Images-only,Image
+2021-01-15T01:35:10Z,http://pbs.twimg.com/media/ErvIQEiXYAk6kOL.jpg,"TidyTuesday, Rstats, theme_few",3,2021,1349892852256546816,Links included,Image
+2021-01-15T08:49:37Z,http://pbs.twimg.com/ext_tw_video_thumb/1350001929779339264/pu/img/t-TlsR3GUmwi9AaL.jpg,"MakingOf, TidyTuesday",3,2021,1350002183744454656,Links included,"Plot showing number of acquisitions of works of art by Tate by year, from 1823 to 2013"
+2021-01-15T11:15:04Z,http://pbs.twimg.com/media/ErxM1zMXUAISJyr.jpg,"TidyTuesday, glue",3,2021,1350038790392475648,Links included,Image
+2021-01-15T15:04:50Z,http://pbs.twimg.com/media/EryBjxOW8AEVJFa.jpg,"TidyTuesday, rstats, ggplot2",3,2021,1350096613302218752,Images-only,Image
+2021-01-15T16:06:08Z,http://pbs.twimg.com/media/EryO2vTXcAA3Uyb.jpg,"RStats, TidyTuesday",3,2021,1350112040078159872,Links included,Image
+2021-01-15T16:24:45Z,http://pbs.twimg.com/media/ErySz2cXIAEA7Of.jpg,"TidyTuesday, rstats",3,2021,1350116724193062912,Images-only,Image
+2021-01-15T16:24:47Z,http://pbs.twimg.com/media/EryTPAzXEAYczDt.jpg,"rstats, TidyTuesday",3,2021,1350116731050733568,Links included,Image
+2021-01-15T16:24:48Z,http://pbs.twimg.com/media/EryT-KiW8AMnjNJ.jpg,"rstats, TidyTuesday",3,2021,1350116737954541568,Links included,Image
+2021-01-15T17:10:57Z,http://pbs.twimg.com/media/EryeTj_WMAYUoeX.png,"TidyTuesday, rstats, dataviz",3,2021,1350128349306355712,Links included,Image
+2021-01-15T18:28:17Z,http://pbs.twimg.com/media/Eryv9dkXMAEMBmc.jpg,"TidyTuesday, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz, Tate",3,2021,1350147811682250752,Links included,Image
+2021-01-16T03:01:30Z,http://pbs.twimg.com/media/Er0lLhwVQG4TgrI.png,TidyTuesday,3,2021,1350276968734855168,Links included,Image
+2021-01-16T06:08:54Z,http://pbs.twimg.com/media/Er1M6dwUYAIm_Bj.jpg,"TidyTuesday, tatemuseum, RStats, TIL",3,2021,1350324126913712128,Images-only,Image
+2021-01-16T10:15:36Z,http://pbs.twimg.com/media/Er2IWxsU0Ag8nlD.png,"TidyTuesday, RStats",3,2021,1350386211211206656,Links included,Image
+2021-01-16T12:02:12Z,http://pbs.twimg.com/media/Er2f5DFUcAQASlJ.jpg,"TidyTuesday, scico",3,2021,1350413036914266112,Links included,Image
+2021-01-16T13:33:58Z,http://pbs.twimg.com/media/Er207cbXAAAGo7Q.png,TidyTuesday,3,2021,1350436133356916736,Images-only,Image
+2021-01-16T18:24:50Z,http://pbs.twimg.com/media/Er33s7bXIAE5i0_.png,TidyTuesday,3,2021,1350509331293364224,Images-only,Image
+2021-01-16T20:14:48Z,http://pbs.twimg.com/media/Er4RZibXYAEzPOK.jpg,TidyTuesday,3,2021,1350537003830538240,Links included,Image
+2021-01-16T22:42:36Z,http://pbs.twimg.com/media/Er40EZrXYAAhGcQ.jpg,"TidyTuesday, Python, MatPlotLib",3,2021,1350574198834540544,Images-only,Image
+2021-01-17T01:36:43Z,http://pbs.twimg.com/media/Er5b7G7XcAY_ZkD.jpg,"TidyTuesday, Python, MatPlotLib",3,2021,1350618017940574208,Images-only,Image
+2021-01-17T04:06:51Z,http://pbs.twimg.com/media/Er59kSoW4AIPXeu.jpg,"TidyTuesday, RStats",3,2021,1350655799681556480,Links included,Image
+2021-01-17T14:01:34Z,http://pbs.twimg.com/media/Er8GaWzXAAETatA.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",3,2021,1350805465035321344,Links included,Image
+2021-01-17T15:10:48Z,http://pbs.twimg.com/media/Er8VRP5UwAAJ7Fe.jpg,"TidyTuesday, RStats",3,2021,1350822887624593410,Links included,Image
+2021-01-17T17:04:24Z,http://pbs.twimg.com/media/Er8wJHyXMAMZ6aC.jpg,"tidytuesday, RStats",3,2021,1350851478760599552,Links included,Image
+2021-01-17T21:20:15Z,http://pbs.twimg.com/media/Er9ql01XcAM97Y7.png,TidyTuesday,3,2021,1350915864149827589,Links included,Image
+2021-01-18T00:09:23Z,http://pbs.twimg.com/media/Er-RhZbXcAAYBTF.jpg,"TidyTuesday, RStats",3,2021,1350958427103748098,Images-only,Image
+2021-01-18T12:11:28Z,http://pbs.twimg.com/media/EsA2tPBXcAErTr7.png,TidyTuesday,3,2021,1351140146150780930,Links included,Image
+2021-01-18T12:12:49Z,http://pbs.twimg.com/media/EsA3EWiW4Ak2gME.jpg,TidyTuesday,3,2021,1351140484354367489,Links included,Image
+2021-01-18T13:37:38Z,http://pbs.twimg.com/media/EsBKXuuXMAgz0R4.jpg,tidytuesday,3,2021,1351161830207610882,Images-only,Image
+2021-01-18T14:54:54Z,http://pbs.twimg.com/media/EsBcEBTWMAQA3vm.png,tidytuesday,3,2021,1351181277446238211,Links included,Image
+2021-01-18T16:30:08Z,http://pbs.twimg.com/media/EsBxJLsXAAM2yHM.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",3,2021,1351205241010720770,Links included,Image
+2021-01-18T17:30:55Z,http://pbs.twimg.com/media/EsB98_5W4CwxHK9.jpg,TidyTuesday,3,2021,1351220540594397184,Links included,Image
+2021-01-18T18:32:05Z,http://pbs.twimg.com/media/EsCNR8UXEAM-xnO.jpg,"TidyTuesday, ggplot, R",3,2021,1351235930636562434,Links included,Image
+2021-01-18T19:37:34Z,http://pbs.twimg.com/media/EsCb2e1XIAQvhxG.jpg,"rstats, Tidytuesday, rstats, Tidytuesday",3,2021,1351252410262544386,Links included,Image
+2021-01-18T20:06:11Z,http://pbs.twimg.com/media/EsChGhLXcAI69lG.jpg,"TidyTuesday, RStats",3,2021,1351259611727355907,Images-only,Image
+2021-01-18T21:26:29Z,http://pbs.twimg.com/tweet_video_thumb/EsCFsLJXMBIs5JA.jpg,"TidyTuesday, dataviz, gganimate, rstats, SDPD",3,2021,1351279821062488066,Images-only,
+2021-01-18T21:33:48Z,http://pbs.twimg.com/media/EsC3gf8UYAsxl3r.jpg,TidyTuesday,3,2021,1351281661250396160,Images-only,Image
+2021-01-18T21:37:22Z,http://pbs.twimg.com/media/EsC2aWfXMAceV1I.jpg,"tidytuesday, rstats",3,2021,1351282561763454976,Links included,Image
+2021-01-18T21:49:00Z,http://pbs.twimg.com/media/EsCRn6uXMAApPyP.jpg,TidyTuesday,3,2021,1351285486267019265,Links included,Image
+2021-01-18T22:00:14Z,http://pbs.twimg.com/media/EsC8HDyWMAIgR7l.png,"TidyTuesday, ggplot2, rstats",3,2021,1351288312200364034,Images-only,Image
+2021-01-18T22:33:48Z,http://pbs.twimg.com/media/EsDFOHjXUAM4aNE.png,"TidyTuesday, TidyTuesday",3,2021,1351296763605475330,Links included,Image
+2021-01-18T22:37:52Z,http://pbs.twimg.com/media/EsDDF1zXIAA7lJA.jpg,"TidyTuesday, RStats, dataviz",3,2021,1351297785115635718,Links included,Image
+2021-01-18T23:55:21Z,http://pbs.twimg.com/media/EsDW_IvW8AI3xJp.jpg,"TidyTuesday, tatemuseum, RStats",3,2021,1351317283692535813,Links included,Image
+2021-01-19T00:09:47Z,http://pbs.twimg.com/media/EsDa1fIXcAYStcc.png,"TidyTuesday, RStats",3,2021,1351320915750088707,Images-only,Image
+2021-01-19T00:58:57Z,http://pbs.twimg.com/media/EsDmHeGW8AAtPDi.jpg,"TidyTuesday, r4ds, rstats",3,2021,1351333291362807809,Links included,Donut chart with 7091 slices containing the 10 dominant colours in each 7091 watercolours in the Tate collection
+2021-01-19T02:50:28Z,http://pbs.twimg.com/media/EsD-lVWXcAApY6T.jpg,"rstats, TidyTuesday",3,2021,1351361353869647883,Links included,Image
+2021-01-19T04:18:08Z,http://pbs.twimg.com/media/EsETDLyXYAAyadv.jpg,"TidyTuesday, rstats",3,2021,1351383417783521285,Links included,Image
+2021-01-19T04:49:06Z,http://pbs.twimg.com/media/EsChGhLXcAI69lG.jpg,"TidyTuesday, RStats",3,2021,1351391210993295364,Images-only,Image
+2021-01-19T05:08:36Z,http://pbs.twimg.com/media/EsBxJLsXAAM2yHM.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",3,2021,1351396114541522947,Links included,Image
+2021-01-19T05:32:42Z,http://pbs.twimg.com/media/EsEk0uwXIAEr2xl.png,"rstats, TidyTuesday, theme_ft_rc",3,2021,1351402180843077632,Links included,Image
+2021-01-19T06:53:31Z,http://pbs.twimg.com/media/EsE3lT7VoAIsYlR.jpg,"TidyTuesday, tatemuseum, RStats",3,2021,1351422517844459522,Links included,Image
+2021-01-19T08:01:43Z,http://pbs.twimg.com/media/EsFHM1TXIBkIF4r.jpg,"TidyTuesday, rstats, r4ds, dataviz",3,2021,1351439681825738752,Links included,Image
+2021-01-19T08:41:28Z,http://pbs.twimg.com/media/EsFQU_iWMAAVBPx.jpg,"Rstats_FR, TidyTuesday, rspatial",3,2021,1351449686046093312,Links included,Image
+2021-01-19T09:00:55Z,http://pbs.twimg.com/media/EsFSZOhXEAAkFKt.jpg,"rstatsFR, TidyTuesday",3,2021,1351454581914525701,Links included,Image
+2021-01-19T09:15:26Z,http://pbs.twimg.com/media/EsFXCpAW8AEaKpH.png,"TidyTuesday, rstats, r4ds",3,2021,1351458235346284545,Links included,Image
+2021-01-19T11:36:11Z,http://pbs.twimg.com/media/EsF4Gs8XYAEf0at.png,TidyTuesday,3,2021,1351493654964281351,Images-only,Image
+2021-01-19T12:39:23Z,http://pbs.twimg.com/media/EsGGx7RXAAAMMjf.jpg,"TidyTuesday, rKenyaCensus, biscale",3,2021,1351509561665060868,Links included,Image
+2021-01-19T12:56:09Z,http://pbs.twimg.com/media/EsGKMEuXMAE0AlO.jpg,"TidyTuesday, rstats",3,2021,1351513779801088000,Links included,Image
+2021-01-19T13:39:28Z,http://pbs.twimg.com/media/EsGUiBQXUAAfy12.jpg,"TidyTuesday, rstats",3,2021,1351524681606639616,Links included,Image
+2021-01-19T13:49:27Z,http://pbs.twimg.com/media/EsGWzQ6XEAEKBZl.jpg,TidyTuesday,3,2021,1351527194007400448,Links included,Image
+2021-01-19T14:15:20Z,http://pbs.twimg.com/media/EsGX642XEAAPQQ-.jpg,TidyTuesday,3,2021,1351533705177784322,Images-only,Image
+2021-01-19T14:22:45Z,http://pbs.twimg.com/media/EsGebo5XIAAesfW.png,"TidyTuesday, rstats",3,2021,1351535574495203329,Links included,
+2021-01-19T15:38:41Z,http://pbs.twimg.com/media/EsGv0YSXcAAMIZe.jpg,"TidyTuesday, tmap, dataviz, r4ds",3,2021,1351554681156366346,Links included,Image
+2021-01-19T15:55:31Z,http://pbs.twimg.com/media/EsGyIkwWMAUuVlk.jpg,TidyTuesday,3,2021,1351558918464561152,Links included,Image
+2021-01-19T16:31:47Z,http://pbs.twimg.com/media/EsG7-EeXAAMJlmJ.jpg,"coffee, TidyTuesday",3,2021,1351568045714645000,Links included,Image
+2021-01-19T17:02:08Z,http://pbs.twimg.com/media/EsG_dOcXIAA9Zrz.jpg,"rstats, tidytuesday",3,2021,1351575682791469060,Images-only,Image
+2021-01-19T17:15:07Z,http://pbs.twimg.com/media/EsHFoGTXcAAlVJe.jpg,"TidyTuesday, DataScience, DataVisualization, RStats",3,2021,1351578950330441731,Links included,A map of Kenya showing the differences in the proportion of males and females attending university.
+2021-01-19T17:22:53Z,http://pbs.twimg.com/media/EsHHJrcW8AMyNFU.jpg,"TidyTuesday, RStats",3,2021,1351580902770532355,Links included,Image
+2021-01-19T18:28:16Z,http://pbs.twimg.com/media/EsHV3RxW8AEQQkK.jpg,"TidyTuesday, rstats",3,2021,1351597359675924482,Images-only,Image
+2021-01-19T18:34:23Z,http://pbs.twimg.com/media/EsHW8_sXEAAtCJy.png,"TidyTuesday, rstats",3,2021,1351598897588826117,Links included,Image
+2021-01-19T18:42:28Z,http://pbs.twimg.com/media/EsHYXVzXcAAytlB.png,"TidyTuesday, RStats",3,2021,1351600930760908800,Links included,Image
+2021-01-19T18:49:55Z,http://pbs.twimg.com/media/EsHaFgcW8AY2sPz.png,"TidyTuesday, RStats",3,2021,1351602807384788994,Links included,Image
+2021-01-19T19:21:27Z,http://pbs.twimg.com/media/EsHeR14VoAAfulI.jpg,"tidytuesday, rstats",3,2021,1351610743653691392,Links included,Image
+2021-01-19T19:23:59Z,http://pbs.twimg.com/media/EsHPxtQXcAIIbg3.png,TidyTuesday,3,2021,1351611380521119752,Images-only,Image
+2021-01-19T19:24:00Z,http://pbs.twimg.com/media/EsHPKbnXUAEV_wo.png,"ridgeplot, TidyTuesday",3,2021,1351611383289413640,Images-only,Image
+2021-01-19T19:24:03Z,http://pbs.twimg.com/media/EsHKSeYWMAciMDt.png,TidyTuesday,3,2021,1351611397550043140,Images-only,Image
+2021-01-19T19:26:24Z,http://pbs.twimg.com/media/EsHiRBqXMAAQYF_.jpg,"TidyTuesday, RStats, ggplot2",3,2021,1351611987697033216,Links included,Image
+2021-01-19T19:40:07Z,http://pbs.twimg.com/media/EsHnE4NWMAI_kJS.jpg,"TidyTuesday, RStats",3,2021,1351615438795509762,Images-only,Image
+2021-01-19T20:26:23Z,http://pbs.twimg.com/media/EsHw_4HW8AU8c1u.png,TidyTuesday,3,2021,1351627083940823046,Links included,Image
+2021-01-19T21:37:58Z,http://pbs.twimg.com/tweet_video_thumb/EsIByeJW4Acu6Rd.jpg,"TidyTuesday, r4ds, tidyverse, rstats",3,2021,1351645098220670981,Links included,
+2021-01-19T22:07:28Z,http://pbs.twimg.com/media/EsIH29SXcAs1a-I.png,"tidytuesday, rstats, dataviz",3,2021,1351652522075807756,Links included,Image
+2021-01-19T22:47:07Z,http://pbs.twimg.com/media/EsIRvGDXAAICVUw.jpg,"TidyTuesday, rstats, dataviz, r4ds, ggplot2",3,2021,1351662500186619910,Links included,Image
+2021-01-19T22:59:33Z,http://pbs.twimg.com/media/EsIUtsGXcAYnA7k.png,"rstudioglobal, TidyTuesday, rstats",3,2021,1351665628013355008,Images-only,cool plot!
+2021-01-19T23:12:59Z,http://pbs.twimg.com/media/EsIXYODWMAEQ8xQ.png,"TidyTuesday, rstats",3,2021,1351669010400747524,Links included,Image
+2021-01-20T00:12:44Z,http://pbs.twimg.com/media/EsIlDBSXYAM-blm.jpg,"TidyTuesday, Rstats, r4ds",3,2021,1351684048901566467,Links included,Image
+2021-01-20T01:10:54Z,http://pbs.twimg.com/media/EsIywuQVQAE8wfs.jpg,"TidyTuesday, sdpd, dataviz, leaflet, rstats, SDPD",3,2021,1351698685504090113,Links included,Image
+2021-01-20T01:48:49Z,http://pbs.twimg.com/media/EsI7ciKXIAM47s9.jpg,tidytuesday,3,2021,1351708226006429696,Links included,Image
+2021-01-20T04:07:49Z,http://pbs.twimg.com/media/EsJbKueUcAE2Vij.png,"TidyTuesday, RStats, GGPlot2, DataViz",3,2021,1351743207567028226,Links included,A bar graph showing the population in each county in Kenya in 2019 with the portion of the population that identified as female highlighted in purple. 
+2021-01-20T04:30:53Z,http://pbs.twimg.com/media/EsJgC20UwAQX8jk.jpg,TidyTuesday,3,2021,1351749010952921091,Links included,Image
+2021-01-20T06:37:32Z,http://pbs.twimg.com/media/EsJ8fSYVkAwe6sp.jpg,"TidyTuesday, rstats",3,2021,1351780885784195076,Links included,Image
+2021-01-20T06:44:00Z,http://pbs.twimg.com/media/EsJ-aUyU0AADldY.jpg,"TidyTuesday, ggplot, leaflet",3,2021,1351782510460452869,Links included,Image
+2021-01-20T07:29:54Z,http://pbs.twimg.com/media/EsKJh7MXUAAYHtB.png,"TidyTuesday, rstats",3,2021,1351794062626578432,Links included,Image
+2021-01-20T11:54:35Z,http://pbs.twimg.com/media/EsLF2flVkAIKfOj.png,"tidytuesday, r4ds, Rstats",3,2021,1351860675191087110,Links included,Image
+2021-01-20T13:44:30Z,http://pbs.twimg.com/media/EsLe280XYAMWSUG.png,"ggplot2, rstats, dataviz, TidyTuesday",3,2021,1351888335980154882,Links included,Image
+2021-01-20T14:21:10Z,http://pbs.twimg.com/media/EsLnqqwXYAAYPiy.jpg,"TidyTuesday, rKenyaCensus",3,2021,1351897562501025796,Links included,Image
+2021-01-20T19:00:34Z,http://pbs.twimg.com/media/EsMngCxXAAIA-f4.jpg,"tidytuesday, rstats, dataviz, TidyTuesday, ggplot2",3,2021,1351967877214187521,Links included,Image
+2021-01-20T19:01:20Z,http://pbs.twimg.com/media/EsMnye_VcAE5XlO.jpg,"tidytuesday, week4, ggplot2, rstats, dplyr, dataviz",3,2021,1351968067840925697,Images-only,
+2021-01-20T19:35:24Z,http://pbs.twimg.com/media/EsMvcD5XMAA6auL.jpg,"TidyTuesday, Rstats, tidyverse, ggplot2, dataviz, rspatial, gischat",3,2021,1351976640256090119,Links included,Image
+2021-01-20T21:35:41Z,http://pbs.twimg.com/media/EsNHh5-WMAIwi3a.jpg,"TidyTuesday, rstats",3,2021,1352006912922017792,Links included,"Dumbbel dot plot showing the number of urban and rural population in Kenya's counties. Only four counties in Kenya have a predominant urban population, this are: Nairobi (Kenya's capital), Kiambu, Mombasa and Kajiado. The other 43 counties have a predominant rural population."
+2021-01-20T21:59:35Z,http://pbs.twimg.com/media/EsNQNaIWMAEM0SZ.png,"TidyTuesday, Rstats",3,2021,1352012926832570368,Links included,Image
+2021-01-20T22:10:43Z,http://pbs.twimg.com/media/EsNQ3YlXYAEWELk.png,"TidyTuesday, RStats, R4DS, rKenyaCensus",3,2021,1352015728019435522,Links included,Image
+2021-01-20T22:43:21Z,http://pbs.twimg.com/media/EsNacMHXIAAU2Fw.jpg,TidyTuesday,3,2021,1352023940114354179,Links included,Image
+2021-01-21T03:24:33Z,http://pbs.twimg.com/media/EsOa1_mXIAEDWlR.jpg,"TidyTuesday, Rstats",3,2021,1352094708789608448,Links included,Image
+2021-01-21T09:43:30Z,http://pbs.twimg.com/media/EsPxoPYUYAERRYb.jpg,TidyTuesday,3,2021,1352190070883643395,Links included,Image
+2021-01-21T10:38:48Z,http://pbs.twimg.com/media/EsP-JdvXMAATKF7.jpg,TidyTuesday,3,2021,1352203989509693440,Links included,
+2021-01-21T13:34:08Z,http://pbs.twimg.com/media/EsQk22NXMAI4WEd.jpg,"TidyTuesday, RStats, dataviz",3,2021,1352248112757301255,Links included,Image
+2021-01-21T14:01:03Z,http://pbs.twimg.com/media/EsQr-gxXIAMUaWJ.jpg,"TidyTuesday, RStats, dataviz, rKenyaCensus, ggplot2",3,2021,1352254889502638080,Links included,Image
+2021-01-21T14:50:38Z,http://pbs.twimg.com/media/EsQ3AwiWMAMuvI6.png,"TidyTuesday, rKenyaCensus, rstats, r4ds, ggplot2, R4Ds",3,2021,1352267366869184514,Images-only,Image
+2021-01-21T15:33:08Z,http://pbs.twimg.com/media/EsRBbJGXEAI8KQN.jpg,TidyTuesday,3,2021,1352278060754731008,Links included,Image
+2021-01-21T15:44:37Z,http://pbs.twimg.com/media/EsRBrjdW8AIH2OI.jpg,"TidyTuesday, rstats, ggplot2, tidyverse, r4ds, dataviz",3,2021,1352280950114287622,Links included,Image
+2021-01-21T22:48:10Z,http://pbs.twimg.com/media/EsSjx9JXAAgC5YN.jpg,TidyTuesday,3,2021,1352387539907325958,Links included,Image
+2021-01-22T00:39:06Z,http://pbs.twimg.com/media/EsS-C5DXIAYdHbg.jpg,TidyTuesday,4,2021,1352415458604015634,Links included,Image
+2021-01-22T09:15:44Z,http://pbs.twimg.com/media/EsU07rwW8AASimy.jpg,"TidyTuesday, rstats",4,2021,1352545471328346112,Links included,Image
+2021-01-22T09:20:48Z,http://pbs.twimg.com/media/EsU168NW4AAbB2Z.jpg,TidyTuesday,4,2021,1352546749928366081,Images-only,Image
+2021-01-22T14:26:17Z,http://pbs.twimg.com/media/EsV7nV0XEAAGvLW.png,"TidyTuesday, rstats",4,2021,1352623626357501953,Links included,Image
+2021-01-22T17:32:55Z,http://pbs.twimg.com/media/EsWmhB_XUAEwSlr.jpg,"TidyTuesday, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz",4,2021,1352670593150296064,Links included,Image
+2021-01-22T18:38:01Z,http://pbs.twimg.com/media/EsW0xyWXEAANT3f.jpg,"TidyTuesday, rstats",4,2021,1352686974461595648,Links included,Image
+2021-01-22T19:49:56Z,http://pbs.twimg.com/media/EsXF7obU4AEfCFT.png,"TidyTuesday, rstats",4,2021,1352705074531721216,Links included,Image
+2021-01-22T20:13:23Z,http://pbs.twimg.com/media/EsXLVnDXMAEdlLQ.jpg,"TidyTuesday, rstats, rspatial",4,2021,1352710977192665090,Images-only,Image
+2021-01-22T22:18:55Z,http://pbs.twimg.com/media/EsXnq5QXEAA6p2s.jpg,TidyTuesday,4,2021,1352742567683764224,Links included,Image
+2021-01-23T10:20:12Z,http://pbs.twimg.com/media/EsaNRnKWMAA-Z_d.png,"TidyTuesday, rstats, datascience",4,2021,1352924083793629184,Links included,Image
+2021-01-23T11:12:03Z,http://pbs.twimg.com/media/EsaWrs2UYAUMgJq.jpg,"RStats, TidyTuesday",4,2021,1352937132038320135,Images-only,Image
+2021-01-23T15:43:22Z,http://pbs.twimg.com/media/EsbXJjcXIAAu5JB.jpg,"TidyTuesday, rKenyaCensus, rstats, r4ds, dataviz",4,2021,1353005412992372736,Links included,Image
+2021-01-23T17:43:56Z,http://pbs.twimg.com/media/Esbw5SKXYAMp06S.jpg,"TidyTuesday, RStats, RstatsFR",4,2021,1353035752658104322,Images-only,Image
+2021-01-23T17:58:05Z,http://pbs.twimg.com/media/Esb16-kXYAg2EhO.png,"tidytuesday, ggplot2, RStats, R4ds",4,2021,1353039312464584709,Links included,Image
+2021-01-23T19:40:05Z,http://pbs.twimg.com/ext_tw_video_thumb/1353063876841992194/pu/img/EPH2ZlnYNuCjv2Qz.jpg,TidyTuesday,4,2021,1353064985648226305,Links included,
+2021-01-23T21:48:38Z,http://pbs.twimg.com/media/Escph_fW4AAmhnx.jpg,tidytuesday,4,2021,1353097336352878593,Links included,A graph of the street population of Kenya's counties as recorded by the 2019 Kenyan Population and Household Census. 
+2021-01-23T22:24:00Z,http://pbs.twimg.com/media/EscyhkYWMAE4Rm0.png,"TidyTuesday, rstats",4,2021,1353106233616707584,Links included,Image
+2021-01-24T06:17:57Z,http://pbs.twimg.com/media/EseW-nuVkAAk_-U.jpg,"TidyTuesday, EconTwitter, RStats, EarthEngine",4,2021,1353225508884865026,Links included,Image
+2021-01-24T06:17:59Z,http://pbs.twimg.com/media/EseZw8tVoAEIPFz.jpg,TidyTuesday,4,2021,1353225514589147136,Images-only,Image
+2021-01-24T07:50:39Z,http://pbs.twimg.com/media/Ese0nCHUcAE0lzQ.jpg,TidyTuesday,4,2021,1353248835137490946,Links included,Image
+2021-01-24T08:44:28Z,http://pbs.twimg.com/media/EsfA1thU0AEUdW8.jpg,"TidyTuesday, RStats",4,2021,1353262378310266881,Links included,Image
+2021-01-24T09:01:17Z,http://pbs.twimg.com/media/EsfECuCXUAArNpO.jpg,TidyTuesday,4,2021,1353266612779020289,Links included,Image
+2021-01-24T11:09:29Z,http://pbs.twimg.com/media/Esfhwh5U0AAS35Z.jpg,"tidytuesday, rstats",4,2021,1353298874803261440,Links included,Image
+2021-01-24T12:39:14Z,http://pbs.twimg.com/media/Esf2sKLXAAAz-hZ.jpg,TidyTuesday,4,2021,1353321461012946944,Links included,Image
+2021-01-24T14:01:14Z,http://pbs.twimg.com/media/EsgJd2yW8AAu_oC.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",4,2021,1353342098439811072,Links included,Image
+2021-01-24T14:24:31Z,http://pbs.twimg.com/media/EsgOBcYXEAEgYs7.jpg,"TidyTuesday, RStats",4,2021,1353347958314590208,Links included,Image
+2021-01-24T16:44:45Z,http://pbs.twimg.com/media/EsgudzOXcAEaAIj.jpg,"TidyTuesday, r4ds, RStats, dataviz, kenyancoffee",4,2021,1353383247997071360,Links included,Image
+2021-01-24T17:10:42Z,http://pbs.twimg.com/media/Esg0MHIXYAArEMv.png,"TidyTuesday, rstats, r4ds, rstats",4,2021,1353389777433882627,Images-only,Image
+2021-01-24T23:41:17Z,http://pbs.twimg.com/media/EsiOGS7XIAgykrE.png,"RStats, tidyTuesday",4,2021,1353488072575488002,Images-only,Image
+2021-01-25T01:37:05Z,http://pbs.twimg.com/media/EsiotxJVoAAuYoy.jpg,"66DaysOfData, dataviz, TidyTuesday, AVOCADO, rstats, datascience",4,2021,1353517213567700992,Links included,Image
+2021-01-25T03:41:25Z,http://pbs.twimg.com/media/EsjD43mWMAEW3pZ.jpg,"TidyTuesday, RStats, dataviz",4,2021,1353548503260258305,Links included,Image
+2021-01-25T08:13:45Z,http://pbs.twimg.com/media/EskDXDtUcAAZALB.jpg,TidyTuesday,4,2021,1353617039147950081,Links included,Image
+2021-01-25T15:41:31Z,http://pbs.twimg.com/media/EsloeUPWMAIzA9N.png,"TidyTuesday, RStats, RstatsFR",4,2021,1353729720224002048,Links included,Image
+2021-01-25T15:45:31Z,http://pbs.twimg.com/media/EslqSg9W8AAvBrr.png,"TidyTuesday, RStats, RstatsFR, rKenyaCensus",4,2021,1353730728706650112,Images-only,Image
+2021-01-25T15:48:04Z,http://pbs.twimg.com/media/EslrSlqXcAIl1qw.png,"TidyTuesday, RStats, RstatsFR, rKenyaCensus",4,2021,1353731371731181569,Images-only,Image
+2021-01-25T15:57:07Z,http://pbs.twimg.com/media/EsltFQhXIAE5r0L.jpg,"tidytuesday, rstats",4,2021,1353733649712242701,Images-only,Image
+2021-01-25T16:01:44Z,http://pbs.twimg.com/media/EsltyQ3WMAEuSEC.jpg,"TidyTuesday, RStats, RstatsFR, rKenyaCensus",4,2021,1353734808732655623,Images-only,Image
+2021-01-26T02:19:13Z,http://pbs.twimg.com/media/Esn79R5W8AEZz7I.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",4,2021,1353890205535772673,Links included,Image
+2021-01-26T07:38:31Z,http://pbs.twimg.com/media/EspBsJDVkAUeBgJ.jpg,TidyTuesday,4,2021,1353970560431050756,Links included,Image
+2021-01-26T07:53:06Z,http://pbs.twimg.com/media/EspIRo8XYAA7BGs.jpg,"warmingstripes, COVID19, pandemic, Rstats, ggplot2, TidyTuesday, MaskUp, WashYourHands, vaccine",4,2021,1353974230006833153,Images-only,Image
+2021-01-26T08:25:53Z,http://pbs.twimg.com/media/EspPw4GUYAAwAPc.jpg,"TidyTuesday, TIL, breakfreefromplastic",4,2021,1353982479451840512,Links included,Image
+2021-01-26T10:04:44Z,http://pbs.twimg.com/media/EspmZgxXUAAUAQN.jpg,TidyTuesday,4,2021,1354007354770075650,Images-only,Image
+2021-01-26T12:35:13Z,http://pbs.twimg.com/media/EsqI4luXIAEBm_M.jpg,"TidyTuesday, DataScience, DataVisualization, RStats",4,2021,1354045224230805505,Links included,Plots showing the proportions of different types of plastic found during cleanups in nine different countries. 
+2021-01-26T14:58:15Z,http://pbs.twimg.com/media/EsqppaGXIAA9_oV.jpg,"tidytuesday, thebrandaudit2020, rstats, r4ds",4,2021,1354081221232439310,Links included,Image
+2021-01-26T15:49:58Z,http://pbs.twimg.com/media/Esq1h5QXEAA5jDF.jpg,"TidyTuesday, ggplot, DataVisualization, dataviz, RStats",4,2021,1354094235742564354,Links included,Image
+2021-01-26T16:06:22Z,http://pbs.twimg.com/media/Esq5R88XMAMCime.png,"tidytuesday, rstats",4,2021,1354098361717182464,Images-only,Image
+2021-01-26T16:11:08Z,http://pbs.twimg.com/media/Esq6TnyXMAABNFG.png,"TidyTuesday, Rstats, ggplot2, dataviz, DataVisualization",4,2021,1354099564324782080,Links included,Image
+2021-01-26T17:23:21Z,http://pbs.twimg.com/media/EsrKPFYVcAAlaDo.jpg,"TidyTuesday, RStats",4,2021,1354117735509159936,Links included,Image
+2021-01-26T18:58:56Z,http://pbs.twimg.com/media/EsrgyE4XIAYtBL4.jpg,"TidyTuesday, RStats",4,2021,1354141792665481224,Images-only,Image
+2021-01-26T19:11:23Z,http://pbs.twimg.com/media/EsrjoWZWMAESQHm.jpg,"TidyTuesday, RStats, ggplot2, R4ds",4,2021,1354144925051400192,Images-only,Image
+2021-01-26T19:32:26Z,http://pbs.twimg.com/media/Esrnr9hVEAAoJui.jpg,TidyTuesday,4,2021,1354150223447134208,Links included,Image
+2021-01-26T20:54:28Z,http://pbs.twimg.com/media/Esr5zpmXUAM0ZBO.jpg,"TidyTuesday, RStats",4,2021,1354170866838491138,Links included,"Data visualization: Where does all this plastic pollution come from? Brand audits in 2020 revealed that out of 53 participating countries, the top plastic pollution source was The Coca-Cola Company in 18 countries. The second highest source (Philip Morris International) was the top source in 5 countries. A world map on a light blue background. Countries shaded yellow have Coca-Cola as their number 1 plastic pollution source (including Argentina, Australia, Benin, Brazil, Bulgaria, El Salvador, Italy, Kenya, Malaysia, Mexico, Montenegro, Nigeria, Romania, South Africa, Switzerland, Tanzania, Thailand, and Ukraine). Countries with other top pollution sources are shaded dark blue. Created by @kllycttn, Data from Break Free From Plastic, #TidyTuesday"
+2021-01-26T21:12:40Z,http://pbs.twimg.com/media/Esr-nDZU0AAEXlC.png,"TidyTuesday, BreakFreeFromPlastic, rstats",4,2021,1354175444992499713,Links included,Image
+2021-01-26T21:46:40Z,http://pbs.twimg.com/media/EssGw9tXcAEB6Ig.png,"TidyTuesday, RStats",4,2021,1354184005030211586,Links included,Image
+2021-01-26T22:28:25Z,http://pbs.twimg.com/media/EssQmNEXAAI7RBR.jpg,"TidyTuesday, rstats",4,2021,1354194509433864206,Links included,Image
+2021-01-26T22:38:07Z,http://pbs.twimg.com/media/EssQ-PPXYAU2_nf.jpg,TidyTuesday,4,2021,1354196949415702528,Links included,Image
+2021-01-26T23:16:51Z,http://pbs.twimg.com/media/EssbBTXU0AAcwiN.jpg,TidyTuesday,4,2021,1354206697951137792,Links included,"A pictograph where each picture represents one of six types of plastic found. In the visualization, polyester plastic is the most found plastic pollution type and PVC is the least. "
+2021-01-26T23:43:50Z,http://pbs.twimg.com/media/Essg4Z9XcAUQAa-.png,"TidyTuesday, RStats, RStatsFR, r4ds",4,2021,1354213487958962177,Images-only,Image
+2021-01-27T00:13:04Z,http://pbs.twimg.com/media/EssoanlWMAQpJ3x.jpg,TidyTuesday,4,2021,1354220846370459648,Links included,Image
+2021-01-27T00:53:23Z,http://pbs.twimg.com/media/Essx5AOXUAA48iW.jpg,"TidyTuesday, RStats, r4ds",4,2021,1354230989736837122,Links included,Image
+2021-01-27T02:15:32Z,http://pbs.twimg.com/media/EstEsfoXAAA2R4w.png,"TidyTuesday, rstats, savetheplanet",4,2021,1354251664220430337,Images-only,Image
+2021-01-27T03:02:17Z,http://pbs.twimg.com/media/EstM9teXUAgW4r-.jpg,TidyTuesday,4,2021,1354263431008890880,Images-only,Image
+2021-01-27T03:36:54Z,http://pbs.twimg.com/media/EstXJxOXcAIpZJG.jpg,"TidyTuesday, Rstats",4,2021,1354272142272159745,Links included,Image
+2021-01-27T03:40:03Z,http://pbs.twimg.com/media/EstX_GoUYAAZOmd.jpg,"66DaysOfData, tidyTuesday, rstats, dataviz, datascience, dataanalytics",4,2021,1354272935796568067,Links included,Image
+2021-01-27T05:15:48Z,http://pbs.twimg.com/media/Estt-SoXYAIJ9-H.png,"TidyTuesday, rstats",4,2021,1354297031817383936,Links included,Image
+2021-01-27T07:22:41Z,http://pbs.twimg.com/media/EsuJ_i8U0AIvcNL.jpg,TidyTuesday,4,2021,1354328962139185158,Links included,Image
+2021-01-27T07:31:59Z,http://pbs.twimg.com/media/EsuMiZOUUAEMMla.jpg,"geofacet, TidyTuesday, RStats",4,2021,1354331303907192833,Links included,Image
+2021-01-27T16:54:20Z,http://pbs.twimg.com/media/EswNzmwXIAI_Aty.jpg,TidyTuesday,4,2021,1354472822505152512,Images-only,Image
+2021-01-27T16:59:07Z,http://pbs.twimg.com/media/EswOdY0W8AUzpjN.jpg,TidyTuesday,4,2021,1354474026840809473,Images-only,Image
+2021-01-27T17:04:53Z,http://pbs.twimg.com/media/EswO9CmXMAEr3zb.jpg,"TidyTuesday, DataVisualization",4,2021,1354475477705109505,Links included,Image
+2021-01-27T17:17:35Z,http://pbs.twimg.com/media/EswTI-OUYAAkUi6.jpg,"TidyTuesday, RStats",4,2021,1354478672602779653,Links included,Image
+2021-01-27T17:19:06Z,http://pbs.twimg.com/media/EswRa_eXUAAW9bx.png,"TidyTuesday, Breakfreefromplastic, RStats",4,2021,1354479056100667392,Images-only,Image
+2021-01-27T18:58:04Z,http://pbs.twimg.com/media/EswpLrVW8AY7afh.jpg,"rstats, dataviz, TidyTuesday, ggplot2",4,2021,1354503960938340358,Links included,Image
+2021-01-27T19:01:11Z,http://pbs.twimg.com/media/Eswq4uQXIAIPiL8.jpg,"TidyTuesday, rstats",4,2021,1354504745411608577,Links included,Image
+2021-01-27T19:28:26Z,http://pbs.twimg.com/media/Eswt9-yXcAsh2AC.png,"rstats, tidytuesday, breakfreefromplastic",4,2021,1354511602662461442,Links included,Image
+2021-01-27T19:41:37Z,http://pbs.twimg.com/media/Esw0AzLXUAEiZy1.png,"TidyTuesday, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz",4,2021,1354514922705743877,Links included,Image
+2021-01-27T19:48:51Z,http://pbs.twimg.com/media/Esw1vVxXEAE5S8i.png,"TidyTuesday, rstats, ggplot2",4,2021,1354516739866980357,Links included,Image
+2021-01-27T22:22:53Z,http://pbs.twimg.com/media/EsxY4bZW4AIptap.png,"TidyTuesday, RStats",4,2021,1354555504333303808,Links included,Image
+2021-01-27T22:23:51Z,http://pbs.twimg.com/media/EsxZFjIXEAUVlm0.jpg,"TidyTuesday, rstats",4,2021,1354555747967905794,Links included,Image
+2021-01-27T22:57:32Z,http://pbs.twimg.com/media/Esxf6FSXcAAQv46.png,"tidytuesday, RStats, RStatsFR, r4ds",4,2021,1354564223565758470,Links included,Image
+2021-01-27T23:00:31Z,http://pbs.twimg.com/media/EsxhisTXYAQAT4_.png,"TidyTuesday, rstats",4,2021,1354564977001164802,Links included,Image
+2021-01-28T00:15:33Z,http://pbs.twimg.com/media/Esxw3_EU0AMisSF.jpg,"TidyTuesday, breakfreefromplastics, rstats, dataviz",4,2021,1354583859107512324,Images-only,Image
+2021-01-28T01:19:17Z,http://pbs.twimg.com/media/Esx_hbeXcAkngh-.jpg,TidyTuesday,4,2021,1354599895806705666,Links included,Image
+2021-01-28T06:58:36Z,http://pbs.twimg.com/media/EszPEmsXAAEzHPV.jpg,TidyTuesday,4,2021,1354685291362197506,Links included,Image
+2021-01-28T08:13:54Z,http://pbs.twimg.com/media/Eszf6OnXYAIiaM-.png,"TidyTuesday, RStats",4,2021,1354704238966927362,Links included,Image
+2021-01-28T11:44:58Z,http://pbs.twimg.com/media/Es0P9R5XcAMPzo4.png,"TidyTuesday, r4ds, Tidyverse, RStats",4,2021,1354757355829927938,Links included,Image
+2021-01-28T14:22:39Z,http://pbs.twimg.com/media/Es00slzVEAA84_x.png,"TidyTuesday, rstats, rspatial, dataviz",4,2021,1354797038253133825,Links included,Image
+2021-01-28T18:24:42Z,http://pbs.twimg.com/media/Es1sH4wW4AQTY_d.jpg,"TidyTuesday, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz",4,2021,1354857953468231680,Links included,Image
+2021-01-28T19:24:01Z,http://pbs.twimg.com/media/Es1416aXUAYnUto.jpg,"TidyTuesday, rstats",4,2021,1354872878337044480,Links included,Image
+2021-01-28T19:29:31Z,http://pbs.twimg.com/media/Es152IMW8AEFYho.png,"TidyTuesday, breakfreefromplastic, RStats",4,2021,1354874265762455562,Links included,Image
+2021-01-28T23:30:13Z,http://pbs.twimg.com/media/Es2xLxcXYAccbJN.jpg,"TidyTuesday, Rstats",4,2021,1354934839548456969,Links included,Image
+2021-01-29T00:52:20Z,http://pbs.twimg.com/media/Es3E0mSXABc05TA.jpg,"TidyTuesday, rstats",5,2021,1354955502791380997,Links included,Image
+2021-01-29T01:03:47Z,http://pbs.twimg.com/media/Es3HK7DXcAA41Bq.png,"TidyTuesday, r4ds, rstats",5,2021,1354958383661666304,Links included,Image
+2021-01-29T02:23:19Z,http://pbs.twimg.com/media/Es3ZAf5VEAs_oE5.jpg,"tidytuesday, rstats",5,2021,1354978398523678721,Links included,Image
+2021-01-29T02:38:31Z,http://pbs.twimg.com/media/Es3cPUjW8AIM0D9.jpg,"RStats, TidyTuesday, dplyr",5,2021,1354982225994014722,Links included,Image
+2021-01-29T02:38:32Z,http://pbs.twimg.com/media/Es3cigsW4AQH5NI.jpg,"RStats, TidyTuesday",5,2021,1354982229747916800,Images-only,Image
+2021-01-29T05:14:38Z,http://pbs.twimg.com/media/Es4AsHkXUAAKhKh.png,"TidyTuesday, Rstats",5,2021,1355021511434887173,Images-only,"top_10_plastic_producers <- plastics %>% 
+  filter (!parent_company %in%  c(""Unbranded"",""null"", ""Grand Total"") ) %>% 
+  group_by(parent_company) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  filter(n >= 35) %>% 
+  pull(parent_company)
+  
+
+plastics %>% 
+  filter(parent_company %in% top_10_plastic_producers ) %>% 
+  select(parent_company, hdpe:pvc, -o)  %>% 
+  group_by(parent_company) %>% 
+  summarise(total_plastic ..."
+2021-01-29T10:48:52Z,http://pbs.twimg.com/media/Es5MxK1XMAEr1-N.jpg,"TidyTuesday, RStats",5,2021,1355105626104475648,Links included,Image
+2021-01-29T18:46:37Z,http://pbs.twimg.com/media/Es66khSVgAIXhsz.png,"TidyTuesday, RStats",5,2021,1355225855736209412,Links included,Image
+2021-01-29T19:35:41Z,http://pbs.twimg.com/media/Es7E8JrXEAgIe0i.jpg,"TidyTuesday, RStats",5,2021,1355238202022440966,Links included,Image
+2021-01-30T16:29:51Z,http://pbs.twimg.com/media/Es_kzBmXEAcO5gd.jpg,TidyTuesday,5,2021,1355553825034264581,Links included,Faceted bar chart about top companies within each geographical region by pieces of plastic pollution collected by BFFP volunteers
+2021-01-30T16:50:33Z,http://pbs.twimg.com/media/Es_pCpEXcAYh_Ed.png,"TidyTuesday, BreakFreeFromPlastic, rstats",5,2021,1355559036033314818,Links included,Image
+2021-01-30T18:04:04Z,http://pbs.twimg.com/media/Es_6kbxXEAg_PzH.png,TidyTuesday,5,2021,1355577536256815104,Links included,Image
+2021-01-30T18:35:16Z,http://pbs.twimg.com/media/EtABB6_UwAA9vwa.jpg,"TidyTuesday, RStats, GGPlot2, DataViz",5,2021,1355585388140589059,Links included,"Plastic waste is collected by volunteers around the world at Break Free from Plastic cleanup events. Volunteers track the number and types of plastic found by company. This alluvial plot shows the volume of plastic by type and company collected at events in 2020, for the  six companies with the most plastic found over all the events."
+2021-01-30T19:02:26Z,http://pbs.twimg.com/media/EtAEiZQXIAAnoNQ.jpg,TidyTuesday,5,2021,1355592224990502916,Images-only,"Infographic of the 2020 Break Free From Plastic Brand Audit report which covers 575 audits in 55 countries involving 14,794 volunteers collecting 346,494 items of plastic waste. 47,078 of these items came from just 9 companies: The Coca Cola Company, PepsiCo, Nestle, Unilever, Mondelez International, Mars Incorporates, Procter Gamble, Philip Morris International and Colgate Palmolive."
+2021-01-30T20:23:50Z,http://pbs.twimg.com/media/EtAakAOXIAIQkMd.jpg,"TidyTuesday, Python, MatPlotLib",5,2021,1355612710579351556,Images-only,Image
+2021-01-30T20:25:45Z,http://pbs.twimg.com/media/EtAYlfjXMAA7Max.jpg,TidyTuesday,5,2021,1355613189069795335,Links included,Image
+2021-01-30T22:49:20Z,http://pbs.twimg.com/media/EtA74DLXMAYgqzM.jpg,TidyTuesday,5,2021,1355649326408728576,Images-only,needs inspection
+2021-01-30T23:07:50Z,http://pbs.twimg.com/media/EtA_cWpXUAEiLP5.png,TidyTuesday,5,2021,1355653980194537482,Links included,Image
+2021-01-30T23:23:39Z,http://pbs.twimg.com/media/EtBBLZXUcAIjoLS.jpg,"tidytuesday, rstats, tidyverse",5,2021,1355657959947202560,Images-only,Image
+2021-01-31T00:17:26Z,http://pbs.twimg.com/media/EtBO6EGXUAAUQ2l.png,TidyTuesday,5,2021,1355671495658393603,Images-only,Image
+2021-01-31T13:55:48Z,http://pbs.twimg.com/media/EtELInWXEAQMy4Q.jpg,"TidyTuesday, RStats, dataviz",5,2021,1355877443572269057,Links included,Image

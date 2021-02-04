@@ -1,0 +1,710 @@
+tweet_date,image_url,hashtag_list,week,year,tweet_id,url_check,alt_text
+2018-04-02T21:35:08Z,http://pbs.twimg.com/media/DZzsGlnVQAAksHj.jpg,"R4DS, TidyTuesday, tidyverse, rstats, ggplot2",14,2018,980921600429252600,Links included,Image
+2018-04-03T04:17:21Z,http://pbs.twimg.com/media/DZ1KBuvVMAA1SOa.jpg,TidyTuesday,14,2018,981022819596124200,Links included,Image
+2018-04-03T09:04:01Z,http://pbs.twimg.com/media/DZ2Mq0gX4AAjrFt.jpg,"TidyTuesday, bathroom, LABCStyle, dreambathroom",14,2018,981094963470585900,Links included,Image
+2018-04-03T14:00:05Z,http://pbs.twimg.com/media/DZ3Op9oXcAA1LLV.jpg,"TidyTuesday, R4DS, rstats",14,2018,981169470033948700,Images-only,Image
+2018-04-03T15:20:51Z,http://pbs.twimg.com/media/DZ3hJb1VQAAs3IY.jpg,"TidyTuesday, rstats, dataviz",14,2018,981189796117663700,Links included,Image
+2018-04-03T18:05:02Z,http://pbs.twimg.com/media/DZ4H_8JW0AAmok3.jpg,tidytuesday,14,2018,98123111350605e4,Links included,Image
+2018-04-03T19:22:42Z,http://pbs.twimg.com/media/DZ4ZuJxWkAUyHIz.jpg,"TidyTuesday, rstats",14,2018,981250658899808300,Images-only,Image
+2018-04-03T20:23:26Z,http://pbs.twimg.com/media/DZ4oICtW0AAudAz.jpg,TidyTuesday,14,2018,981265942226309100,Links included,Image
+2018-04-03T22:19:29Z,http://pbs.twimg.com/media/DZ4_F3NWsAAiYmK.jpg,"TidyTuesday, rstats",14,2018,981295148251451400,Images-only,Image
+2018-04-03T22:37:43Z,http://pbs.twimg.com/media/DZ5G5nlVoAAMMaW.jpg,"TidyTuesday, rstats",14,2018,981299737524490200,Images-only,Image
+2018-04-04T03:12:56Z,http://pbs.twimg.com/tweet_video_thumb/DZ6F1T9WkAAD6nJ.jpg,"rstats, TuesdayThoughts, TidyTuesday",14,2018,981368998305632300,Images-only,
+2018-04-04T09:46:07Z,http://pbs.twimg.com/media/DZ7f2MVX4AE736b.jpg,"TidyTuesday, rstats, ggplot2",14,2018,981467944625549300,Images-only,Image
+2018-04-04T14:11:25Z,http://pbs.twimg.com/media/DZ8ZcwGUMAAYhwp.jpg,"r4ds, TidyTuesday",14,2018,981534709757988900,Links included,Image
+2018-04-04T16:53:08Z,http://pbs.twimg.com/media/DZ9BajfX4AAM9R9.jpg,"TidyTuesday, datablog",14,2018,981575407152529400,Links included,
+2018-04-04T21:06:41Z,http://pbs.twimg.com/tweet_video_thumb/DZ95fWlV4AAGggO.jpg,"TidyTuesday, rstats, maps, adaylate, r4ds",14,2018,981639213186678800,Links included,Image
+2018-04-05T04:14:07Z,http://pbs.twimg.com/tweet_video_thumb/DZ_dLBjUMAA05PU.jpg,"TidyTuesday, rstats, ggplot2, R4DS",14,2018,981746783775871e3,Links included,
+2018-04-05T07:13:42Z,http://pbs.twimg.com/media/DaAGieZU0AAZrfi.jpg,"TidyTuesday, tidyverse, rstats",14,2018,981791977552265200,Images-only,Image
+2018-04-05T14:14:35Z,http://pbs.twimg.com/media/DaBV2QnUMAA5yy7.jpg,TidyTuesday,14,2018,981897894163877900,Links included,Image
+2018-04-06T13:08:06Z,http://pbs.twimg.com/media/DaGhTSQU8AE55sF.jpg,"TidyTuesday, rstats, R4DS, blogdown, DataViz",14,2018,982243552808788e3,Links included,Image
+2018-04-06T14:30:33Z,http://pbs.twimg.com/media/DaGz4KyUMAAyNka.jpg,"TidyTuesday, R4DS",14,2018,982264299862175700,Links included,Image
+2018-04-08T10:20:22Z,http://pbs.twimg.com/tweet_video_thumb/DaQMGQlXkAAZ9UL.jpg,"TidyTuesday, rstats",14,2018,982926117228154900,Links included,
+2018-04-09T13:07:51Z,http://pbs.twimg.com/media/DaV2puzVMAUXIoL.jpg,"TidyTuesday, tidyverse, rstats, dataviz, ggplot2, r4ds",15,2018,983330650257272800,Links included,Image
+2018-04-09T16:34:21Z,http://pbs.twimg.com/media/DaWtPj2W0AAY7Z1.jpg,"rstats, ggplot2, TidyTuesday",15,2018,983382619009282e3,Images-only,Image
+2018-04-09T18:30:00Z,http://pbs.twimg.com/media/DaXHlM3W0AAYyDe.jpg,"TidyTuesday, ggplot2, stats",15,2018,983411722051518500,Images-only,Image
+2018-04-09T18:39:32Z,http://pbs.twimg.com/media/DaXIoEOXcAcee9d.jpg,tidytuesday,15,2018,983414124347523100,Links included,Image
+2018-04-09T22:51:02Z,http://pbs.twimg.com/media/DaYBgamX0AAbIPY.jpg,TidyTuesday,15,2018,983477414742384600,Links included,Image
+2018-04-10T02:03:02Z,http://pbs.twimg.com/media/DaYvB5cUwAEW6ia.jpg,"TidyTuesday, R4DS, rstats",15,2018,983525733858467800,Links included,Image
+2018-04-10T04:10:04Z,http://pbs.twimg.com/media/DaZLxbrUQAAllk7.jpg,"TidyTuesday, adobe, illustrator, rstats, tidyverse",15,2018,983557703325835300,Links included,Image
+2018-04-10T04:30:49Z,http://pbs.twimg.com/media/DaZQ1dQXUAAod4y.jpg,"TidyTuesday, rstats",15,2018,983562922797555700,Links included,needs inspection
+2018-04-10T06:22:53Z,http://pbs.twimg.com/media/DaZqq9JUQAAcCqT.jpg,TidyTuesday,15,2018,983591126752997400,Links included,Image
+2018-04-10T09:26:34Z,http://pbs.twimg.com/media/DaaT6QdWAAEsHre.jpg,TidyTuesday,15,2018,983637351938355200,Links included,Image
+2018-04-10T13:41:00Z,http://pbs.twimg.com/media/DabOzeGXkAAtPNG.jpg,"PowerPoint, rstats, TidyTuesday, tidyverse, PeopleAnalytics, PhD, research, dataviz",15,2018,983701382460043300,Images-only,Image
+2018-04-10T17:28:52Z,http://pbs.twimg.com/media/DacCmlhX4AAlnB7.jpg,"TidyTuesday, r4ds, rstats",15,2018,983758724983611400,Images-only,Image
+2018-04-10T18:39:26Z,http://pbs.twimg.com/tweet_video_thumb/DacTaUaU8AEGDAL.jpg,"TidyTuesday, rstats, dataviz, caterpillars",15,2018,983776487617724400,Links included,Image
+2018-04-10T19:25:33Z,http://pbs.twimg.com/media/DacdnCMXUAAXQG-.jpg,TidyTuesday,15,2018,983788091499515900,Links included,Image
+2018-04-10T22:39:37Z,http://pbs.twimg.com/media/DadKeCUVQAAhK1V.jpg,"TidyTuesday, tidyverse, rstats, ggplot2",15,2018,983836930826682400,Images-only,needs inspection
+2018-04-11T03:30:46Z,http://pbs.twimg.com/media/DaeMpsdWAAA8GZD.jpg,"TidyTuesday, rstats, tidyverse",15,2018,983910200242470900,Links included,Image
+2018-04-11T05:36:47Z,http://pbs.twimg.com/media/Daeo5BaUMAAO7FM.jpg,"TidyTuesday, r4ds, rstats",15,2018,983941913022640100,Links included,Image
+2018-04-11T13:30:59Z,http://pbs.twimg.com/media/DagWN43UwAE-XYl.jpg,"TidyTuesday, r4ds",15,2018,9.8406124964540006e+17,Images-only,Image
+2018-04-12T02:05:12Z,http://pbs.twimg.com/media/DajB11OXkAA0-3C.jpg,"TidyTuesday, rstats, R4DS",15,2018,984251055184760800,Links included,Image
+2018-04-15T20:05:39Z,http://pbs.twimg.com/media/Da2XHEFXcAYBr5z.jpg,"TidyTuesday, rstats",15,2018,985610121555468300,Images-only,Image
+2018-04-16T12:56:36Z,http://pbs.twimg.com/media/Da56Uh2UwAAqta-.jpg,"r4ds, TidyTuesday, tidyverse, rstats, dataviz, ggplot2",16,2018,985864534832402400,Links included,Image
+2018-04-16T12:56:37Z,http://pbs.twimg.com/media/Da59BLgVAAAbf7Y.jpg,"TidyTuesday, stringr, tidyverse, regex",16,2018,985864540427612200,Links included,Image
+2018-04-16T22:02:58Z,http://pbs.twimg.com/media/Da77dyTUwAAofEz.jpg,"TidyTuesday, rstats, tidyverse",16,2018,986002034628284400,Links included,Image
+2018-04-17T02:38:53Z,http://pbs.twimg.com/media/Da85slkWkAANCht.png,"TidyTuesday, r4ds",16,2018,986071469758263300,Images-only,Image
+2018-04-17T02:41:04Z,http://pbs.twimg.com/media/Da86zRaW0AAgMCf.jpg,"TidyTuesday, rstats, tidyverse",16,2018,986072017739841500,Links included,Image
+2018-04-17T04:04:36Z,http://pbs.twimg.com/tweet_video_thumb/Da9OLuVXkAUpDAs.jpg,"TidyTuesday, rstats, r4ds",16,2018,986093041139224600,Links included,needs inspection
+2018-04-17T05:02:35Z,http://pbs.twimg.com/media/Da9aqDRXcAIsjc-.jpg,"TidyTuesday, rstats, r4ds",16,2018,986107633974284300,Links included,Image
+2018-04-17T16:17:20Z,http://pbs.twimg.com/media/Da_1opcVAAMnR3a.jpg,"TidyTuesday, rstats, dataviz",16,2018,986277438266191900,Images-only,
+2018-04-17T17:06:16Z,http://pbs.twimg.com/media/DbABL5LWAAIgZoP.jpg,"rstats, DSlearning, r4ds, tidytuesday",16,2018,986289756517666800,Images-only,Image
+2018-04-17T17:41:31Z,http://pbs.twimg.com/media/DbAIVVYW4AAFjkI.png,"tidytuesday, r4ds, rstats",16,2018,986298625566404600,Images-only,Image
+2018-04-17T19:15:19Z,http://pbs.twimg.com/media/DbAd_NmX4AIwLDK.jpg,"TidyTuesday, rstats, R4DS",16,2018,986322230341664800,Links included,Image
+2018-04-17T21:02:31Z,http://pbs.twimg.com/media/DbA3AZOXkAEbBWW.jpg,"TidyTuesday, ggplot, rstats, dataviz",16,2018,986349208558096400,Links included,Image
+2018-04-17T21:27:34Z,http://pbs.twimg.com/media/DbA71q2XUAA66n1.jpg,TidyTuesday,16,2018,986355512152412200,Links included,Image
+2018-04-17T23:47:00Z,http://pbs.twimg.com/media/DbBckZdWAAA8i6F.jpg,"TidyTuesday, rstats, tidyverse",16,2018,986390601477345300,Images-only,Image
+2018-04-18T20:25:11Z,http://pbs.twimg.com/media/DbF4BHoU0AAUKgq.jpg,"rstats, R4DS, TidyTuesday",16,2018,986702200603840500,Links included,Image
+2018-04-18T22:09:59Z,http://pbs.twimg.com/media/DbGQLMdWkAIGCYl.jpg,TidyTuesday,16,2018,986728576673370100,Links included,Image
+2018-04-18T23:55:05Z,http://pbs.twimg.com/media/DbGn2yJUQAAfdlX.jpg,"TidyTuesday, rstats, dataviz, r4ds",16,2018,986755023156793300,Links included,Image
+2018-04-19T04:46:30Z,http://pbs.twimg.com/media/DbHrENHX0AAXUW-.jpg,"TidyTuesday, rstats, tidyverse",16,2018,986828363120676900,Links included,Image
+2018-04-19T10:12:50Z,http://pbs.twimg.com/media/DbI1irDX0AAjP9F.jpg,TidyTuesday,16,2018,986910487005814800,Images-only,Image
+2018-04-19T14:55:21Z,http://pbs.twimg.com/media/DbJ11bIVMAEkZDc.png,TidyTuesday,16,2018,986981583616786400,Images-only,Image
+2018-04-19T18:20:03Z,http://pbs.twimg.com/tweet_video_thumb/DbKjibpVMAAGjVM.jpg,"TidyTuesday, rstats, dataviz",16,2018,987033100071796700,Images-only,Image
+2018-04-20T06:10:38Z,http://pbs.twimg.com/media/DbNHArQUwAAitRD.jpg,"TidyTuesday, DataScience",16,2018,987211923027447800,Images-only,Image
+2018-04-20T21:59:42Z,http://pbs.twimg.com/media/DbQf2TOWsAAWrPu.jpg,TidyTuesday,16,2018,987450764485328900,Links included,
+2018-04-21T18:01:30Z,http://pbs.twimg.com/media/DbUz8zfX4AA7JVz.jpg,TidyTuesday,16,2018,987753207689564200,Images-only,Image
+2018-04-21T20:48:59Z,http://pbs.twimg.com/media/DbVYnE8V4AAvRC2.png,"TidyTuesday, rstats, r4ds",16,2018,987795353033494500,Images-only,Image
+2018-04-21T21:37:33Z,http://pbs.twimg.com/media/DbVlv2_W4AADxY3.jpg,"TidyTuesday, rstats, plotly",16,2018,987807575629541400,Images-only,Image
+2018-04-23T13:14:32Z,http://pbs.twimg.com/media/DbeFfIYVAAI8FmT.jpg,"TidyTuesday, Australia, rstats, tidyverse, r4ds",17,2018,988405763394719700,Links included,Image
+2018-04-23T14:17:09Z,http://pbs.twimg.com/media/DbeUDwmW4AAuO2r.jpg,"tidytuesday, ggplot2, rstats",17,2018,988421520165933e3,Images-only,
+2018-04-23T18:22:32Z,http://pbs.twimg.com/media/DbfL55WUwAUDDca.jpg,TidyTuesday,17,2018,988483275323781100,Images-only,
+2018-04-24T07:48:52Z,http://pbs.twimg.com/media/DbiEmMkU0AAb4qI.jpg,"TidyTuesday, rstats, r4ds",17,2018,988686193419345900,Images-only,Image
+2018-04-24T19:03:15Z,http://pbs.twimg.com/media/DbkelF_UwAAq_LK.jpg,"TidyTuesday, tidyverse, rstats",17,2018,988855911035883500,Links included,Image
+2018-04-24T20:34:01Z,http://pbs.twimg.com/media/Dbkz--zU0AEmTtJ.jpg,"TidyTuesday, Australia, rstats, tidyverse, r4ds, dataviz",17,2018,988878753228083200,Links included,Image
+2018-04-24T21:11:02Z,http://pbs.twimg.com/media/Dbk7aMwU0AAGLUw.jpg,"TidyTuesday, rstats",17,2018,988888066868723700,Links included,Image
+2018-04-24T22:25:57Z,http://pbs.twimg.com/media/DblNY8qU8AAX2L-.jpg,TidyTuesday,17,2018,988906922433794e3,Links included,Image
+2018-04-25T02:22:55Z,http://pbs.twimg.com/media/DbmDDF-U8AAWFPI.jpg,"TidyTuesday, rstats, tidyverse",17,2018,988966557131952100,Links included,Image
+2018-04-25T02:47:36Z,http://pbs.twimg.com/media/DbmJXSbUQAAupdq.jpg,"TidyTuesday, rstats",17,2018,988972766274637800,Links included,Image
+2018-04-25T03:02:31Z,http://pbs.twimg.com/media/DbmLuYUV4AAghhr.jpg,TidyTuesday,17,2018,988976520973750300,Images-only,Image
+2018-04-25T03:45:19Z,http://pbs.twimg.com/media/DbmWUVIU0AE9urR.jpg,TidyTuesday,17,2018,988987293158420500,Links included,Image
+2018-04-25T04:57:50Z,http://pbs.twimg.com/media/DbmnOpXW0AIBZm4.jpg,"TidyTuesday, rstats, tidyverse",17,2018,989005543011508200,Links included,Image
+2018-04-25T06:25:04Z,http://pbs.twimg.com/media/Dbm7N0MWsAE-oqC.jpg,"TidyTuesday, week4, tidyverse",17,2018,989027493817401300,Images-only,Image
+2018-04-25T07:16:18Z,http://pbs.twimg.com/media/DbnE3JWXcAAQjoJ.jpg,TidyTuesday,17,2018,989040385682038800,Links included,Women earn less than men in Australia's top-paying jobs
+2018-04-25T17:11:34Z,http://pbs.twimg.com/media/DbpMwMmUwAMnX7c.jpg,"TidyTuesday, r4ds, rstats, take2",17,2018,989190190798340100,Images-only,Image
+2018-04-25T21:22:19Z,http://pbs.twimg.com/tweet_video_thumb/DbqIGAiVMAAlUXB.jpg,TidyTuesday,17,2018,989253296287354900,Images-only,
+2018-04-26T14:30:57Z,http://pbs.twimg.com/media/Dbtz77YWAAE0wI7.jpg,"TidyTuesday, rstats",17,2018,989512160387784700,Images-only,Image
+2018-04-26T18:11:57Z,http://pbs.twimg.com/media/Dbul7jIXUAEnwqs.jpg,"r4ds, TidyTuesday, rstats, dataviz",17,2018,989567773360738300,Images-only,Image
+2018-04-26T18:59:05Z,http://pbs.twimg.com/media/DbuxYXmWkAALcym.jpg,"TidyTuesday, R4DS",17,2018,989579637477998600,Links included,Image
+2018-04-28T16:54:10Z,http://pbs.twimg.com/media/Db4nsQdVwAAr7P4.jpg,TidyTuesday,17,2018,990272974090465300,Images-only,Image
+2018-04-30T09:29:08Z,http://pbs.twimg.com/media/DcBVSRDX4AEwHBV.jpg,"TidyTuesday, rstats, tidyverse",18,2018,990885753264754700,Links included,Image
+2018-04-30T12:35:54Z,http://pbs.twimg.com/media/DcB76sWVAAAQzkH.jpg,"TidyTuesday, rstats, tidyverse, r4ds, dataviz",18,2018,990932756921225200,Links included,
+2018-04-30T17:44:03Z,http://pbs.twimg.com/media/DcDGnUxU0AAKgUd.jpg,"TidyTuesday, rstats, tidyverse, r4ds, dataviz",18,2018,991010304984272900,Links included,
+2018-04-30T18:07:48Z,http://pbs.twimg.com/media/DcDKkzKU0AI3PrP.jpg,TidyTuesday,18,2018,991016284031664100,Images-only,Image
+2018-04-30T19:07:52Z,http://pbs.twimg.com/media/DcDZY0fXkAE4RT0.jpg,"TidyTuesday, rstats, tidyverse, ggridges",18,2018,991031398025875500,Images-only,
+2018-04-30T21:57:01Z,http://pbs.twimg.com/media/DcD-EHQXcAA2lW2.png,"TidyTuesday, rstats, r4ds, tidyverse",18,2018,991073965899644900,Links included,Image
+2018-05-01T02:58:29Z,http://pbs.twimg.com/media/DcFEnKIV0AARgdQ.jpg,"TidyTuesday, rstats",18,2018,99114983408529e4,Images-only,Image
+2018-05-01T03:42:47Z,http://pbs.twimg.com/media/DcFPgdCU8AEBLXy.jpg,TidyTuesday,18,2018,991160979500122100,Images-only,Image
+2018-05-01T06:45:34Z,http://pbs.twimg.com/media/DcF5XPKUQAEDDLC.png,TidyTuesday,18,2018,991206981162516500,Links included,Image
+2018-05-01T12:20:02Z,http://pbs.twimg.com/media/DcHFTtcXkAAjRvy.jpg,"tidytuesday, rstats",18,2018,991291152690286600,Links included,Image
+2018-05-01T12:20:56Z,http://pbs.twimg.com/media/DcHF7ShXkAEQCZW.jpg,TidyTuesday,18,2018,991291376418611200,Images-only,Image
+2018-05-01T15:27:13Z,http://pbs.twimg.com/media/DcHv0xWWsAcyQIj.jpg,"TidyTuesday, rstats, r4ds",18,2018,991338257391804400,Images-only,Image
+2018-05-01T16:24:16Z,http://pbs.twimg.com/media/DcH9UQfWkAAPw3B.jpg,"TidyTuesday, rstats",18,2018,991352613814890500,Images-only,Image
+2018-05-01T19:48:58Z,http://pbs.twimg.com/media/DcIsFa7WsAEwPxG.jpg,"TidyTuesday, rstats",18,2018,991404127354851300,Images-only,Image
+2018-05-01T22:19:07Z,http://pbs.twimg.com/media/DcJO43VVMAA2yCF.jpg,TidyTuesday,18,2018,991441913831190500,Links included,Image
+2018-05-02T04:16:25Z,http://pbs.twimg.com/media/DcKgSD3WkAAJAT_.jpg,"TidyTuesday, rstats, tidyverse",18,2018,991531831441969200,Links included,Image
+2018-05-02T04:36:51Z,http://pbs.twimg.com/media/DcKlg-sWkAAmmkx.jpg,"TidyTuesday, rstats",18,2018,991536976347230200,Links included,Image
+2018-05-02T15:32:33Z,http://pbs.twimg.com/media/DcM7POnV4AI511W.jpg,"TidyTuesday, rstats",18,2018,991701989388992500,Images-only,Image
+2018-05-02T19:14:34Z,http://pbs.twimg.com/media/DcNt932X0AQ7CT1.jpg,TidyTuesday,18,2018,991757862245425200,Links included,Image
+2018-05-02T20:20:17Z,http://pbs.twimg.com/media/DcN9gE7W0AEU8xt.jpg,TidyTuesday,18,2018,991774396644720600,Images-only,Image
+2018-05-02T20:45:48Z,http://pbs.twimg.com/media/DcODR4eWkAAL9Tp.jpg,"TidyTuesday, rstats, r4ds",18,2018,991780821576110100,Images-only,Image
+2018-05-02T21:25:54Z,http://pbs.twimg.com/tweet_video_thumb/DcOKoX5X4AAer-e.jpg,"TidyTuesday, tweenr, gganimate",18,2018,991790909502251e3,Links included,
+2018-05-02T21:35:18Z,http://pbs.twimg.com/media/DcONpYKW4AUau4M.jpg,"TidyTuesday, mapdata, fiftystater, choroplethr",18,2018,99179327687646e4,Links included,Image
+2018-05-03T17:48:28Z,http://pbs.twimg.com/media/DcSkUVDXcAAlG_K.jpg,"TidyTuesday, rstats, dataviz, r4ds, blogdown, Australia",18,2018,9.9209857875029606e+17,Links included,Image
+2018-05-03T17:48:58Z,http://pbs.twimg.com/media/DcSkd8bXcAIPxfO.jpg,"TidyTuesday, rstats, R4DScommunity",18,2018,992098704231288800,Links included,
+2018-05-04T01:29:52Z,http://pbs.twimg.com/media/DcUM0oHU8AAHCIS.jpg,"tidytuesday, rstats",18,2018,992214696764702700,Images-only,
+2018-05-04T14:49:34Z,http://pbs.twimg.com/media/DcXENdEUQAAe84b.jpg,"TidyTuesday, maps, albersusa, statebins, geojsonio, fiftystaters, choroplethr",18,2018,992415944763994100,Links included,Image
+2018-05-06T15:15:53Z,http://pbs.twimg.com/media/DcheGIuX0AAlCP3.jpg,TidyTuesday,18,2018,993147346102997e3,Images-only,Image
+2018-05-07T13:01:50Z,http://pbs.twimg.com/media/DcmIEoYUQAA9wgf.jpg,"TidyTuesday, rstats, tidyverse, r4ds, dataviz",19,2018,993475998791405600,Links included,Image
+2018-05-07T15:12:38Z,http://pbs.twimg.com/media/DcmnFx4VAAEFvJu.jpg,"TidyTuesday, rstats, tidyverse, r4ds, dataviz",19,2018,993508915253039100,Links included,Image
+2018-05-08T03:26:01Z,http://pbs.twimg.com/media/DcpKm16V4AAOJBK.jpg,"TidyTuesday, rstats, dataviz",19,2018,993693476968525800,Images-only,Image
+2018-05-08T04:57:02Z,http://pbs.twimg.com/media/DcpjczuUQAAP6L-.jpg,"TidyTuesday, rstats, d3js",19,2018,993716383648137200,Links included,Image
+2018-05-08T07:59:39Z,http://pbs.twimg.com/media/DcqNixaWkAI44dl.jpg,"TidyTuesday, R4DScommunity, rstats",19,2018,99376233734878e4,Images-only,Image
+2018-05-08T14:01:10Z,http://pbs.twimg.com/media/Dcrf3pQUwAAXCpf.jpg,"tidytuesday, rstats, rTCU",19,2018,993853317666279400,Images-only,Image
+2018-05-08T17:09:23Z,http://pbs.twimg.com/media/DcsLDzHXUAAdmN8.jpg,"FWT18, ggplot2, dataviz, rstats, twitter, API, DataScience, dplyr, TidyTuesday",19,2018,993900683525898200,Links included,Image
+2018-05-08T17:31:05Z,http://pbs.twimg.com/media/DcsMzq8U0AAQ82O.jpg,"TidyTuesday, rstats",19,2018,993906143830331400,Images-only,Image
+2018-05-08T18:18:39Z,http://pbs.twimg.com/media/DcsbKIaWAAITdiW.jpg,"TidyTuesday, rstats, r4ds",19,2018,9.9391811487317606e+17,Links included,Image
+2018-05-08T22:39:43Z,http://pbs.twimg.com/media/DctW3x3W0AAJmx0.jpg,"rstats, TidyTuesday",19,2018,993983815776440300,Images-only,Image
+2018-05-08T23:00:30Z,http://pbs.twimg.com/media/DctbY0DWAAAPcEj.jpg,TidyTuesday,19,2018,993989045880524800,Images-only,Image
+2018-05-09T01:14:12Z,http://pbs.twimg.com/media/Dct5jwTVMAArGGI.jpg,"TidyTuesday, rstats",19,2018,994022691257581600,Images-only,Image
+2018-05-09T01:36:22Z,http://pbs.twimg.com/media/Dct-967WsAALcbs.jpg,"TidyTuesday, rstats",19,2018,9.9402827149807206e+17,Images-only,Image
+2018-05-09T04:11:07Z,http://pbs.twimg.com/media/Dcuh_V0XUAEnnRC.jpg,"TidyTuesday, rstats, dataviz",19,2018,994067214847430700,Links included,Image
+2018-05-09T05:39:20Z,http://pbs.twimg.com/media/Dcu3AkwXcAACixs.jpg,"TidyTuesday, rstats, r4ds",19,2018,994089414635806700,Images-only,Image
+2018-05-09T07:34:51Z,http://pbs.twimg.com/tweet_video_thumb/DcvRHuJVMAAntoo.jpg,"transit, vancouver, rstats, TidyTuesday, tidyverse",19,2018,994118483993481200,Links included,Image
+2018-05-09T19:56:12Z,http://pbs.twimg.com/tweet_video_thumb/Dcx665rUwAErsgK.jpg,"TidyTuesday, rstats",19,2018,994305052784431100,Images-only,
+2018-05-09T20:43:54Z,http://pbs.twimg.com/media/DcyF0WLU0AAhNY1.jpg,TidyTuesday,19,2018,994317055288643600,Links included,Image
+2018-05-09T20:59:41Z,http://pbs.twimg.com/media/DcyIsubXUAEXc_B.jpg,"TidyTuesday, rstats",19,2018,994321027554521100,Images-only,Image
+2018-05-10T02:30:44Z,http://pbs.twimg.com/media/DczVRiwU8AAvMtn.jpg,TidyTuesday,19,2018,994404339602018300,Links included,Image
+2018-05-10T16:03:17Z,http://pbs.twimg.com/media/Dc2PPlQV0AEt4Q-.jpg,"TidyTuesday, DataScience, r4ds",19,2018,994608825478004700,Images-only,Image
+2018-05-10T17:22:43Z,http://pbs.twimg.com/media/Dc2hY0nWAAAtEwG.jpg,TidyTuesday,19,2018,994628813513547800,Images-only,Image
+2018-05-11T03:18:11Z,http://pbs.twimg.com/media/Dc4pjlmWAAE_Hcx.jpg,"TidyTuesday, rstats, tidyverse",19,2018,994778668470800400,Links included,Image
+2018-05-11T18:04:27Z,http://pbs.twimg.com/media/Dc7zQSFV0AAId31.jpg,"TidyTuesday, rstats, dataviz, coffee",19,2018,995001706638266400,Images-only,Image
+2018-05-12T05:28:09Z,http://pbs.twimg.com/media/Dc-QvvIU0AA_aZC.jpg,"TidyTuesday, r4ds, rstats",19,2018,995173762940063700,Images-only,Image
+2018-05-12T11:56:02Z,http://pbs.twimg.com/media/Dc_pAODWsAAxWy0.jpg,"TidyTuesday, dataviz",19,2018,995271377266597900,Links included,Image
+2018-05-12T16:17:06Z,http://pbs.twimg.com/media/DdAkZjNUQAIWCGP.jpg,"TidyTuesday, r4ds",19,2018,995337077905477600,Images-only,Image
+2018-05-13T18:30:29Z,http://pbs.twimg.com/media/DdGLzriUwAAmoOA.jpg,"TidyTuesday, leaflet, rstats",19,2018,995733031385161700,Images-only,
+2018-05-14T00:08:37Z,http://pbs.twimg.com/media/DdHa81AVAAAiw0a.jpg,"TidyTuesday, rstats, dataviz, Coffee",20,2018,995818127450615800,Links included,Image
+2018-05-14T13:34:23Z,http://pbs.twimg.com/media/DdKRXkUV4AEnlAa.jpg,"TidyTuesday, rstats, tidyverse, r4ds, dataviz",20,2018,996020903363399700,Links included,Image
+2018-05-14T13:36:41Z,http://pbs.twimg.com/media/DdKUQlkU8AIDIMU.jpg,"TidyTuesday, rstats, tidyverse, r4ds, dataviz",20,2018,996021485008539600,Links included,Image
+2018-05-14T14:14:14Z,http://pbs.twimg.com/tweet_video_thumb/DdKczpeWsAE_Scw.jpg,"rstats, TidyTuesday, R4DScommunity",20,2018,996030935001858e3,Links included,
+2018-05-14T14:21:10Z,http://pbs.twimg.com/media/DdKeNkIV0AAnNYi.jpg,"TidyTuesday, R4DS, rstats",20,2018,996032676812374e3,Links included,Image
+2018-05-14T19:54:29Z,http://pbs.twimg.com/media/DdLo7BnW4AIeIcw.jpg,"TidyTuesday, R4DS, dataviz",20,2018,9.9611655892053606e+17,Links included,Image
+2018-05-15T00:14:44Z,http://pbs.twimg.com/media/DdMmLogVAAADAUx.jpg,"tidytuesday, r4ds, rstats, datascience",20,2018,996182053207998500,Images-only,Image
+2018-05-15T05:48:22Z,http://pbs.twimg.com/media/DdNyaLGWAAALNZt.jpg,"TidyTuesday, rstats, tidyverse",20,2018,996266014580101100,Links included,Image
+2018-05-15T08:15:41Z,http://pbs.twimg.com/media/DdOUUfXV4AAohL0.jpg,"TidyTuesday, rstats, r4ds, dataviz",20,2018,996303089304047600,Images-only,needs inspection
+2018-05-15T11:44:06Z,http://pbs.twimg.com/media/DdPEDNsVMAA5kq6.jpg,tidytuesday,20,2018,996355539389923300,Images-only,Image
+2018-05-15T12:14:30Z,http://pbs.twimg.com/media/DdPGyT0XkAAsCdt.jpg,"TidyTuesday, rstats",20,2018,996363190970781700,Images-only,Image
+2018-05-15T17:36:13Z,http://pbs.twimg.com/media/DdQUTFyXcAAdfEu.jpg,"TidyTuesday, rstats",20,2018,996444151603482600,Images-only,Image
+2018-05-15T19:03:38Z,http://pbs.twimg.com/media/DdQopqLVQAE3xSM.jpg,"TidyTuesday, rstats, tidyverse",20,2018,996466149641482200,Images-only,Image
+2018-05-15T21:25:48Z,http://pbs.twimg.com/media/DdRIuvGUwAAlwBi.jpg,TidyTuesday,20,2018,996501927318970400,Images-only,Image
+2018-05-15T21:32:47Z,http://pbs.twimg.com/media/DdRKvd-U8AALGtG.jpg,TidyTuesday,20,2018,996503684141015e3,Links included,Image
+2018-05-16T03:40:51Z,http://pbs.twimg.com/media/DdSdoHfW4AAzAUs.jpg,"TidyTuesday, rstats, tidyverse, StarWars",20,2018,996596313507627e3,Links included,Image
+2018-05-16T07:08:53Z,http://pbs.twimg.com/media/DdTOKjIVwAAxSMz.jpg,"TidyTuesday, rstats",20,2018,996648665400856600,Links included,Image
+2018-05-16T20:02:37Z,http://pbs.twimg.com/media/DdV_lHOVQAAmMre.jpg,tidytuesday,20,2018,996843383988535300,Images-only,Image
+2018-05-16T20:44:36Z,http://pbs.twimg.com/media/DdWIiWLXUAg8agQ.jpg,"TidyTuesday, rstats, jarjarstats",20,2018,996853948551180300,Images-only,Image
+2018-05-17T01:56:13Z,http://pbs.twimg.com/media/DdXQf9CWAAAETWn.jpg,"TidyTuesday, tidyverse, rstats",20,2018,996932369578897400,Images-only,Image
+2018-05-17T19:34:20Z,http://pbs.twimg.com/media/DdbC17XV0AApwUf.jpg,"TidyTuesday, tidyverse",20,2018,997198653428088800,Images-only,Image
+2018-05-18T12:58:24Z,http://pbs.twimg.com/media/Ddew1G_VMAIA1tZ.jpg,"tidytuesday, rstats",20,2018,997461401605103600,Images-only,Image
+2018-05-18T13:37:32Z,http://pbs.twimg.com/media/Dde6qAJU0AELPgV.jpg,TidyTuesday,20,2018,997471250548129800,Links included,Image
+2018-05-18T14:49:20Z,http://pbs.twimg.com/media/DdfKx3QV0AYMoXE.jpg,"TidyTuesday, R4DScommunity, rstats",20,2018,997489316233347100,Links included,Image
+2018-05-18T20:18:51Z,http://pbs.twimg.com/media/DdgWok6XUAA0oSI.jpg,"TidyTuesday, rstats, r4ds",20,2018,997572245261307900,Links included,Image
+2018-05-20T23:28:51Z,http://pbs.twimg.com/media/DdrVR5sVAAAQlCV.jpg,tidytuesday,20,2018,998344835806482400,Images-only,Image
+2018-05-21T13:00:54Z,http://pbs.twimg.com/media/DduPMD_VQAMH80Z.jpg,TidyTuesday,21,2018,998549195274453e3,Images-only,Image
+2018-05-21T13:44:24Z,http://pbs.twimg.com/media/DduWsG0U8AAmVsT.jpg,"TidyTuesday, rstats, tidyverse, r4ds, dataviz",21,2018,998560140612784100,Links included,Image
+2018-05-21T13:54:01Z,http://pbs.twimg.com/media/DdubWoOVAAEIuq7.jpg,"tidytuesday, rstats, tidyverse, r4ds, dataviz",21,2018,998562561485402100,Links included,Image
+2018-05-22T13:53:37Z,http://pbs.twimg.com/media/DdzkmQpV4AA-_Zq.jpg,"TidyTuesday, DataViz, rstats",21,2018,998924848473825300,Links included,Image
+2018-05-22T14:09:20Z,http://pbs.twimg.com/media/DdznmDeUwAIO4c4.jpg,"tidytuesday, rstats, dataviz, tidyverse",21,2018,998928801928241200,Links included,Image
+2018-05-22T17:03:52Z,http://pbs.twimg.com/media/Dd0PjOrU8AEZNZ2.jpg,"TidyTuesday, rstats, tidyverse",21,2018,998972725128392700,Links included,Image
+2018-05-22T17:56:27Z,http://pbs.twimg.com/tweet_video_thumb/Dd0WCX2V4AEu74n.jpg,"TidyTuesday, r4ds, rstats",21,2018,998985959772319700,Images-only,Image
+2018-05-22T18:14:00Z,http://pbs.twimg.com/media/Dd0ejHDUwAAxpSD.jpg,NA,21,2018,998990374348755e3,Images-only,Image
+2018-05-22T19:02:20Z,http://pbs.twimg.com/media/Dd0rTAfVAAAdg9p.jpg,"TidyTuesday, rstats, tidyverse",21,2018,999002537381564400,Images-only,
+2018-05-22T19:42:57Z,http://pbs.twimg.com/media/Dd0xQQ4UwAAT8YK.png,"TidyTuesday, rstats",21,2018,999012759797993500,Images-only,Image
+2018-05-23T05:54:15Z,http://pbs.twimg.com/media/Dd3AKIGUQAEOuAD.jpg,"TidyTuesday, rstats, tidyverse, dataviz, r4ds",21,2018,999166598580666400,Links included,
+2018-05-23T19:33:39Z,http://pbs.twimg.com/media/Dd57L7LVMAEyVxC.jpg,"TidyTuesday, R4DS, rstats",21,2018,999372806285611e3,Images-only,Image
+2018-05-23T20:54:42Z,http://pbs.twimg.com/media/Dd6OqeAU8AEmYYj.png,"TidyTuesday, R4ds, rstats, cartogram, bees, honey",21,2018,999393206679883800,Images-only,Image
+2018-05-23T21:15:24Z,http://pbs.twimg.com/tweet_video_thumb/Dd6StpzUwAET0pb.jpg,"TidyTuesday, gganimate, rstats",21,2018,999398415741145100,Images-only,Image
+2018-05-24T02:14:43Z,http://pbs.twimg.com/media/Dd7UtMgVAAAmd_y.jpg,"TidyTuesday, ggplot2",21,2018,999473740458184700,Links included,Image
+2018-05-24T04:04:25Z,http://pbs.twimg.com/media/Dd7xIQdUQAYdOfC.jpg,"ggplot2, TidyTuesday",21,2018,999501344749867e3,Images-only,Image
+2018-05-25T01:49:11Z,http://pbs.twimg.com/tweet_video_thumb/DeAbqZmVAAEbttl.jpg,TidyTuesday,21,2018,999829702226280400,Links included,
+2018-05-25T13:19:43Z,http://pbs.twimg.com/tweet_video_thumb/DeC521YUwAEgMyX.jpg,TidyTuesday,21,2018,1000003481929908200,Images-only,
+2018-05-26T14:42:27Z,http://pbs.twimg.com/media/DeIV6kGXcAEv3no.jpg,"TidyTuesday, ggplot2",21,2018,1000386690240925700,Images-only,Image
+2018-05-29T10:37:27Z,http://pbs.twimg.com/media/DeWyA5AXcAAbIZW.jpg,tidytuesday,22,2018,1001412196247666700,Links included,Image
+2018-05-29T13:12:19Z,http://pbs.twimg.com/media/DeXebSdV0AADTEb.jpg,"tidytuesday, rstats, tidyverse, dataviz, r4ds, comics",22,2018,1001451167547908100,Links included,Image
+2018-05-29T13:27:12Z,http://pbs.twimg.com/media/DeXh72DVwAEe05M.jpg,"tidytuesday, rstats, dataviz, tidyverse, r4ds, comics",22,2018,1001454914411925500,Links included,Image
+2018-05-29T18:00:29Z,http://pbs.twimg.com/media/DeYcRmjVAAA2Wn2.jpg,"TidyTuesday, r4ds, rstats",22,2018,1001523687571402800,Images-only,Image
+2018-05-29T19:45:52Z,http://pbs.twimg.com/media/DeY3KhTVwAAPyyR.jpg,"tidytuesday, rstats",22,2018,1001550210537930800,Images-only,Image
+2018-05-29T21:38:01Z,http://pbs.twimg.com/media/DeZRmcUUwAAzgtG.png,tidytuesday,22,2018,1001578433124732900,Images-only,Image
+2018-05-30T02:15:19Z,http://pbs.twimg.com/media/DeaQToWUwAAcEXU.jpg,"TidyTuesday, rstats, r4ds",22,2018,100164821935138e4,Links included,Image
+2018-05-30T10:23:19Z,http://pbs.twimg.com/media/DecBOPfX0AApQ5I.jpg,"Marvel, DCUniverse, TidyTuesday",22,2018,1001771028010463200,Images-only,Image
+2018-05-30T10:28:36Z,http://pbs.twimg.com/media/DecBhtgX4AApZF5.jpg,"TidyTuesday, rstats, R4DS",22,2018,1001772358305308700,Links included,Image
+2018-05-30T18:38:33Z,http://pbs.twimg.com/media/DedyctxW4AA17lv.jpg,"SWMPrats, TidyTuesday, rstats",22,2018,1001895656284414e3,Links included,Image
+2018-05-30T19:41:59Z,http://pbs.twimg.com/media/DeeAUKbXcAAvt_S.jpg,"TidyTuesday, rstats, R4DS, tidyverse",22,2018,1001911619499315200,Images-only,Image
+2018-05-30T19:43:51Z,http://pbs.twimg.com/media/DeeBKspUwAEbMzs.jpg,"TidyTuesday, hrbrthemes, ggridges",22,2018,1001912091274629100,Links included,Image
+2018-05-30T20:17:19Z,http://pbs.twimg.com/media/DeeJRtIUwAAoTcx.jpg,TidyTuesday,22,2018,1001920513244057600,Images-only,Image
+2018-05-31T14:14:09Z,http://pbs.twimg.com/media/Deh_1i2WsAAd37M.jpg,"rstats, TidyTuesday, R4DScommunity",22,2018,1002191503958167600,Links included,Image
+2018-06-02T00:09:02Z,http://pbs.twimg.com/media/DepQ45kU0AABkaV.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz",22,2018,10027036013981e5,Links included,Image
+2018-06-03T01:08:25Z,http://pbs.twimg.com/media/Deuoyi9U8AIYwfA.jpg,"biketown, TidyTuesday, CascadiaRConf",22,2018,1003080932943790100,Images-only,Image
+2018-06-03T02:34:27Z,http://pbs.twimg.com/media/Deu75jlW0Acg_Ku.jpg,"TidyTuesday, rstats",22,2018,1003102584784244700,Links included,Image
+2018-06-04T12:12:20Z,http://pbs.twimg.com/media/De2KJJ-X0AEvpNp.jpg,"TidyTuesday, week9, ggplot, rstats, R4DS",23,2018,1003610400246714400,Images-only,Image
+2018-06-04T16:30:26Z,http://pbs.twimg.com/media/De3FJ7rV4AA-HMM.jpg,"tidytuesday, biketown, tableau, rstats, dataviz, tidyverse",23,2018,1003675354689568800,Links included,Image
+2018-06-04T16:37:55Z,http://pbs.twimg.com/media/De3HIE4VMAIBt4v.jpg,"tidytuesday, biketown, tableau, rstats, dataviz, tidyverse",23,2018,1003677238120910800,Links included,Image
+2018-06-05T14:35:03Z,http://pbs.twimg.com/tweet_video_thumb/De70lmrXcAAEsjf.jpg,"rstats, AlwaysLearning, TidyTuesday",23,2018,1004008704549802e3,Images-only,
+2018-06-05T14:35:06Z,http://pbs.twimg.com/media/De70SsTU8AAo20A.jpg,"ShinyAppreciation, TidyTuesday, tidyverse",23,2018,1004008716302049300,Links included,Image
+2018-06-05T19:02:24Z,http://pbs.twimg.com/media/De8u--eVAAAFPDD.jpg,"cascadiarconf, tidytuesday, rstats, tidyverse, igraph",23,2018,1004075984444723200,Images-only,Image
+2018-06-05T20:31:41Z,http://pbs.twimg.com/tweet_video_thumb/De9DTqcXUAA6rUh.jpg,"TidyTuesday, rstats",23,2018,1004098456716304400,Images-only,Image
+2018-06-05T21:07:07Z,http://pbs.twimg.com/media/De9ORJjUYAEoImt.jpg,TidyTuesday,23,2018,1004107372212596700,Links included,Image
+2018-06-05T21:31:48Z,http://pbs.twimg.com/media/De9TwcnX0AEnX7O.jpg,"TidyTuesday, rstats, r4ds",23,2018,1004113584857780200,Links included,
+2018-06-06T00:28:13Z,http://pbs.twimg.com/media/De97jv3X0AIsM5O.jpg,"TidyTuesday, rstats, tidyverse",23,2018,1004157980877754400,Links included,Image
+2018-06-06T00:58:58Z,http://pbs.twimg.com/media/De-DKnHW4AAkD97.jpg,"TidyTuesday, rstats, ggplot2, tidyverse",23,2018,1004165719121170400,Links included,Image
+2018-06-06T04:50:03Z,http://pbs.twimg.com/media/De-3111U0AA4oEI.jpg,"tidytuesday, rstat, survivalhasneverbeenfitter",23,2018,1004223871287869400,Links included,Image
+2018-06-07T04:50:37Z,http://pbs.twimg.com/media/DfEB7qjU8AAp5u4.jpg,"TidyTuesday, biketown, tidyverse, rstats, r4ds",23,2018,1004586403764822e3,Links included,Image
+2018-06-07T14:51:34Z,http://pbs.twimg.com/media/DfGKuOHXUAIyyR7.jpg,TidyTuesday,23,2018,1004737636555161600,Links included,Image
+2018-06-07T18:21:10Z,http://pbs.twimg.com/media/DfG6QDaUcAAgaHk.png,"TidyTuesday, rstats, r4ds",23,2018,1004790383451177e3,Images-only,Image
+2018-06-09T22:13:16Z,http://pbs.twimg.com/media/DfSBbZPWAAAmCrA.jpg,"WorldCup2018, predictions, TidyTuesday, rstats, Results",23,2018,1005573569777225700,Links included,Image
+2018-06-10T13:30:43Z,http://pbs.twimg.com/media/DfVT8A3XUAEZsgE.jpg,"tidytuesday, geomapping, rstats, ggmap",23,2018,1005804452765454300,Images-only,Image
+2018-06-10T20:43:04Z,http://pbs.twimg.com/tweet_video_thumb/DfW2uMfXUAA0zRe.jpg,TidyTuesday,23,2018,1005913260443553800,Links included,
+2018-06-11T02:13:08Z,http://pbs.twimg.com/media/DfYEJs8WAAAixKy.jpg,"TidyTuesday, rstats",24,2018,1005996323252863e3,Links included,Image
+2018-06-11T15:37:11Z,http://pbs.twimg.com/media/Dfa76wSVMAEnzAF.jpg,"tidytuesday, FIFAWorldCup, fivethirtyeight, r4ds, tidyverse, rstats, dataviz",24,2018,1006198666766553100,Links included,Image
+2018-06-11T22:47:03Z,http://pbs.twimg.com/tweet_video_thumb/Dfces3GUYAEoxR6.jpg,"TidyTuesday, rstats",24,2018,1006306846980833300,Images-only,
+2018-06-12T12:04:49Z,http://pbs.twimg.com/media/DffUvX2W4AAX2DC.jpg,tidytuesday,24,2018,1006507612832260100,Images-only,Image
+2018-06-12T12:52:10Z,http://pbs.twimg.com/media/DffgGyYUEAAGhIU.jpg,"tidytuesday, r4ds, rstats",24,2018,1006519528669368300,Links included,
+2018-06-12T17:35:20Z,http://pbs.twimg.com/media/Dfgg2MzUYAAH1jT.jpg,"TidyTuesday, FIFAWorldCup, r4ds, tidyverse, rstats, dataviz",24,2018,1006590789135274e3,Links included,Image
+2018-06-12T17:38:13Z,http://pbs.twimg.com/media/DfggQyCWsAITVGr.jpg,"TidyTuesday, rstats, r4ds, dataviz",24,2018,1006591513948762100,Links included,Image
+2018-06-12T20:19:51Z,http://pbs.twimg.com/media/DfhFbAsXkAYDi-l.jpg,"tidytuesday, rstats, SoDS18",24,2018,1006632191739166700,Images-only,Image
+2018-06-12T21:40:28Z,http://pbs.twimg.com/media/DfhZFvGW4AEiTa6.jpg,"nutrition2018, data, rstats, everydaydata, TidyTuesday",24,2018,1006652481517080600,Images-only,Image
+2018-06-12T22:42:30Z,http://pbs.twimg.com/media/DfhnLUOWsAIt6SF.jpg,TidyTuesday,24,2018,1006668090678136800,Links included,
+2018-06-13T02:19:27Z,http://pbs.twimg.com/media/DfiY1a1VMAAYoB5.jpg,"TidyTuesday, ggpomological, hrbrthemes, rstats, tidyverse",24,2018,1006722687639568400,Links included,Image
+2018-06-13T03:20:06Z,http://pbs.twimg.com/media/DfimtTYWkAEfK61.jpg,tidytuesday,24,2018,1006737952704086e3,Images-only,Image
+2018-06-13T03:53:39Z,http://pbs.twimg.com/media/DfiuectVQAAUhmO.jpg,TidyTuesday,24,2018,1006746392319193100,Links included,Image
+2018-06-13T16:12:39Z,http://pbs.twimg.com/media/DflXda0UYAA5JNU.jpg,"WorldCup, TidyTuesday, r4ds, rstats",24,2018,1006932369935200300,Images-only,Image
+2018-06-13T19:42:08Z,http://pbs.twimg.com/media/DfmGw4FUYAA_V9i.jpg,"tidytuesday, rstats, r4ds, viz, worldcup",24,2018,1006985086192021500,Links included,Image
+2018-06-14T02:00:55Z,http://pbs.twimg.com/media/DfndK-1U0AELbGb.jpg,TidyTuesday,24,2018,1007080411132883e3,Links included,Image
+2018-06-14T03:44:01Z,http://pbs.twimg.com/media/Dfn0079U8AAUGhg.jpg,"TidyTuesday, r4ds, rstats",24,2018,1007106357089075200,Images-only,Image
+2018-06-15T01:53:46Z,http://pbs.twimg.com/media/DfsmIJsVMAA4p3O.jpg,"TidyTuesday, rstats, r4ds, dataviz",24,2018,1007441001349169200,Images-only,Image
+2018-06-15T02:49:15Z,http://pbs.twimg.com/media/DfsyiqsVQAM-KMf.jpg,TidyTuesday,24,2018,1007454964057346e3,Images-only,Image
+2018-06-15T12:22:59Z,http://pbs.twimg.com/media/Dfu2P1_VAAYM5Nq.png,"tidytuesday, rstats",24,2018,1007599346580271100,Links included,Image
+2018-06-15T14:21:12Z,http://pbs.twimg.com/media/DfvQtfKW0AALKDR.jpg,"TidyTuesday, ggrepel, git",24,2018,1007629099593060400,Images-only,Image
+2018-06-17T12:45:30Z,http://pbs.twimg.com/media/Df5OhMAUcAAyEdf.jpg,"tidytuesday, rstats, r4ds",24,2018,1008329790644981800,Links included,Image
+2018-06-18T16:16:40Z,http://pbs.twimg.com/media/Df_Gi5zVAAIX7ci.jpg,"tidytuesday, fivethirtyeight, r4ds, tidyverse, rstats, dataviz",25,2018,1008745320677863400,Links included,Image
+2018-06-18T17:25:47Z,http://pbs.twimg.com/media/Df_YR7tVAAAoImZ.jpg,"tidytuesday, fivethirtyeight, r4ds, tidyverse, rstats, dataviz",25,2018,1008762711788879900,Links included,Image
+2018-06-19T07:55:02Z,http://pbs.twimg.com/media/DgCdqjmVAAAOpG7.jpg,"TidyTuesday, rstudio, nutrition, Mali",25,2018,1008981466137559e3,Images-only,Image
+2018-06-19T08:44:35Z,http://pbs.twimg.com/media/DgCqhdFXcAAxnkX.jpg,"TidyTuesday, rstats, R4DScommunity",25,2018,1008993935480557600,Links included,Image
+2018-06-19T12:42:02Z,http://pbs.twimg.com/tweet_video_thumb/DgDgdzlUEAIfVYc.jpg,"TidyTuesday, spotifyr, ggplot2, tidyverse, rstats, dataviz",25,2018,1009053691586936800,Links included,
+2018-06-19T13:57:46Z,http://pbs.twimg.com/media/DgDxVxBU8AEPcRW.jpg,"TidyTuesday, rstats, r4ds",25,2018,1009072751708196900,Links included,Image
+2018-06-20T10:53:31Z,http://pbs.twimg.com/media/DgIRh5tVQAACeZR.jpg,"TidyTuesday, r4ds, rstats",25,2018,1.0093887710982799e+18,Links included,Image
+2018-06-20T18:17:53Z,http://pbs.twimg.com/media/DgJ3BjlXUA0py89.jpg,"tidyverse, TidyTuesday",25,2018,1009500601674321900,Links included,Image
+2018-06-20T20:27:32Z,http://pbs.twimg.com/media/DgKUG-5X4AEcStS.jpg,tidytuesday,25,2018,1009533227126722600,Images-only,Image
+2018-06-20T21:10:36Z,http://pbs.twimg.com/media/DgKeQrbXkAEtN6y.jpg,"tidytuesday, rstats, SoDS18, r4ds",25,2018,1009544067963916300,Images-only,
+2018-06-20T23:13:28Z,http://pbs.twimg.com/media/DgK66uLU0AEjihO.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",25,2018,1009574987332837400,Links included,Image
+2018-06-21T04:42:19Z,http://pbs.twimg.com/media/DgMEsqhU0AA4bJY.jpg,"TidyTuesday, ggthemes",25,2018,1009657745316778e3,Images-only,Image
+2018-06-21T16:28:11Z,http://pbs.twimg.com/media/DgOnP0hU8AAJj68.jpg,"rstats, TidyTuesday, r4ds",25,2018,1009835381439819800,Images-only,Image
+2018-06-22T02:53:50Z,http://pbs.twimg.com/media/DgQ0ZvIU8AEL_A-.jpg,TidyTuesday,25,2018,1009992831614832600,Images-only,Image
+2018-06-22T13:28:33Z,http://pbs.twimg.com/media/DgTIZUBWkAEuFT2.jpg,"tidytuesday, r4ds, dataandpolicy, datascience",25,2018,1010152562132226e3,Images-only,Image
+2018-06-22T15:32:27Z,http://pbs.twimg.com/media/DgTjhiOXkAIcL7B.jpg,"TidyTuesday, rstats, r4ds, dataviz",25,2018,1010183742076477400,Links included,Image
+2018-06-22T19:50:03Z,http://pbs.twimg.com/media/DgUfskpU8AAf2uD.jpg,"tidytuesday, r4ds",25,2018,1010248570480586800,Images-only,Image
+2018-06-22T20:10:03Z,http://pbs.twimg.com/media/DgUiQiqW0AE9i3t.jpg,"tidytuesday, R4DS, firstgraphs, first2weeksR",25,2018,1010253602823262200,Images-only,
+2018-06-23T15:22:48Z,http://pbs.twimg.com/media/DgYr9eSUYAE73Rk.jpg,"TidyTuesday, Data, fivethirtyeight, r4ds",25,2018,1010543703721762800,Images-only,Image
+2018-06-25T17:13:14Z,http://pbs.twimg.com/media/DgjYGWSU0AE2wnn.jpg,"tidytuesday, fivethirtyeight, r4ds, tidyverse, rstats, dataviz",26,2018,1011296268335964200,Links included,Image
+2018-06-25T17:14:39Z,http://pbs.twimg.com/media/DgjYzeUV4AAtOI9.jpg,"tidytuesday, fivethirtyeight, r4ds, tidyverse, rstats, dataviz",26,2018,1011296625720021e3,Links included,Image
+2018-06-26T00:35:30Z,http://pbs.twimg.com/media/Dgk9uZdUwAAuF_g.jpg,"TidyTuesday, rstats",26,2018,1011407572555915300,Images-only,Image
+2018-06-26T03:16:10Z,http://pbs.twimg.com/media/DgliZrrV4AAYIYV.jpg,"rvest, scico, TidyTuesday, tidyverse, rstats",26,2018,1011448001494057e3,Links included,Image
+2018-06-26T15:07:55Z,http://pbs.twimg.com/media/DgoEteiXcAAvOCl.jpg,TidyTuesday,26,2018,1011627119271608300,Images-only,Image
+2018-06-27T00:17:46Z,http://pbs.twimg.com/media/DgqDANmVAAM-woy.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",26,2018,1011765496142794800,Links included,Image
+2018-06-27T06:35:56Z,http://pbs.twimg.com/media/DgrZCVMV4AAO5HE.jpg,tidytuesday,26,2018,1011860662509658100,Links included,Image
+2018-06-27T11:46:08Z,http://pbs.twimg.com/media/Dgsg5TnWsAEs5Xp.jpg,"tidytuesday, rstats",26,2018,101193872892595e4,Links included,Image
+2018-06-27T14:36:49Z,http://pbs.twimg.com/media/DgtGUCTXkAI2CYY.jpg,"TidyTuesday, R4DS, policy, DataScience, AllSmiles",26,2018,1011981684026368e3,Images-only,Image
+2018-06-27T15:48:04Z,http://pbs.twimg.com/media/DgtX40qVQAA70Xr.jpg,"TidyTuesday, rstats, r4ds",26,2018,1011999613304225800,Images-only,Image
+2018-06-27T20:22:26Z,http://pbs.twimg.com/media/DguU5x0W0AAX2pr.jpg,"TidyTuesday, rstats, SoDS18",26,2018,1012068658007498800,Images-only,Image
+2018-06-27T21:23:38Z,http://pbs.twimg.com/media/DgukEo2X4AAUhfC.jpg,TidyTuesday,26,2018,1012084060519305200,Links included,Image
+2018-06-27T21:35:04Z,http://pbs.twimg.com/media/DgulKliX4AIvCsb.jpg,"TidyTuesday, rstats, R4ds, dataviz",26,2018,1012086939560874e3,Links included,Image
+2018-06-28T03:53:51Z,http://pbs.twimg.com/media/Dgv-JwuX4AEabhF.png,"TidyTuesday, rstats",26,2018,1012182264015458300,Links included,Image
+2018-06-28T17:49:12Z,http://pbs.twimg.com/media/Dgy7neDVAAA1lga.jpg,"TidyTuesday, r4ds, rstats",26,2018,1012392484071043100,Images-only,Image
+2018-06-28T20:51:38Z,http://pbs.twimg.com/tweet_video_thumb/DgznKFYV4AAaU4C.jpg,"TidyTuesday, rstats, r4ds",26,2018,1012438394998349800,Images-only,
+2018-06-29T04:49:20Z,http://pbs.twimg.com/media/Dg1Udz6VMAAO5oF.jpg,tidytuesday,26,2018,1012558612076490800,Images-only,Image
+2018-06-29T09:42:17Z,http://pbs.twimg.com/media/Dg2Xq97UYAE0qH1.jpg,tidytuesday,26,2018,1012632338310656e3,Images-only,Image
+2018-06-30T02:52:39Z,http://pbs.twimg.com/media/Dg6C4QwU8AAuylT.jpg,"tidytuesday, rstats",26,2018,1012891638136356900,Links included,Image
+2018-06-30T04:24:24Z,http://pbs.twimg.com/media/Dg6WqzIUcAEdWNX.jpg,"TidyTuesday, rstats, r4ds",26,2018,1012914727314509800,Images-only,Image
+2018-07-01T20:26:44Z,http://pbs.twimg.com/media/DhC8JKhU0AAOUr9.jpg,TidyTuesday,26,2018,1013519293269643300,Images-only,Image
+2018-07-02T15:31:19Z,http://pbs.twimg.com/media/DhHEG8dU8Ac1ixS.jpg,"tidytuesday, r4ds, tidyverse, rstats, dataviz",27,2018,1013807338719936500,Links included,Image
+2018-07-02T15:33:06Z,http://pbs.twimg.com/media/DhHExiQVMAA22kO.jpg,"tidytuesday, r4ds, tidyverse, rstats, dataviz",27,2018,1013807784301858800,Links included,Image
+2018-07-03T06:44:33Z,http://pbs.twimg.com/tweet_video_thumb/DhKVSolUcAAAssm.jpg,"tidytuesday, rstats",27,2018,1014037160041705500,Links included,
+2018-07-03T06:47:34Z,http://pbs.twimg.com/tweet_video_thumb/DhKUQiPXcAAbZ4x.jpg,TidyTuesday,27,2018,1014037920200654800,Links included,
+2018-07-03T18:16:55Z,http://pbs.twimg.com/media/DhMzezlU8AAcncC.jpg,"TidyTuesday, spatial, rstats, tweenr, tidyverse",27,2018,1.0142113988537999e+18,Links included,Image
+2018-07-03T18:16:56Z,http://pbs.twimg.com/tweet_video_thumb/DhMz2fgUwAAWdOp.jpg,"TidyTuesday, rstats, ourworldindata",27,2018,1014211403345883100,Images-only,Image
+2018-07-04T15:42:09Z,http://pbs.twimg.com/media/DhRZtRcUEAIJBY7.jpg,"TidyTuesday, rstats, r4ds",27,2018,1014534839435849700,Links included,Image
+2018-07-04T19:48:25Z,http://pbs.twimg.com/tweet_video_thumb/DhSSV5uW4AAObjv.jpg,"tidytuesday, dataviz, rstats, ggplot",27,2018,1014596814719406100,Images-only,
+2018-07-05T01:50:54Z,http://pbs.twimg.com/media/DhTlT0IXUAA5rYP.jpg,"TidyTuesday, rstats, tidyverse",27,2018,1014688035089322e3,Images-only,Image
+2018-07-05T02:09:14Z,http://pbs.twimg.com/media/DhTpUkFU8AEIMPB.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",27,2018,1014692648320462800,Links included,needs inspection
+2018-07-05T13:07:10Z,http://pbs.twimg.com/media/DhV5sxlWkAA237M.jpg,"TidyTuesday, rstats, R4DScommunity",27,2018,1014858225345335300,Links included,Image
+2018-07-05T19:18:48Z,http://pbs.twimg.com/tweet_video_thumb/DhXSjd9XkAEzJ2p.jpg,"TidyTuesday, r4ds, SoDS18",27,2018,1014951748413345800,Images-only,Image
+2018-07-05T21:13:34Z,http://pbs.twimg.com/media/DhXvPVqU8AA6Tzh.jpg,"TidyTuesday, rstats, r4ds",27,2018,1014980630524956700,Images-only,Image
+2018-07-06T11:54:49Z,http://pbs.twimg.com/media/Dha4OZbX0AAHchQ.jpg,"TidyTuesday, rstats, R4DS, dataviz",27,2018,1015202403036074e3,Links included,Image
+2018-07-06T14:38:57Z,http://pbs.twimg.com/media/DhbenbzVQAA2261.jpg,TidyTuesday,27,2018,1015243711368712200,Links included,Image
+2018-07-06T21:01:37Z,http://pbs.twimg.com/tweet_video_thumb/Dhc0hkBVQAEMdAx.jpg,"TidyTuesday, rstats, R4DS, dataviz",27,2018,1015340011846283300,Links included,
+2018-07-08T18:22:47Z,http://pbs.twimg.com/media/DhmlCNgUEAA_pVb.jpg,"TidyTuesday, India, China, DataScience, r4ds, rstats",27,2018,1016024813830361100,Images-only,Image
+2018-07-09T12:53:59Z,http://pbs.twimg.com/media/DhqjCVOVMAQq1BQ.jpg,"tidytuesday, CraftBeer, r4ds, tidyverse, rstats, dataviz",28,2018,1016304457154531300,Links included,Image
+2018-07-09T12:56:53Z,http://pbs.twimg.com/media/DhqkLfAUcAAmSip.jpg,"tidytuesday, CraftBeer, r4ds, tidyverse, rstats, dataviz",28,2018,1016305189622632400,Links included,Image
+2018-07-09T19:34:47Z,http://pbs.twimg.com/media/Dhr_QWIU0AAz79L.jpg,"TidyTuesday, Rstats",28,2018,1016405324054614e3,Links included,Image
+2018-07-10T04:01:03Z,http://pbs.twimg.com/media/DhtySotX4AE_Wlz.jpg,"TidyTuesday, rstats",28,2018,1016532729767264300,Links included,Image
+2018-07-10T08:43:20Z,http://pbs.twimg.com/media/Dhuwt2ZXcAAK_xx.jpg,"MakeoverMonday, TidyTuesday, rstats, ggplot, WhatWillWednesdayBring",28,2018,1016603767360380900,Images-only,Image
+2018-07-11T00:00:55Z,http://pbs.twimg.com/media/DhyFe3tW4AIZ9Ev.jpg,"TidyTuesday, rstats",28,2018,1016834687304699900,Links included,Image
+2018-07-11T03:26:15Z,http://pbs.twimg.com/media/DhyziO6VQAI79gk.jpg,TidyTuesday,28,2018,1016886360484077600,Images-only,Image
+2018-07-11T14:19:50Z,http://pbs.twimg.com/media/Dh1Jr5_XUAAhMgE.jpg,"TidyTuesday, rstats, r4ds, dataviz",28,2018,1017050837758173200,Links included,Image
+2018-07-11T15:51:27Z,http://pbs.twimg.com/media/Dh1eo4nX0AAWAtW.jpg,TidyTuesday,28,2018,1017073896841830400,Links included,Image
+2018-07-11T21:54:12Z,http://pbs.twimg.com/media/Dh2yL5_X4AAtPmn.jpg,"tidytuesday, rstats, dataviz, r4ds, ggplot",28,2018,1017165182420836400,Links included,Image
+2018-07-11T23:30:04Z,http://pbs.twimg.com/media/Dh3H-GAUwAUgxKT.jpg,"TidyTuesday, rstats, r4ds",28,2018,1017189307843563500,Images-only,Image
+2018-07-12T12:47:35Z,http://pbs.twimg.com/media/Dh5-QpaW0AIqyTG.jpg,"TidyTuesday, CraftBeer, rstats, SoDS18, r4ds, beergraph",28,2018,1017390012982284300,Images-only,Image
+2018-07-12T17:57:13Z,http://pbs.twimg.com/media/Dh7FTE_U8AAkH7S.jpg,"TidyTuesday, rstats",28,2018,1017467932161347600,Links included,Image
+2018-07-12T19:39:43Z,http://pbs.twimg.com/tweet_video_thumb/Dh7dE1fWAAAVHso.jpg,"TidyTuesday, craftbeer, rstats, dataviz, useR2018, icots10",28,2018,1017493729354113e3,Links included,Image
+2018-07-12T22:12:13Z,http://pbs.twimg.com/media/Dh7_9IIUYAA5wEU.jpg,"TidyTuesday, rstats",28,2018,1017532103993356300,Images-only,Image
+2018-07-12T22:44:32Z,http://pbs.twimg.com/media/Dh8HauhU0AAmV7m.jpg,"TidyTuesday, rstats",28,2018,1017540238443360300,Images-only,
+2018-07-15T10:19:44Z,http://pbs.twimg.com/tweet_video_thumb/DiI4goVVQAAWNPY.jpg,TidyTuesday,28,2018,1018439968610349e3,Images-only,Image
+2018-07-16T02:01:13Z,http://pbs.twimg.com/media/DiMQkm0WsAAP--g.jpg,"rstats, TidyTuesday, geofacet, ggridges",29,2018,1018676900796031e3,Links included,Image
+2018-07-16T13:33:25Z,http://pbs.twimg.com/media/DiOuln7VAAE0ah9.jpg,"tidytuesday, Exercise, r4ds, tidyverse, rstats, dataviz",29,2018,1018851098323509200,Links included,Image
+2018-07-17T12:36:16Z,http://pbs.twimg.com/media/DiTrWhTWsAE32o2.jpg,"leaflet, TidyTuesday, rstats",29,2018,1019199102112948200,Links included,Image
+2018-07-17T16:26:18Z,http://pbs.twimg.com/media/DiUgayyXkAA-F7p.jpg,"TidyTuesday, rstats",29,2018,1019256992379088900,Links included,Image
+2018-07-17T17:50:47Z,http://pbs.twimg.com/media/DiUzzN0W0AACmQ7.jpg,TidyTuesday,29,2018,1019278252341452800,Images-only,Image
+2018-07-18T04:56:42Z,http://pbs.twimg.com/media/DiXMZScU0AETJsX.jpg,"TidyTuesday, rstats, r4ds",29,2018,1019445835610783700,Links included,Image
+2018-07-18T13:09:43Z,http://pbs.twimg.com/media/DiY9X4eU8AAP31n.jpg,TidyTuesday,29,2018,1019569907728388100,Links included,Image
+2018-07-18T14:46:09Z,http://pbs.twimg.com/media/DiZTReyWsAMXQDw.png,TidyTuesday,29,2018,1019594178647470100,Links included,Image
+2018-07-18T20:22:08Z,http://pbs.twimg.com/media/DiaeG_wXkAEZ4nH.jpg,"TidyTuesday, viridis, ggplot2, rstats, SoDS18, r4ds",29,2018,1019678731571515400,Images-only,Image
+2018-07-19T11:01:52Z,http://pbs.twimg.com/media/DidoWa7W0AAupmh.jpg,"TidyTuesday, rstats, r4ds, dataviz",29,2018,1019900122178707500,Links included,Image
+2018-07-19T13:17:03Z,http://pbs.twimg.com/media/DieIMjDXUAIkbvs.jpg,"TidyTuesday, rstats, r4ds",29,2018,1019934140186218500,Links included,Image
+2018-07-20T05:04:54Z,http://pbs.twimg.com/media/DihgADvX0AEmHkB.jpg,TidyTuesday,29,2018,1020172674612498400,Links included,Image
+2018-07-23T15:26:37Z,http://pbs.twimg.com/media/DizKizvV4AAXH0-.jpg,"tidytuesday, rstats",30,2018,1021416297954005e3,Links included,Image
+2018-07-30T13:28:11Z,http://pbs.twimg.com/media/DjW0RrMUcAA-ssV.jpg,"tidytuesday, opendata, r4ds, tidyverse, rstats, dataviz",31,2018,1023923208754552800,Links included,Image
+2018-07-30T20:30:20Z,http://pbs.twimg.com/media/DjYVBs2V4AEMe1F.jpg,"tidytuesday, dataviz, rstats, opendata",31,2018,1024029449388474400,Images-only,needs inspection
+2018-07-31T03:45:23Z,http://pbs.twimg.com/media/DjZ4e-FU0AA_sM-.jpg,"TidyTuesday, ggplot2, rstats",31,2018,1024138932278112300,Images-only,Image
+2018-07-31T13:15:08Z,http://pbs.twimg.com/media/Djb6eEFX0AEpH8o.jpg,"TidyTuesday, rstats, R4DS",31,2018,1024282311947378700,Links included,
+2018-07-31T17:53:11Z,http://pbs.twimg.com/media/Djc6oIRWwAAORdY.jpg,TidyTuesday,31,2018,1024352286313771e3,Links included,Image
+2018-07-31T19:42:33Z,http://pbs.twimg.com/media/DjdTXudW0AEp6v3.jpg,"TidyTuesday, rstats, R4DS",31,2018,1024379810972352500,Images-only,Image
+2018-08-01T03:35:26Z,http://pbs.twimg.com/media/DjfAMB5XsAAEUQS.jpg,"TidyTuesday, ggplot2, rstats, dataviz",31,2018,1024498816186232800,Links included,Image
+2018-08-01T08:12:55Z,http://pbs.twimg.com/media/Djf_X2UW0AAWCCz.jpg,"TidyTuesday, leaflet, rstats, SoDS18",31,2018,1024568645459042300,Links included,Image
+2018-08-01T18:08:54Z,http://pbs.twimg.com/media/DjiIFjrVAAAs6v8.jpg,"opendata, tidytuesday",31,2018,1024718628346912800,Links included,needs inspection
+2018-08-01T18:41:40Z,http://pbs.twimg.com/media/DjiPVt2UUAI4QhM.jpg,"TidyTuesday, r4ds, acs",31,2018,1024726877657813e3,Images-only,Image
+2018-08-01T22:41:23Z,http://pbs.twimg.com/media/DjjEkjRXgAMIl66.jpg,"TidyTuesday, dataviz, rstats",31,2018,1024787201715040300,Links included,Image
+2018-08-02T13:08:12Z,http://pbs.twimg.com/media/DjmLn5uW4AAVMXH.jpg,"tidytuesday, ggalluvial, r4ds, SoDS18",31,2018,1025005344009998300,Images-only,Image
+2018-08-02T22:58:33Z,http://pbs.twimg.com/media/DjoTeclWsAAEPOs.jpg,TidyTuesday,31,2018,1025153910913282e3,Links included,
+2018-08-04T12:30:32Z,http://pbs.twimg.com/media/DjwXfI8U0AE7chd.jpg,"rSTATS, TidyTuesday",31,2018,1025720640844771300,Links included,Image
+2018-08-04T22:06:23Z,http://pbs.twimg.com/tweet_video_thumb/DjyX_p4W4AMVqVA.jpg,"dataviz, gganimate, TidyTuesday, rstats, tidyverse",31,2018,1025865558523342800,Links included,
+2018-08-04T23:18:25Z,http://pbs.twimg.com/media/DjyrUARVsAE5-rG.jpg,"tidyverse, rstats, tidytuesday",31,2018,1025883686808444900,Images-only,Image
+2018-08-05T00:08:22Z,http://pbs.twimg.com/media/Djy3ElkUwAAjDZL.jpg,"TidyTuesday, rstats",31,2018,1025896255984033800,Links included,Image
+2018-08-05T15:34:36Z,http://pbs.twimg.com/media/Dj2LNUzUUAYnM_u.png,"rstats, TidyTuesday",31,2018,1026129352885526500,Links included,Image
+2018-08-06T16:31:03Z,http://pbs.twimg.com/media/Dj7hODvU4AA392F.jpg,"tidytuesday, r4ds, tidyverse, rstats, dataviz",32,2018,1026505945722101800,Links included,Image
+2018-08-06T21:51:26Z,http://pbs.twimg.com/media/Dj8rCC_U8AAsimL.jpg,"TidyTuesday, week19, rstats",32,2018,1026586570164457500,Images-only,needs inspection
+2018-08-07T12:57:14Z,http://pbs.twimg.com/media/Dj_5rDcXoAAmYAK.png,TidyTuesday,32,2018,1026814524110852100,Links included,Image
+2018-08-07T17:24:31Z,http://pbs.twimg.com/media/DkA3ZiYW4AImyMv.jpg,"TidyTuesday, rstats, dataviz, R4DS",32,2018,1026881789846069200,Links included,Image
+2018-08-07T19:27:43Z,http://pbs.twimg.com/media/DkBTuLdX0AAZlsb.jpg,"TidyTuesday, rstats",32,2018,1.0269127931219599e+18,Links included,Image
+2018-08-07T21:53:33Z,http://pbs.twimg.com/media/DkB0dCDW4AE0g2Z.jpg,TidyTuesday,32,2018,1026949492204023800,Links included,Image
+2018-08-08T07:08:22Z,http://pbs.twimg.com/media/DkD0FTKW4AAc91x.jpg,"TidyTuesday, r4ds",32,2018,1027089115634909200,Links included,Image
+2018-08-09T13:56:11Z,http://pbs.twimg.com/media/DkKZkRlWsAAkU6B.jpg,"TidyTuesday, paletteer, rstats, SoDS18, tidyverse",32,2018,1027554137158893600,Images-only,Image
+2018-08-09T20:59:44Z,http://pbs.twimg.com/media/DkL7bJEVsAAgILn.jpg,"tidytuesday, ggplot2",32,2018,1027660723319660500,Images-only,needs inspection
+2018-08-09T21:41:01Z,http://pbs.twimg.com/media/DkMFVS5XgAUZ66z.jpg,"TidyTuesday, rstats, dataviz, ggplot, DataScience",32,2018,1027671114665865200,Links included,Image
+2018-08-12T01:09:20Z,http://pbs.twimg.com/media/DkXGN7lUYAAXxJd.jpg,tidytuesday,32,2018,1028448315208294400,Images-only,Image
+2018-08-12T19:39:07Z,http://pbs.twimg.com/media/DkbGPw5XoAAv_Qu.jpg,"TidyTuesday, rstats",32,2018,1028727600900923400,Images-only,Image
+2018-08-13T14:14:31Z,http://pbs.twimg.com/media/DkfDgAYUYAEWMlc.jpg,"tidytuesday, r4ds, tidyverse, rstats, dataviz",33,2018,1029008298794803200,Links included,Image
+2018-08-13T21:02:38Z,http://pbs.twimg.com/media/DkghkbZWsAErnfL.jpg,"TidyTuesday, TidyMonday, TidyText",33,2018,1029111007006867500,Images-only,Image
+2018-08-13T21:02:40Z,http://pbs.twimg.com/media/DkghxwkW4AEvNFd.jpg,"TidyTuesday, Tidyverse, ggplot2, TidyText",33,2018,1029111012786675700,Images-only,Image
+2018-08-13T21:02:41Z,http://pbs.twimg.com/media/DkgiULBXcAAHFnM.jpg,"TidyTuesday, Tidyverse, ggplot2, TidyText",33,2018,1029111017861726200,Images-only,Image
+2018-08-13T21:09:28Z,http://pbs.twimg.com/media/Dkgj2PHXsAEYtFe.jpg,"tidytuesday, r4ds, tidyverse, rstats, dataviz",33,2018,1029112726466048e3,Links included,needs inspection
+2018-08-14T17:44:06Z,http://pbs.twimg.com/media/Dkk9wa9W4AAhVEy.jpg,"tidytuesday, rstats",33,2018,1029423433053102100,Links included,Image
+2018-08-15T09:04:39Z,http://pbs.twimg.com/media/DkoRt50WwAEeO8o.jpg,TidyTuesday,33,2018,1029655096009916400,Links included,Image
+2018-08-15T14:37:08Z,http://pbs.twimg.com/media/Dkpd7-qVsAA2NyL.jpg,"organized, school, earphones, tidy, Purchase, backtoschool, TidyTuesday",33,2018,1029738769610461200,Links included,Image
+2018-08-15T20:56:33Z,http://pbs.twimg.com/media/Dkqz7XeU0AEejTG.jpg,"r4ds, TidyTuesday, rstats",33,2018,1029834250063945700,Images-only,needs inspection
+2018-08-16T19:46:24Z,http://pbs.twimg.com/media/DkvsXCpXoAEAxsF.jpg,"tidytuesday, tidytext, rstats, SoDS18",33,2018,1030178985404260400,Images-only,Image
+2018-08-19T14:37:41Z,http://pbs.twimg.com/media/Dk-EbRgXsAAOK9V.jpg,TidyTuesday,33,2018,1031188458650443800,Images-only,Image
+2018-08-20T13:30:33Z,http://pbs.twimg.com/media/DlC9j5pU0AAaBCO.jpg,"tidytuesday, r4ds, tidyverse, rstats, dataviz",34,2018,1031533950475354100,Links included,Image
+2018-08-20T18:45:59Z,http://pbs.twimg.com/media/DlEG2DfW4AYDg9V.jpg,"tidytuesday, r4ds",34,2018,1031613330228760600,Links included,Image
+2018-08-21T02:27:27Z,http://pbs.twimg.com/media/DlFv9u8U0AAha0w.jpg,TidyTuesday,34,2018,1031729463095177200,Links included,Image
+2018-08-21T10:05:48Z,http://pbs.twimg.com/media/DlHZAWSX0AAhLMP.jpg,"TidyTuesday, rstats, satRdays, datascience",34,2018,1031844812306239500,Links included,Image
+2018-08-21T13:57:36Z,http://pbs.twimg.com/media/DlIMPf3V4AM-mGB.jpg,"tidytuesday, cafire, rstats",34,2018,1031903147969527800,Links included,needs inspection
+2018-08-21T14:04:42Z,http://pbs.twimg.com/media/DlIPPTtW0AAhbGA.jpg,TidyTuesday,34,2018,1031904931530199e3,Links included,Image
+2018-08-21T17:04:02Z,http://pbs.twimg.com/media/DlI40AKU0AIVpRe.jpg,"tidytuesday, r4ds, rstats, tidyverse, dataviz",34,2018,1031950062358851600,Links included,needs inspection
+2018-08-21T17:22:01Z,http://pbs.twimg.com/media/DlI85PQUcAEOhW3.jpg,"TidyTuesday, r4ds, rstats, wildfires",34,2018,1031954591020007400,Images-only,Image
+2018-08-21T19:14:13Z,http://pbs.twimg.com/media/DlJW4L7X4AECaMg.jpg,"rstats, tidytuesday, wildfires",34,2018,1031982825812181e3,Links included,Image
+2018-08-21T19:35:28Z,http://pbs.twimg.com/media/DlJbqe9W4AAm_PI.jpg,tidytuesday,34,2018,1031988173214236700,Images-only,Image
+2018-08-21T20:23:52Z,http://pbs.twimg.com/tweet_video_thumb/DlJl5iLX4AE0cn_.jpg,"TidyTuesday, gganimate, rstats, dataviz, r4ds",34,2018,1032000353003286500,Images-only,
+2018-08-22T19:37:45Z,http://pbs.twimg.com/media/DlOktSPXcAEZiEA.jpg,"TidyTuesday, ggridges, SoDS18, rstats, tidyverse, r4ds",34,2018,1032351135082967e3,Images-only,Image
+2018-08-23T14:43:07Z,http://pbs.twimg.com/media/DlSrhRNW0AA06TT.jpg,TidyTuesday,34,2018,1032639375304261600,Images-only,Image
+2018-08-23T18:29:39Z,http://pbs.twimg.com/media/DlTfvKNVsAEhlrB.jpg,"TidyTuesday, rstats, tidyverse, dataviz",34,2018,1032696385647374300,Images-only,needs inspection
+2018-08-24T14:28:59Z,http://pbs.twimg.com/media/DlXyT72WwAEmadr.jpg,"TidyTuesday, r4ds",34,2018,1032998205804429300,Links included,Image
+2018-08-27T15:28:52Z,http://pbs.twimg.com/media/DlnbIHOV4AA1vdf.jpg,"tidytuesday, NFL, r4ds, tidyverse, rstats, dataviz",35,2018,1034100440839991300,Links included,Image
+2018-08-27T19:13:12Z,http://pbs.twimg.com/media/DloQMyoWwAUlld_.jpg,"rstats, tidytuesday",35,2018,1034156894477271e3,Links included,Image
+2018-08-27T19:25:21Z,http://pbs.twimg.com/media/DloS2wWXcAE-9F6.jpg,"tidytuesday, ggplot, rstats",35,2018,103415995361391e4,Images-only,Image
+2018-08-27T23:50:27Z,http://pbs.twimg.com/media/DlpOlo_WwAEHK7G.jpg,"TidyTuesday, rstats, r4ds",35,2018,1034226668414488600,Links included,Image
+2018-08-28T17:51:12Z,http://pbs.twimg.com/tweet_video_thumb/DltHASfW4AAJqOK.jpg,"TidyTuesday, rstats",35,2018,1034498647956881400,Images-only,
+2018-08-28T18:54:12Z,http://pbs.twimg.com/media/DltU0JvVAAEpPi4.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz",35,2018,1034514501264191500,Images-only,needs inspection
+2018-08-28T20:04:55Z,http://pbs.twimg.com/media/DltlIPKW0AIu0zq.png,TidyTuesday,35,2018,1034532298610360300,Links included,Image
+2018-08-28T20:53:04Z,http://pbs.twimg.com/media/DltwmzdWwAANyS7.jpg,TidyTuesday,35,2018,1034544417854476300,Images-only,Image
+2018-08-28T22:20:03Z,http://pbs.twimg.com/tweet_video_thumb/DluEaeXX4AAogSF.jpg,"TidyTuesday, gganimate, rstats, r4ds",35,2018,1034566305620344800,Images-only,
+2018-08-28T22:49:28Z,http://pbs.twimg.com/media/DluJgxeX4AAKBuY.jpg,TidyTuesday,35,2018,1034573710051696600,Links included,Image
+2018-08-29T02:30:01Z,http://pbs.twimg.com/media/Dlu9okOW0AA2Z0J.jpg,"TidyTuesday, rstats, r4ds",35,2018,1034629211703730200,Links included,Image
+2018-08-29T04:55:30Z,http://pbs.twimg.com/media/Dlvd6M2XgAAPEGA.jpg,"TidyTuesday, gghighlight, rdatatable",35,2018,1034665824181735400,Links included,Image
+2018-08-29T17:43:30Z,http://pbs.twimg.com/media/DlyOxCbU8AAbaKd.jpg,TidyTuesday,35,2018,1034859098406154200,Links included,Image
+2018-08-29T20:49:58Z,http://pbs.twimg.com/tweet_video_thumb/Dly5e0mX4AAqkeW.jpg,"TidyTuesday, gganimate, rstats, SoDS18",35,2018,1034906025713979400,Images-only,Image
+2018-09-01T16:14:38Z,http://pbs.twimg.com/media/DmBXSx7VAAAt3Ys.jpg,"rstats, tidytuesday",35,2018,1035923896162295800,Links included,Image
+2018-09-02T15:12:09Z,http://pbs.twimg.com/media/DmGScjMX0AIDGqH.jpg,"rstats, tidytuesday, rladies",35,2018,1036270563503890400,Links included,Image
+2018-09-04T17:14:08Z,http://pbs.twimg.com/media/DmRBpnpUUAAp4fX.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz",36,2018,1037026035370520600,Images-only,needs inspection
+2018-09-04T18:19:02Z,http://pbs.twimg.com/media/DmRQbRmW0AAi_Rh.jpg,TidyTuesday,36,2018,1037042366534877200,Links included,Image
+2018-09-04T20:03:32Z,http://pbs.twimg.com/media/DmRoa_iX4AEA1PM.jpg,"rstats, ggplot, hrbrthemes, tidytuesday",36,2018,1037068664862847e3,Links included,Image
+2018-09-04T20:42:44Z,http://pbs.twimg.com/media/DmRw_V9W0AcluJs.png,TidyTuesday,36,2018,1037078530692186100,Links included,Image
+2018-09-04T21:25:07Z,http://pbs.twimg.com/media/DmR6-e6UwAAHWgm.jpg,"tidytuesday, r4ds, tidyverse, rstats, dataviz",36,2018,1037089195595104300,Links included,Image
+2018-09-05T00:13:31Z,http://pbs.twimg.com/media/DmShq0hU4AAEKSn.jpg,"tidytuesday, ggplot, rstats",36,2018,1037131574565724200,Images-only,needs inspection
+2018-09-05T19:18:20Z,http://pbs.twimg.com/media/DmWm114X0AAUsf0.jpg,"TidyTuesday, rstats, R4DS, dataviz",36,2018,1037419677864140800,Links included,Image
+2018-09-06T00:46:04Z,http://pbs.twimg.com/media/DmXyl0mXoAAA7nr.jpg,"TidyTuesday, rstats, R4DS",36,2018,1037502154955808800,Links included,Image
+2018-09-06T14:05:22Z,http://pbs.twimg.com/media/DmapaQyXoAAmM27.jpg,"tidytuesday, r4ds, rstats, tidyverse, dataviz",36,2018,1037703305726775300,Images-only,needs inspection
+2018-09-06T14:49:28Z,http://pbs.twimg.com/tweet_video_thumb/Dmay9PYXsAEuLnX.jpg,"TidyTuesday, R4DS, rstats, gganimate",36,2018,1037714406476533800,Links included,
+2018-09-06T21:17:46Z,http://pbs.twimg.com/media/DmcMRNXVsAAbV9V.jpg,"rstats, TidyTuesday, r4ds",36,2018,1037812122422526e3,Images-only,Image
+2018-09-06T21:41:32Z,http://pbs.twimg.com/media/DmcR8_pXgAArvOH.jpg,"TidyTuesday, rstats, r4ds, tidyverse",36,2018,1037818105265901600,Links included,Image
+2018-09-08T13:52:28Z,http://pbs.twimg.com/media/Dmk41iWX0AARldy.jpg,"tidytuesday, rstats",36,2018,1038424834479415300,Images-only,Image
+2018-09-10T09:52:08Z,http://pbs.twimg.com/media/DmuWAfjXoAIkPUN.jpg,"TidyTuesday, TidyTuesday, rstats",37,2018,1039089129592696800,Links included,Image
+2018-09-10T13:59:30Z,http://pbs.twimg.com/media/DmvNkSYU0AEmw6X.jpg,"tidytuesday, r4ds, tidyverse, rstats, dataviz, rcatladies, rdogladies",37,2018,1039151380768931800,Links included,Image
+2018-09-10T20:26:17Z,http://pbs.twimg.com/tweet_video_thumb/DmwmY_gWwAIl5F9.jpg,"week24, Tidytuesday, rstats, rspatial",37,2018,1039248718212546600,Links included,
+2018-09-10T22:17:00Z,http://pbs.twimg.com/media/DmxAiVTWwAAV-Np.png,TidyTuesday,37,2018,1039276580583952400,Links included,Image
+2018-09-11T10:49:27Z,http://pbs.twimg.com/media/DmzstpNWsAAgFI2.jpg,"TidyTuesday, rstats",37,2018,1039465941158047700,Links included,Image
+2018-09-11T13:27:37Z,http://pbs.twimg.com/media/Dm0QM58VsAI_hC3.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2",37,2018,1039505744385720300,Images-only,needs inspection
+2018-09-11T14:53:19Z,http://pbs.twimg.com/media/Dm0jt5HX4AAbkok.jpg,"catperson, dogperson, TidyTuesday, rstats, R4DS, dataviz",37,2018,1039527312197382100,Links included,Image
+2018-09-11T15:37:25Z,http://pbs.twimg.com/media/Dm0urKAUUAAPz_r.jpg,"TidyTuesday, tidyverse, rstats, r4ds, dataviz",37,2018,1039538411948765200,Images-only,needs inspection
+2018-09-11T16:57:49Z,http://pbs.twimg.com/media/Dm1A3LZVsAEgcIJ.jpg,"tidytuesday, rstats",37,2018,1039558646269587500,Images-only,needs inspection
+2018-09-11T21:16:50Z,http://pbs.twimg.com/media/Dm16_1jXgAEYyHH.jpg,TidyTuesday,37,2018,1039623828773601300,Links included,Image
+2018-09-11T23:44:08Z,http://pbs.twimg.com/media/Dm2eCuwW0AAV0N-.jpg,"TidyTuesday, r4ds",37,2018,1039660896925245400,Links included,Image
+2018-09-12T01:02:44Z,http://pbs.twimg.com/media/Dm2wCFUVsAEfLYA.jpg,"week24, TidyTuesday, r4ds, rstats, tidyverse",37,2018,1039680678474838e3,Links included,
+2018-09-12T01:45:59Z,http://pbs.twimg.com/media/Dm25x7TW0AAslEL.jpg,"TidyTuesday, rstats, dataviz, tidyverse",37,2018,1039691562031177700,Links included,Image
+2018-09-12T03:40:51Z,http://pbs.twimg.com/media/Dm3TRfDUwAAWjew.jpg,TidyTuesday,37,2018,1039720469807738900,Links included,Image
+2018-09-12T19:19:02Z,http://pbs.twimg.com/media/Dm6qOi6X4AEvNol.jpg,"TidyTuesday, r4ds, rstats",37,2018,1039956571009286100,Images-only,Image
+2018-09-12T20:42:02Z,http://pbs.twimg.com/media/Dm69_EKW4AErpao.jpg,"infographic, productivity, workathome, wahm, cleanhouse, TidyTuesday",37,2018,1039977456818704400,Links included,Image
+2018-09-13T06:25:32Z,http://pbs.twimg.com/media/Dm9Dba_W4AAsMgd.jpg,"TidyTuesday, rstats, tidyverse, Graphics",37,2018,1040124298680299500,Links included,Image
+2018-09-13T19:12:47Z,http://pbs.twimg.com/media/Dm_y5HBX4AAKEJE.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2",37,2018,1040317385490817e3,Images-only,Image
+2018-09-14T16:26:40Z,http://pbs.twimg.com/media/DnEWJC1VsAA0vtf.jpg,"TidyTuesday, ggplot2, rstats",37,2018,1040637966681464800,Images-only,Image
+2018-09-15T17:04:28Z,http://pbs.twimg.com/media/DnJoubBWwAYUZFa.jpg,TidyTuesday,37,2018,1041009867606110200,Links included,
+2018-09-16T21:51:13Z,http://pbs.twimg.com/media/DnP0Jb_XoAU8ifn.jpg,"r4ds, tidytuesday",37,2018,1041444420120440800,Links included,Image
+2018-09-17T12:41:10Z,http://pbs.twimg.com/media/DnS9VHNV4AAyDX5.jpg,"tidytuesday, r4ds, tidyverse, rstats, dataviz",38,2018,1041668382024712200,Links included,Image
+2018-09-17T19:31:05Z,http://pbs.twimg.com/tweet_video_thumb/DnUdmKCXoAEJYB1.jpg,"TidyTuesday, week25, rspatial, gis, rstats, tmap",38,2018,1041771542458392600,Links included,
+2018-09-18T15:17:49Z,http://pbs.twimg.com/media/DnYtR3nUYAAGaXD.jpg,"tidytuesday, rstats, r4ds, tidyverse, dataviz, ggplot2",38,2018,1042070191742640100,Images-only,needs inspection
+2018-09-18T16:31:50Z,http://pbs.twimg.com/media/DnY-P7bX0AEDtno.jpg,TidyTuesday,38,2018,1042088820039200800,Images-only,Image
+2018-09-18T18:41:11Z,http://pbs.twimg.com/media/DnZbcFtXgAImYvB.jpg,"TidyTuesday, rstats",38,2018,1042121371256545300,Images-only,Image
+2018-09-18T20:24:51Z,http://pbs.twimg.com/tweet_video_thumb/DnZzJdCXgAEcMFd.jpg,"gganimate, TidyTuesday, rstats",38,2018,1042147462985789400,Images-only,needs inspection
+2018-09-19T06:07:03Z,http://pbs.twimg.com/media/Dnb4CPKXgAAgJPh.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2",38,2018,1042293975808393200,Images-only,Image
+2018-09-19T16:28:03Z,http://pbs.twimg.com/media/DneG6hGVAAEtDH8.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2, gridarrange, viridis",38,2018,1042450254250082300,Images-only,Image
+2018-09-19T22:52:31Z,http://pbs.twimg.com/media/DnfeYbLVYAE3gl7.jpg,"TidyTuesday, r4ds, rstats",38,2018,1042547009004036100,Images-only,
+2018-09-20T03:05:46Z,http://pbs.twimg.com/media/DngYhbuWsAAZFQR.jpg,"TidyTuesday, rstats",38,2018,1042610744636919800,Links included,Image
+2018-09-20T13:43:27Z,http://pbs.twimg.com/media/DniqzGcXcAIm9oS.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2",38,2018,1042771222499655700,Images-only,needs inspection
+2018-09-20T13:44:43Z,http://pbs.twimg.com/media/DnirLLZWwAAWKEl.jpg,"TidyTuesday, rstats",38,2018,1042771540666921e3,Images-only,Image
+2018-09-20T20:16:37Z,http://pbs.twimg.com/media/DnkEbsQU8AAXhxn.jpg,TidyTuesday,38,2018,1042870166411857900,Links included,Image
+2018-09-23T09:06:31Z,http://pbs.twimg.com/media/DnxIDUaXUAArCoy.jpg,tidytuesday,38,2018,1043788694153515e3,Links included,Image
+2018-09-23T19:17:10Z,http://pbs.twimg.com/media/DnzS8CQW0AILoER.jpg,"tidytuesday, r4ds",38,2018,1043942368842592300,Links included,Image
+2018-09-24T13:27:53Z,http://pbs.twimg.com/media/Dn3MFcnUwAElbz2.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz, ecology",39,2018,1044216855324438500,Links included,Image
+2018-09-25T13:42:45Z,http://pbs.twimg.com/media/Dn8aXZSVAAEetvA.jpg,"tidytuesday, SouthAfrica, rstats, r4ds, tidyverse, dataviz, ggplot2",39,2018,1044582983200473100,Images-only,needs inspection
+2018-09-25T20:51:53Z,http://pbs.twimg.com/media/Dn98SEHWkAU7vbD.jpg,"tidytuesday, rstats, r4ds, tidyverse, dataviz, highcharter",39,2018,1044690977217294300,Images-only,Image
+2018-09-26T01:08:59Z,http://pbs.twimg.com/media/Dn-3f_nXsAEFPey.jpg,"TidyTuesday, R4DS, rstats",39,2018,1044755680773754900,Links included,needs inspection
+2018-09-26T16:31:34Z,http://pbs.twimg.com/media/DoCG5bWWkAA2hoV.jpg,"TidyTuesday, rstats, highcharter, r4ds, tidyverse, dataviz",39,2018,1044987854768803800,Images-only,Image
+2018-09-26T20:55:22Z,http://pbs.twimg.com/media/DoDGvgvXUAICtks.jpg,"TidyTuesday, rstats, R4DS, dataviz",39,2018,1045054245689389e3,Links included,Image
+2018-09-27T13:49:24Z,http://pbs.twimg.com/media/DoGvYSqU4AEcSeE.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2",39,2018,1045309432811253800,Links included,needs inspection
+2018-09-28T09:26:59Z,http://pbs.twimg.com/media/DoK84e0XgAA8wWt.jpg,"TidyTuesday, worldtilegrid, rstats",39,2018,1045605783260581900,Links included,Image
+2018-09-29T13:33:32Z,http://pbs.twimg.com/media/DoQ-6RvWkAIfk-o.jpg,"tidytuesday, r4ds",39,2018,1046030216223690800,Links included,Image
+2018-09-30T20:56:32Z,http://pbs.twimg.com/media/DoXtlCiX0AA8fKj.jpg,"TidyTuesday, rstats, r4ds",39,2018,1046504087397838800,Links included,Image
+2018-10-01T19:25:01Z,http://pbs.twimg.com/media/DochxdHU8AATqfs.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",40,2018,1046843444201705500,Links included,Image
+2018-10-02T18:36:21Z,http://pbs.twimg.com/media/DohgYF5XUAAR3vS.jpg,"TidyTuesday, rstats",40,2018,1047193584502526e3,Links included,Image
+2018-10-02T19:48:56Z,http://pbs.twimg.com/media/DohxGHCUcAAgEdu.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",40,2018,1047211853426962400,Images-only,Image
+2018-10-02T21:14:24Z,http://pbs.twimg.com/media/DoiFEh0XsAAr4A9.jpg,"tidytuesday, rstats, r4ds, tidyverse, dataviz, ggplot2",40,2018,1047233361603973100,Images-only,needs inspection
+2018-10-03T02:20:39Z,http://pbs.twimg.com/media/DojKY_8XoAImrPI.jpg,TidyTuesday,40,2018,1047310432501940200,Images-only,Image
+2018-10-03T11:26:19Z,http://pbs.twimg.com/media/DolHyX_UUAAgl0q.jpg,"tidytuesday, rstats",40,2018,1047447753561763800,Images-only,Image
+2018-10-03T11:42:26Z,http://pbs.twimg.com/media/DolLyRfUUAEZrxj.jpg,"tidytuesday, rstats",40,2018,1047451806417092600,Images-only,Image
+2018-10-03T14:17:00Z,http://pbs.twimg.com/media/Dolu8zyU4AA6dUc.jpg,"TidyTuesday, rstats",40,2018,1047490705415782400,Images-only,needs inspection
+2018-10-03T16:24:00Z,http://pbs.twimg.com/media/DomLrpEXUAEhz0u.jpg,"tidyverse, TidyTuesday",40,2018,104752266511906e4,Images-only,Image
+2018-10-03T16:36:58Z,http://pbs.twimg.com/media/DomNn-MX4AACisG.jpg,"TidyTuesday, rstats, R4DS, dataviz",40,2018,1047525929310990300,Links included,Image
+2018-10-03T17:21:16Z,http://pbs.twimg.com/media/DomZAcvX4AA6lc1.jpg,"TidyTuesday, rstats",40,2018,1047537080321151e3,Images-only,
+2018-10-03T20:41:02Z,http://pbs.twimg.com/media/DonHJGgUcAAEWw7.jpg,"TidyTuesday, rstats",40,2018,1047587351403192300,Links included,Image
+2018-10-03T21:05:20Z,http://pbs.twimg.com/media/DonMj5DWwAUEUNa.png,TidyTuesday,40,2018,1047593468170838e3,Links included,Image
+2018-10-03T21:22:03Z,http://pbs.twimg.com/media/DonO1OCX4AEW3-J.png,TidyTuesday,40,2018,1047597674029936600,Images-only,Image
+2018-10-03T21:39:51Z,http://pbs.twimg.com/media/DonUHLqV4AAxkhO.jpg,"TidyTuesday, r4ds, rstats, MachineLearning",40,2018,1.0476021516383601e+18,Images-only,Image
+2018-10-04T14:08:11Z,http://pbs.twimg.com/media/Doq2wPYXsAAQV7P.jpg,tidytuesday,40,2018,1047850874402431e3,Links included,Image
+2018-10-04T19:04:39Z,http://pbs.twimg.com/media/Dor6NZcU8AAqOdW.jpg,"TidyTuesday, rstats, r4ds",40,2018,1047925483252473900,Images-only,Image
+2018-10-05T05:10:02Z,http://pbs.twimg.com/media/DouE_x_U0AAII1l.jpg,"TidyTuesday, rstats, R4DS, dataviz",40,2018,1048077833203941400,Links included,Image
+2018-10-05T18:57:55Z,http://pbs.twimg.com/media/DoxBmQRXsAEkR3O.jpg,"TidyTuesday, rstats, R4DS, dataviz",40,2018,1048286175520325600,Links included,needs inspection
+2018-10-08T13:19:32Z,http://pbs.twimg.com/media/Do_ReKHUUAA87zc.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",41,2018,1049288182418870300,Links included,Image
+2018-10-09T13:51:43Z,http://pbs.twimg.com/media/DpEiuirXoAA4oxK.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2",41,2018,1049658672316592100,Images-only,needs inspection
+2018-10-09T14:19:18Z,http://pbs.twimg.com/media/DpEoRVCW4AIu0bF.jpg,"tidytuesday, rstats, ggplot2, tidyverse, dataviz",41,2018,1049665610731409400,Links included,Image
+2018-10-09T15:41:52Z,http://pbs.twimg.com/tweet_video_thumb/DpE8K22V4AAuUyJ.jpg,"TidyTuesday, magick, r4ds, tidyverse, rstats, dataviz, ggplot2",41,2018,1049686388965331e3,Links included,
+2018-10-09T15:58:45Z,http://pbs.twimg.com/media/DpFAEO7XgAE8McH.jpg,"TidyTuesday, r4ds, rstats, tidyverse",41,2018,1049690638915125200,Images-only,Image
+2018-10-09T16:47:50Z,http://pbs.twimg.com/media/DpFKh39VAAAzabD.jpg,"TidyTuesday, rstats",41,2018,1049702990259470300,Images-only,needs inspection
+2018-10-09T21:42:16Z,http://pbs.twimg.com/media/DpGOnxaXoAA6DrG.jpg,"TidyTuesday, dataviz, rstats, r4ds",41,2018,1049777089136742400,Links included,needs inspection
+2018-10-09T23:01:43Z,http://pbs.twimg.com/tweet_video_thumb/DpGdwkXUUAAt4Si.jpg,"unsolicitedfeedback, TidyTuesday, Rstats, statsgif",41,2018,1049797083060813800,Images-only,
+2018-10-10T01:36:01Z,http://pbs.twimg.com/media/DpHDhh7XUAAi2wM.jpg,TidyTuesday,41,2018,1049835914464251900,Images-only,Image
+2018-10-10T02:11:23Z,http://pbs.twimg.com/media/DpHMD2xX4AA5R46.jpg,"TidyTuesday, rstats, r4ds",41,2018,1049844815368732700,Links included,Image
+2018-10-10T03:16:55Z,http://pbs.twimg.com/media/DpHbNAiXgAUC9T_.jpg,TidyTuesday,41,2018,1049861304163405800,Images-only,Image
+2018-10-10T08:23:07Z,http://pbs.twimg.com/media/DpIhDzbUYAAwmLl.jpg,"TidyTuesday, rstats, R4DS, dataviz",41,2018,1049938364273582100,Links included,Image
+2018-10-10T10:35:02Z,http://pbs.twimg.com/media/DpI-qV8X4AAC_bI.jpg,"TidyTuesday, R4DS, datavis",41,2018,1049971559727796200,Links included,Image
+2018-10-10T11:20:11Z,http://pbs.twimg.com/media/DpJGbJfXUAAvUWN.jpg,"TidyTuesday, rstats, R4DS, dataviz",41,2018,1049982925108863e3,Links included,Image
+2018-10-10T13:25:55Z,http://pbs.twimg.com/tweet_video_thumb/DpJfx0DXoAE4rNJ.jpg,"TidyTuesday, rstats, r4ds",41,2018,1050014566795612200,Images-only,Image
+2018-10-10T17:01:50Z,http://pbs.twimg.com/media/DpKX_n3UYAALMjM.jpg,"TidyTuesday, r4ds, rstats",41,2018,1050068904045891600,Images-only,Image
+2018-10-10T17:22:44Z,http://pbs.twimg.com/tweet_video_thumb/DpKc1BmXgAErNOX.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz, ggplot2",41,2018,1050074163304689700,Images-only,
+2018-10-10T21:24:43Z,http://pbs.twimg.com/media/DpLUKYYU8AETe3u.jpg,"tidytuesday, rstats, r4ds",41,2018,1050135061566185500,Links included,Image
+2018-10-11T00:17:18Z,http://pbs.twimg.com/media/DpL56ZrXgAAG3Pa.jpg,"TidyTuesday, rstats",41,2018,1050178493378650100,Images-only,Image
+2018-10-11T01:28:01Z,http://pbs.twimg.com/media/DpMLbCFX4AAB9sA.jpg,"tidytuesday, tidyverse, rstats, rstudio, DataAnalytics",41,2018,1050196288271212500,Images-only,Image
+2018-10-11T14:42:31Z,http://pbs.twimg.com/media/DpPByZGXUAEkT0m.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2, gghighlight",41,2018,1050396232655495200,Images-only,needs inspection
+2018-10-11T16:47:48Z,http://pbs.twimg.com/media/DpPdxx2U0AARouw.png,"TidyTuesday, rstats, r4ds, tidyverse, ggplot2",41,2018,1050427761079316500,Images-only,Image
+2018-10-12T10:05:49Z,http://pbs.twimg.com/media/DpTMCDCW0AA3ACX.jpg,"TidyTuesday, rstats",41,2018,1050688982911250400,Links included,Image
+2018-10-15T12:22:45Z,http://pbs.twimg.com/media/DpjGlteUwAAte1f.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",42,2018,1051810609090744300,Links included,Image
+2018-10-15T20:15:16Z,http://pbs.twimg.com/media/Dpkz82sVsAQa6Xp.jpg,"tidytuesday, rstats, dataviz",42,2018,1051929519685218300,Images-only,Image
+2018-10-16T08:57:48Z,http://pbs.twimg.com/media/Dpni2NbVAAA6QKW.jpg,"tidytuesday, RStats",42,2018,1052121420514226200,Images-only,needs inspection
+2018-10-16T11:26:01Z,http://pbs.twimg.com/media/DpoEopNU0AQLUmx.jpg,"tidytuesday, rstats, tourism",42,2018,1052158717645348900,Links included,Image
+2018-10-16T13:29:36Z,http://pbs.twimg.com/media/Dpog9gsV4AE-D6h.jpg,"tidytuesday, rstats, ggplot2, tidyverse, dataviz",42,2018,1052189821290958800,Links included,Image
+2018-10-16T13:59:38Z,http://pbs.twimg.com/media/Dpon0GMXUAA2KCG.jpg,"TidyTuesday, rstats, dataviz",42,2018,1052197377505865700,Links included,Image
+2018-10-16T15:35:55Z,http://pbs.twimg.com/media/Dpo9I9EWsAA63Jk.jpg,"tidytuesday, rstats",42,2018,1052221606746091500,Links included,Image
+2018-10-16T16:05:16Z,http://pbs.twimg.com/media/DppEA22VsAAahE7.jpg,TidyTuesday,42,2018,1052228993586327600,Images-only,Image
+2018-10-16T16:38:50Z,http://pbs.twimg.com/media/DppMXS7U8AEEksA.jpg,tidytuesday,42,2018,1052237442655248400,Images-only,needs inspection
+2018-10-16T16:44:09Z,http://pbs.twimg.com/media/DppNNb9U8AIwYbM.jpg,"TidyTuesday, rstats, r4ds, dataviz",42,2018,1052238779728228400,Links included,needs inspection
+2018-10-16T17:54:28Z,http://pbs.twimg.com/media/DppdJznXoAU2W7O.jpg,TidyTuesday,42,2018,1052256477786726400,Images-only,Image
+2018-10-16T20:31:16Z,http://pbs.twimg.com/media/DpqBCwJXcAAJhyj.jpg,"tidytuesday, rstats",42,2018,1052295935693340700,Links included,Image
+2018-10-16T21:04:38Z,http://pbs.twimg.com/media/DpqI21nXgAIvG5Z.jpg,"tidytuesday, rstats, r4ds, tidyverse, dataviz, ggplot2, gghighlight",42,2018,1052304334011211800,Images-only,needs inspection
+2018-10-16T23:19:58Z,http://pbs.twimg.com/media/Dpqm2VZUUAApsb1.jpg,"TidyTuesday, rstats, r4ds",42,2018,1052338389247189e3,Links included,Image
+2018-10-17T00:18:49Z,http://pbs.twimg.com/media/Dpq0OKUU0AEfGtT.jpg,TidyTuesday,42,2018,1052353202534764500,Images-only,Image
+2018-10-17T02:10:54Z,http://pbs.twimg.com/media/DprPQyMU0AALV-x.jpg,"tidytuesday, rstats, tidyverse",42,2018,1052381407731802100,Images-only,Image
+2018-10-17T03:22:28Z,http://pbs.twimg.com/media/DprfmtMX4AAbd9o.jpg,"TidyTuesday, rstats, r4ds",42,2018,1052399418807332900,Links included,Image
+2018-10-17T04:16:43Z,http://pbs.twimg.com/media/DprsBBJWsAAdZTG.jpg,TidyTuesday,42,2018,1052413070889373700,Links included,Image
+2018-10-17T08:01:28Z,http://pbs.twimg.com/media/DpsfY2KU0AAZRHW.jpg,"TidyTuesday, rstats, R4DS, dataviz",42,2018,1052469630038552600,Links included,Image
+2018-10-17T21:55:07Z,http://pbs.twimg.com/media/Dpvd1n8WkAAlTMQ.jpg,"TidyTuesday, R4DS, dataviz",42,2018,1052679427367292900,Links included,Image
+2018-10-18T13:27:17Z,http://pbs.twimg.com/media/Dpyy0geW0AEzqtN.jpg,"TidyTuesday, tidytext, rstats, r4ds, tidyverse, dataviz, ggplot2, datascience",42,2018,1052914012961288200,Images-only,needs inspection
+2018-10-18T22:01:50Z,http://pbs.twimg.com/media/Dp0peutVsAAEwyL.jpg,"rstats, tidyverse, tidytuesday, learnR, visualizations, highschoolStats",42,2018,1053043503490625500,Images-only,Image
+2018-10-20T07:08:16Z,http://pbs.twimg.com/media/Dp7wHQqX4AARdbW.jpg,tidytuesday,42,2018,1053543405232345100,Images-only,Image
+2018-10-22T15:38:12Z,http://pbs.twimg.com/media/DqH3PHkU0AIwiNN.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz, HorrorMovies",43,2018,1054396511260459e3,Links included,Image
+2018-10-23T04:43:54Z,http://pbs.twimg.com/media/DqKrtAUUUAA03Yw.jpg,"TidyTuesday, rstats",43,2018,1054594239173034e3,Images-only,needs inspection
+2018-10-23T05:08:00Z,http://pbs.twimg.com/media/DqKxXRGX0AAQFLu.jpg,TidyTuesday,43,2018,1054600301351714800,Images-only,Image
+2018-10-23T14:07:16Z,http://pbs.twimg.com/media/DqMsWi1WkAMB2SC.jpg,"TidyTuesday, rstats",43,2018,1054736015720673300,Images-only,Image
+2018-10-23T14:18:55Z,http://pbs.twimg.com/media/DqMvIQWXQAAcSAg.jpg,"tidytuesday, rstats, ggplot2, tidyverse, dataviz, barbarplots",43,2018,1054738947371421700,Links included,Image
+2018-10-23T15:06:51Z,http://pbs.twimg.com/media/DqM6K16XQAANeLc.jpg,"Tidytuesday, rstats, ggridges",43,2018,1054751009988399100,Links included,
+2018-10-23T15:10:30Z,http://pbs.twimg.com/media/DqM6-BGWwAA0wnR.jpg,"rstats, ggridges, Tidytuesday",43,2018,1054751929480417300,Links included,
+2018-10-23T15:54:54Z,http://pbs.twimg.com/media/DqNEMphWwAAnx_2.jpg,"TidyTuesday, rstats, R4DS, dataviz, ggplot2, horror, movies",43,2018,1054763101546053600,Links included,Image
+2018-10-23T18:16:41Z,http://pbs.twimg.com/media/DqNlF96WoAEgEhX.jpg,"TidyTuesday, rstats, DataScience",43,2018,1054798780682436600,Images-only,
+2018-10-23T19:25:09Z,http://pbs.twimg.com/media/DqN0LYsVsAEEOsQ.jpg,"TidyTuesday, fallcolors",43,2018,1054816011084488700,Images-only,Image
+2018-10-23T20:02:41Z,http://pbs.twimg.com/media/DqN6ej5X0AEX24R.jpg,"TidyTuesday, rstat",43,2018,1054825457756094500,Links included,Image
+2018-10-23T20:50:50Z,http://pbs.twimg.com/media/DqOIkCzV4AAH9mY.jpg,"TidyTuesday, rstats, r4ds",43,2018,1054837576761294800,Images-only,Image
+2018-10-23T20:56:17Z,http://pbs.twimg.com/media/DqOKbjPU4AA_mQ3.jpg,"rstats, tidytuesday, datascience",43,2018,1054838945874231300,Links included,Image
+2018-10-23T22:04:16Z,http://pbs.twimg.com/media/DqOZ9T5XgAEO2Vr.jpg,"tidytuesday, rstats, r4ds, dataviz, ggplot2",43,2018,1054856053203132400,Links included,needs inspection
+2018-10-24T00:58:18Z,http://pbs.twimg.com/ext_tw_video_thumb/1054896761058152448/pu/img/ijSbrRI8Hu5Bqhib.jpg,"slowggplot, TidyTuesday, rstats",43,2018,1054899853925376e3,Images-only,
+2018-10-24T02:30:51Z,http://pbs.twimg.com/media/DqPWNSjWwAI2Z1F.jpg,TidyTuesday,43,2018,1054923144241266700,Links included,
+2018-10-24T11:43:39Z,http://pbs.twimg.com/media/DqRVdqTUUAAsKNU.jpg,"TidyTuesday, rstats, R4DS, dataviz",43,2018,1055062261788639200,Links included,Image
+2018-10-24T12:04:48Z,http://pbs.twimg.com/media/DqRaSJFX4AIZRjx.jpg,TidyTuesday,43,2018,1055067580585689100,Images-only,Image
+2018-10-24T20:59:31Z,http://pbs.twimg.com/media/DqTT_jPXQAEG991.jpg,"tidytuesday, r4ds, rstats, ggplot2",43,2018,1055202146424184800,Images-only,Image
+2018-10-25T02:00:15Z,http://pbs.twimg.com/media/DqUZBCnU0AAcWxm.jpg,"TidyTuesday, rstats",43,2018,1055277830999892e3,Images-only,Image
+2018-10-26T01:06:03Z,http://pbs.twimg.com/media/DqZWwq2UwAAOMQo.jpg,"TidyTuesday, rstats, datascience",43,2018,1055626578330349600,Images-only,Image
+2018-10-26T03:11:12Z,http://pbs.twimg.com/tweet_video_thumb/DqZzWYkVsAAltaW.jpg,"TidyTuesday, rstats",43,2018,1055658073266839600,Images-only,
+2018-10-26T14:26:22Z,http://pbs.twimg.com/media/DqcL15nWkAAFi5N.jpg,"tidytuesday, tidytuesday, rstats, dataviz",43,2018,1055827986296070100,Images-only,Image
+2018-10-26T19:50:01Z,http://pbs.twimg.com/media/DqdW_--XgAAcxRU.jpg,"tidytuesday, rstats, thiswasmorefunthanworktoday",43,2018,1055909431718879200,Images-only,Image
+2018-10-27T01:10:49Z,http://pbs.twimg.com/media/Dqeg9bWXgAAsp1S.jpg,"TidyTuesday, rstats",43,2018,1055990165569765400,Images-only,Image
+2018-10-29T05:32:08Z,http://pbs.twimg.com/media/DqpwSEcXcAAlhue.png,"tidytuesday, rstats",44,2018,1056780702228844500,Images-only,Image
+2018-10-29T13:22:43Z,http://pbs.twimg.com/media/DqrbWJHVAAIthqN.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz, DataScience",44,2018,1056899129723535400,Links included,Image
+2018-10-30T00:42:25Z,http://pbs.twimg.com/media/Dqt3niHU0AAxZBa.jpg,"rstats, TidyTuesday",44,2018,1057070180839247900,Links included,Image
+2018-10-30T02:55:14Z,http://pbs.twimg.com/media/DquVvQOV4AAGUcY.jpg,"TidyTuesday, rstats, dataviz",44,2018,1057103606527098900,Images-only,needs inspection
+2018-10-30T10:35:13Z,http://pbs.twimg.com/media/Dqv89exUwAA6vpH.jpg,"TidyTuesday, rstats, ggplot2, r4ds, dataviz",44,2018,1057219365722980400,Images-only,Image
+2018-10-30T11:09:47Z,http://pbs.twimg.com/media/DqwHP58WkAAoUhE.jpg,"TidyTuesday, rstats, R4DS, dataviz, tidyverse",44,2018,1057228063967199200,Links included,Image
+2018-10-30T13:24:00Z,http://pbs.twimg.com/media/Dqwlc5SX0AA2rjr.jpg,"tidytuesday, rstats, r4ds, tidyverse, dataviz, ggplot2, datascience, ggplot2",44,2018,1057261840705769500,Images-only,needs inspection
+2018-10-30T16:34:29Z,http://pbs.twimg.com/media/DqxRfD9UUAIa-yl.jpg,"TidyTuesday, rstats, R4DS, dataviz",44,2018,1.0573097759337841e+18,Links included,Image
+2018-10-30T17:06:02Z,http://pbs.twimg.com/media/DqxV3FkWkAAG2jc.jpg,"TidyTuesday, rstats",44,2018,1057317716867145700,Images-only,Image
+2018-10-30T19:05:43Z,http://pbs.twimg.com/media/Dqx0PBnXgAIJFTA.jpg,"tidytuesday, rstats",44,2018,1057347836210303e3,Links included,Image
+2018-10-30T21:26:13Z,http://pbs.twimg.com/media/DqyUVyeXQAARcOl.jpg,"TidyTuesday, rstats",44,2018,1057383194180370400,Links included,Image
+2018-10-30T22:32:03Z,http://pbs.twimg.com/media/DqyhK6vW4AAC2oX.jpg,"TidyTuesday, TardyTidyTuesday, rstats",44,2018,1057399763610624e3,Images-only,Image
+2018-10-30T23:19:57Z,http://pbs.twimg.com/media/DqyscGKX0AASlp9.jpg,TidyTuesday,44,2018,105741181575023e4,Links included,Image
+2018-10-30T23:21:28Z,http://pbs.twimg.com/media/DqyuwVlWsAAgt_N.jpg,"rstats, TidyTuesday",44,2018,1057412198434291700,Images-only,Image
+2018-10-31T15:44:44Z,http://pbs.twimg.com/media/Dq2PeOXXcAAwWbh.jpg,TidyTuesday,44,2018,1057659646050291700,Links included,Image
+2018-10-31T16:23:52Z,http://pbs.twimg.com/media/Dq2Ywr3XcAAx8K2.jpg,"TidyTuesday, rstats",44,2018,1057669494750003200,Images-only,Image
+2018-11-02T22:34:30Z,http://pbs.twimg.com/media/DrCApjQWkAAzyNa.jpg,"TidyTuesday, rstats",44,2018,1058487541014429700,Images-only,Image
+2018-11-04T22:14:58Z,http://pbs.twimg.com/media/DrMPhTcWsAUtY-u.jpg,"TidyTuesday, rstats",44,2018,1059207404259344400,Links included,Image
+2018-11-05T11:59:44Z,http://pbs.twimg.com/media/DrPKSmZVAAAwf90.jpg,"rstats, TidyTuesday, dataviz, BetterLateThanNever",45,2018,1059414961766785e3,Links included,Image
+2018-11-05T15:35:38Z,http://pbs.twimg.com/media/DrP8ortU8AA2E4K.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz, RenewableEnergy",45,2018,1059469296462716900,Links included,Image
+2018-11-06T14:13:13Z,http://pbs.twimg.com/media/DrU0GOcWsAAjxQF.jpg,"TidyTuesday, TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2, datascience, ggplot2",45,2018,1059810939929804800,Images-only,needs inspection
+2018-11-06T18:00:40Z,http://pbs.twimg.com/media/DrVofcMVAAA-ntN.jpg,"TidyTuesday, rstats, ggmap",45,2018,1059868181488119800,Links included,Image
+2018-11-06T20:52:08Z,http://pbs.twimg.com/media/DrWPkydX4AAZ_qq.jpg,"tidytuesday, rstats",45,2018,1059911333267804200,Links included,Image
+2018-11-06T21:01:28Z,http://pbs.twimg.com/media/DrWQ41XVAAAgvOi.jpg,"prisons, rstats, Policy, DataScience, R4DS, TidyTuesday",45,2018,1059913680312262700,Links included,Image
+2018-11-07T12:42:52Z,http://pbs.twimg.com/media/DrZorgRW4AIHp5j.jpg,"tidytuesday, latesubmissionwednesday, rmarkdown, rstats",45,2018,1060150590687318e3,Images-only,Image
+2018-11-07T15:25:14Z,http://pbs.twimg.com/tweet_video_thumb/DraNb-yU8AUwNCk.jpg,"tidytuesday, rstats",45,2018,1060191453874401300,Links included,Image
+2018-11-07T16:20:49Z,http://pbs.twimg.com/media/DrabN11XgAAfnHU.jpg,tidytuesday,45,2018,1060205440129294300,Links included,Image
+2018-11-08T14:28:13Z,http://pbs.twimg.com/media/DrfKxO2XgAAHdA7.jpg,"TidyTuesday, rstats, ggmap",45,2018,1060539492841545700,Images-only,Image
+2018-11-08T16:43:49Z,http://pbs.twimg.com/media/DrfpxPEXQAAUO6i.jpg,"rstats, TidyTuesday",45,2018,1060573616876765200,Images-only,
+2018-11-08T21:50:41Z,http://pbs.twimg.com/media/Drgs6nNXcAExuPR.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2, datascience, highcharter",45,2018,1060650844268445700,Images-only,Image
+2018-11-09T08:05:11Z,http://pbs.twimg.com/media/Dri7c16WoAAOCKo.jpg,"rstats, DataScientists, DataScience, Statistics, opensource, BigData, DataAnalytics, Analytics, dataviz, rladies, rlang",45,2018,1060805486323359700,Images-only,Image
+2018-11-09T14:19:59Z,http://pbs.twimg.com/media/DrkSFvgXQAEEF6B.jpg,"TidyTuesday, BikeTown, Portland, Thinkies",45,2018,1060899809236783100,Images-only,Image
+2018-11-09T17:41:54Z,http://pbs.twimg.com/media/DrlA9gVX4AAIKUu.jpg,TidyTuesday,45,2018,1060950621854093300,Images-only,Image
+2018-11-10T18:47:32Z,http://pbs.twimg.com/media/DrqZjhHWkAISPRF.jpg,"TidyTuesday, dataviz",45,2018,1061329527538925600,Links included,Image
+2018-11-10T22:21:22Z,http://pbs.twimg.com/media/DrrKa1XU0Acjrxu.jpg,"ggplot2, week_32, TidyTuesday, r4stats, r4ds, dataviz",45,2018,1061383338844401700,Images-only,Image
+2018-11-10T23:11:50Z,http://pbs.twimg.com/media/DrrUWASWkAII92R.jpg,"TidyTuesday, rstat",45,2018,1061396042288107500,Links included,Image
+2018-11-10T23:23:06Z,http://pbs.twimg.com/media/DrrYK2GWwAA4ac_.jpg,"TidyTuesday, week4, auspol, r4ds",45,2018,1061398874986823700,Images-only,Image
+2018-11-11T13:20:33Z,http://pbs.twimg.com/media/DruXli_WoAE3IVy.jpg,"rstats, tidytuesday",45,2018,1061609625605283800,Images-only,Image
+2018-11-12T01:32:00Z,http://pbs.twimg.com/media/Drw_iXuX4AErWlU.jpg,"TidyTuesday, rstats",46,2018,1061793701360529400,Links included,Image
+2018-11-12T14:43:01Z,http://pbs.twimg.com/tweet_video_thumb/Drz0vcCXcAAuWdm.jpg,"ggplot2, rstats, tidytuesday",46,2018,1061992769663709200,Images-only,
+2018-11-12T22:11:09Z,http://pbs.twimg.com/media/Dr1WpHEWsAE_Xtu.jpg,tidytuesday,46,2018,1062105545744769e3,Links included,"A choropleth map of Wind Turbine counts by state. The legend on the right shows count-color mappings, going from light blue to black and 1 to 13,232. The title says ""Wind Turbines in the USA""."
+2018-11-12T22:53:17Z,http://pbs.twimg.com/media/Dr1jifkV4AMMNSY.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz, malaria",46,2018,1062116149012414500,Links included,Image
+2018-11-13T05:39:34Z,http://pbs.twimg.com/media/Dr3B8psVYAEloCf.png,TidyTuesday,46,2018,1062218393145823200,Links included,Image
+2018-11-13T06:58:02Z,http://pbs.twimg.com/media/Dr3Tq8RV4AA9Zh5.jpg,"TidyTuesday, rstats, dataviz",46,2018,1062238139085840400,Images-only,needs inspection
+2018-11-13T13:39:45Z,http://pbs.twimg.com/media/Dr4vkazW4AAyN8X.jpg,"TidyTuesday, tidyverse, LKA",46,2018,1062339233967415300,Links included,Image
+2018-11-13T15:37:40Z,http://pbs.twimg.com/tweet_video_thumb/Dr5Kq89XcAEh-D4.jpg,"tidytuesday, rstats",46,2018,1062368910073315300,Links included,needs inspection
+2018-11-13T18:14:52Z,http://pbs.twimg.com/media/Dr5u2e6XQAAnRdc.jpg,"TidyTuesday, rstats, r4ds, tidyverse, dataviz, ggplot2, datascience",46,2018,1062408471826653200,Images-only,needs inspection
+2018-11-14T00:22:30Z,http://pbs.twimg.com/media/Dr7CgYdXgAAyOuK.jpg,"TidyTuesday, rstats, DataScience",46,2018,1062500986990854100,Images-only,
+2018-11-14T01:24:45Z,http://pbs.twimg.com/media/Dr7P0X-UwAEByPb.jpg,"TidyTuesday, rstats",46,2018,1062516654112829400,Links included,Image
+2018-11-14T03:56:18Z,http://pbs.twimg.com/media/Dr7yr7SXQAERnDP.jpg,"tidytuesday, rstats, dataviz, geofacet, rladies",46,2018,1062554794475380700,Links included,Image
+2018-11-14T11:02:03Z,http://pbs.twimg.com/media/Dr9SiOLXgAAB4zA.jpg,tidytuesday,46,2018,1062661936746242e3,Images-only,
+2018-11-14T17:00:01Z,http://pbs.twimg.com/media/Dr-mOjcX0AQdllc.jpg,"TidyTuesday, rstats, R4DS, dataviz, ggplot2",46,2018,1062752021235859500,Links included,Image
+2018-11-15T04:31:06Z,http://pbs.twimg.com/media/DsBFHnsX0AAoK3d.jpg,TidyTuesday,46,2018,1062925939707912200,Links included,"Dumbbell plot with a title ""Dates for Malaria Research in African Countries Since 2010"". X-axis is the date and y-axis is the country. Subtitle is data: ""ourworldindata.org"". Caption is: ""Twitter: @kevin_m_kent"""
+2018-11-15T13:38:13Z,http://pbs.twimg.com/tweet_video_thumb/DsDCrjOWwAAxKkJ.jpg,"TidyTuesday, rstats, gganimate",46,2018,1063063623860453400,Images-only,
+2018-11-17T04:42:30Z,http://pbs.twimg.com/media/DsLa-IUXQAEZPAJ.jpg,"rstats, TidyTuesday",46,2018,1063653581218304e3,Images-only,Image
+2018-11-17T05:32:03Z,http://pbs.twimg.com/tweet_video_thumb/DsLlbgkWsAAxpQA.jpg,"TidyTuesday, rstats",46,2018,1063666051823661e3,Links included,
+2018-11-18T02:25:04Z,http://pbs.twimg.com/media/DsQE_euVsAAndmX.jpg,"ggtextures, ggplot2, rstats, tidytuesday, tidyverse, liberalrounding, theme_void",46,2018,1063981385596059600,Images-only,Image
+2018-11-20T02:49:58Z,http://pbs.twimg.com/media/DsaeQZBXoAAdKcQ.jpg,"TidyTuesday, rstats, datascience",47,2018,1064712428389314600,Images-only,
+2018-11-20T14:30:50Z,http://pbs.twimg.com/media/Dsc6dHjUcAAd3n8.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz, thanksgiving",47,2018,1064888806996918300,Links included,Image
+2018-11-20T15:36:32Z,http://pbs.twimg.com/media/DsdNl5nVsAIqekl.jpg,TidyTuesday,47,2018,1064905338946809900,Images-only,Image
+2018-11-20T15:37:39Z,http://pbs.twimg.com/media/DsdN-9wUwAEgvC1.jpg,TidyTuesday,47,2018,1064905618698453e3,Images-only,Image
+2018-11-20T19:55:19Z,http://pbs.twimg.com/media/DseI8DgXoAY7utO.jpg,"rstats, TidyTuesday, R4DS",47,2018,1064970464278257700,Images-only,Image
+2018-11-20T22:01:37Z,http://pbs.twimg.com/media/Dsel39OW0AESavp.jpg,"TidyTuesday, dataviz, r4ds, rstats, tidyverse",47,2018,1065002250509189100,Images-only,needs inspection
+2018-11-20T22:10:36Z,http://pbs.twimg.com/tweet_video_thumb/DsenoPzXgAAXpTk.jpg,"gganimate, malaria, TidyTuesday, rstats, ggplot2",47,2018,1065004507560648700,Images-only,
+2018-11-21T00:39:24Z,http://pbs.twimg.com/media/DsfJ-vFU0AELhj1.jpg,"TidyTuesday, tidyverse, rstats",47,2018,1065041954738597900,Images-only,Image
+2018-11-21T03:03:54Z,http://pbs.twimg.com/media/DsfrBW_WoAEraPQ.jpg,"TidyTuesday, rstats",47,2018,1065078321615122400,Links included,needs inspection
+2018-11-21T12:00:17Z,http://pbs.twimg.com/media/Dshl2sZXoAALSfp.jpg,"TidyTuesday, rladies, R, bigdata, womenintech, womenwhocode",47,2018,1065213304178712600,Links included,Image
+2018-11-21T14:36:11Z,http://pbs.twimg.com/media/DsiIRMYW0AY3z4w.jpg,"TidyTuesday, Thanksgiving, rstats, R4DS, dataviz",47,2018,1065252539094970400,Links included,Image
+2018-11-21T20:41:13Z,http://pbs.twimg.com/media/Dsjb8mCUwAAqAVW.jpg,TidyTuesday,47,2018,1065344401830867e3,Links included,Image
+2018-11-21T23:14:06Z,http://pbs.twimg.com/media/DskAC9SWwAEckjy.jpg,tidytuesday,47,2018,1065382876689195e3,Links included,Image
+2018-11-22T04:21:17Z,http://pbs.twimg.com/media/DslGE-BVAAA0PL0.jpg,"TidyTuesday, rstats, dataviz",47,2018,1065460183353065500,Images-only,needs inspection
+2018-11-22T04:31:34Z,http://pbs.twimg.com/media/DslIs7KWoAAJHEx.jpg,Tidytuesday,47,2018,1065462771817607200,Links included,Image
+2018-11-22T06:37:13Z,http://pbs.twimg.com/media/DslkVhcUUAA5V1i.jpg,"TidyTuesday, TDOR, rstats",47,2018,1065494393031876600,Images-only,Image
+2018-11-22T06:37:13Z,http://pbs.twimg.com/tweet_video_thumb/Dsli1P4VAAAAiBb.jpg,"100DaysofCode, TidyTuesday, TDOR, rstats",47,2018,1065494390984953900,Images-only,Image
+2018-11-22T09:20:56Z,http://pbs.twimg.com/media/DsmKfwIUwAERam_.jpg,"TidyTuesday, rstats, R4DS, dataviz",47,2018,1065535593772249100,Links included,Image
+2018-11-22T09:44:03Z,http://pbs.twimg.com/media/DsmQOirUwAE2VTO.jpg,tidytuesday,47,2018,1065541410613383200,Images-only,Image
+2018-11-22T12:27:52Z,http://pbs.twimg.com/tweet_video_thumb/DsmzkrdXcAA8Hy_.jpg,"TidyTuesday, rstats",47,2018,1065582634091335700,Images-only,
+2018-11-22T13:01:16Z,http://pbs.twimg.com/media/Dsm9ZuoVYAIjhKX.jpg,"gravy, TidyTuesday, Rstats, Thanksgiving",47,2018,1065591042345508900,Links included,Image
+2018-11-22T15:23:02Z,http://pbs.twimg.com/media/DsnceiIWoAEsVs_.jpg,"TidyTuesday, rstats",47,2018,1065626718155808800,Links included,Image
+2018-11-23T03:00:40Z,http://pbs.twimg.com/media/Dsp8-kcW0AEqpeg.jpg,"rstats, TidyTuesday",47,2018,1065802284360220700,Links included,Image
+2018-11-24T14:26:26Z,http://pbs.twimg.com/media/Dsxi80BXcAAeA9g.jpg,"tidytuesday, rstats",47,2018,1066337249816657900,Links included,Image
+2018-11-26T18:34:28Z,http://pbs.twimg.com/media/Ds8vgXSVsAAdlzm.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz, Baltimore",48,2018,1067124444311838700,Links included,Image
+2018-11-27T15:02:16Z,http://pbs.twimg.com/media/DtBI7hTVAAE6wM6.jpg,"tidytuesday, rstats",48,2018,1067433431200460800,Links included,Image
+2018-11-27T15:30:54Z,http://pbs.twimg.com/media/DtBPjb0WsAEHyU2.jpg,"tidytuesday, r4ds, tidyverse, rstats",48,2018,1.0674406358782321e+18,Images-only,needs inspection
+2018-11-27T15:45:45Z,http://pbs.twimg.com/media/DtBSK9RWsAA8iQ8.jpg,"TidyTuesday, rstats, R4DS",48,2018,1067444373175103500,Images-only,Image
+2018-11-27T17:02:34Z,http://pbs.twimg.com/media/DtBjhgWX4AE0MNx.jpg,TidyTuesday,48,2018,1067463705938419700,Links included,Image
+2018-11-27T18:09:47Z,http://pbs.twimg.com/media/DtBz27gWkAI_6a0.jpg,"rstats, tidytuesday",48,2018,1067480621306523600,Links included,Image
+2018-11-27T22:51:37Z,http://pbs.twimg.com/tweet_video_thumb/DtC0VhaW0AYK4R0.jpg,"TidyTuesday, rstats",48,2018,1067551547083710500,Links included,needs inspection
+2018-11-28T00:12:34Z,http://pbs.twimg.com/tweet_video_thumb/DtDGze6U0AAjj7a.jpg,TidyTuesday,48,2018,1067571919308931100,Links included,"Ridge plot of bridge inspections by county. Title reads ""Density plot of most recent bridge inspection in Maryland"". Subtitle reads ""@baltsundata (Since the start of 2015). X axis is ""Date"" and Y Axis is ""County"". Caption reads ""Twitter: @kevin_m_kent"""
+2018-11-28T02:03:11Z,http://pbs.twimg.com/media/DtDflPoWkAA_kLO.jpg,"TidyTuesday, rstats, r4ds, dataviz",48,2018,1067599756640292900,Links included,needs inspection
+2018-11-28T03:32:55Z,http://pbs.twimg.com/media/DtD0XmCXQAAi9j0.jpg,TidyTuesday,48,2018,1067622338131308500,Links included,Image
+2018-11-28T04:07:57Z,http://pbs.twimg.com/media/DtD8xVnWoAA-GGP.jpg,TidyTuesday,48,2018,1067631153996279800,Links included,needs inspection
+2018-11-28T05:26:44Z,http://pbs.twimg.com/tweet_video_thumb/DtEOgQNW0AIRmEa.jpg,TidyTuesday,48,2018,1067650979129118700,Links included,
+2018-11-28T06:26:22Z,http://pbs.twimg.com/media/DtEbTSlUwAAmqC-.jpg,tidytuesday,48,2018,1067665988676550700,Links included,
+2018-11-28T12:16:23Z,http://pbs.twimg.com/media/DtFsiWMXoAANQRC.jpg,TidyTuesday,48,2018,1067754073074659300,Links included,needs inspection
+2018-11-28T15:23:01Z,http://pbs.twimg.com/media/DtGXF54U0AEjPMD.jpg,"TidyTuesday, rstats, R4DS, dataviz",48,2018,1067801041112985600,Links included,Image
+2018-11-28T18:43:22Z,http://pbs.twimg.com/media/DtHEDS8VAAESMH_.jpg,"TidyTuesday, rstats, R4DS, dataviz",48,2018,1067851458958245900,Links included,Image
+2018-11-29T04:04:23Z,http://pbs.twimg.com/media/DtJFUgLWwAEGyZx.jpg,"TidyTuesday, rstats",48,2018,1067992643874029600,Images-only,Image
+2018-11-29T13:22:43Z,http://pbs.twimg.com/media/DtLDhtPWwAAVz_L.jpg,"TidyTuesday, rstat, RGCxGC",48,2018,1068133152676356100,Images-only,Image
+2018-11-29T18:44:08Z,http://pbs.twimg.com/media/DtMNA33XgAAt0BO.jpg,"rladies, rstats, tidytuesday, dataviz",48,2018,1068214040017678300,Links included,Image
+2018-12-01T14:08:48Z,http://pbs.twimg.com/media/DtVjJ-MWkAE0XWE.jpg,"rstats, tidytuesday",48,2018,1068869527398752300,Links included,Image
+2018-12-02T02:22:33Z,http://pbs.twimg.com/tweet_video_thumb/DtYK-PWW0AAchLa.jpg,"gganimate, TidyTuesday, rstats",48,2018,1069054179736354800,Images-only,
+2018-12-03T14:42:25Z,http://pbs.twimg.com/media/Dtf9wBRUwAMVYSf.jpg,"TidyTuesday, tidytext, r4ds, tidyverse, rstats, dataviz",49,2018,1069602761682096100,Links included,Image
+2018-12-03T21:23:51Z,http://pbs.twimg.com/media/DthZbw3WsAABCSr.jpg,tidytuesday,49,2018,1069703788431319e3,Links included,Image
+2018-12-04T06:16:15Z,http://pbs.twimg.com/media/DtjQ0SCXQAIjae9.jpg,TidyTuesday,49,2018,1069837767348273200,Links included,"A bar graph titled ""Comparing article reading times by sentiment category: an analysis of words in Medium article titles on AI and Big Data"". X axis: ""Reading Time (Min). Y Axis: ""Sentiment Category."". Y axis is ordered by reading time (the x-axis). Superfluous is the highest average reading time."
+2018-12-04T11:41:14Z,http://pbs.twimg.com/media/DtkdfmUWoAEDEDZ.jpg,"TidyTuesday, DataScience, rstats, R4DS",49,2018,1069919552593649700,Images-only,Image
+2018-12-04T13:58:36Z,http://pbs.twimg.com/media/Dtk8lpSWwAED0kr.jpg,"tidytuesday, rstats",49,2018,1069954125020958700,Links included,Image
+2018-12-04T14:20:24Z,http://pbs.twimg.com/media/Dtk_ZV0U8AAtfSv.jpg,TidyTuesday,49,2018,1069959610700873700,Links included,Image
+2018-12-04T14:38:54Z,http://pbs.twimg.com/media/DtlGy-iW4AIwSl7.jpg,"tidytuesday, r4ds, tidyverse, rstats, tidytext, dataviz, datascience",49,2018,1069964264478294e3,Images-only,needs inspection
+2018-12-04T14:59:51Z,http://pbs.twimg.com/media/DtlLAEiWsAAAiAP.jpg,"TidyTuesday, rstats",49,2018,1069969535619514400,Images-only,Image
+2018-12-04T15:41:00Z,http://pbs.twimg.com/media/DtlU_70U4AE4Jx2.jpg,tidytuesday,49,2018,1069979893692125200,Links included,Image
+2018-12-04T17:17:21Z,http://pbs.twimg.com/media/DtlqwVGW4AAGPJD.jpg,"TidyTuesday, rstats",49,2018,1070004142024859600,Links included,needs inspection
+2018-12-04T22:10:27Z,http://pbs.twimg.com/media/Dtmt3WMXcAAl8pT.jpg,"tidytext, tidytuesday, Medium, wordcloud, ggwordcloud",49,2018,1070077903742873600,Links included,Image
+2018-12-05T00:37:15Z,http://pbs.twimg.com/media/DtnPszeW0AA7QYE.jpg,"TidyTuesday, rstats",49,2018,1070114843024388100,Links included,Image
+2018-12-05T17:04:15Z,http://pbs.twimg.com/media/DtqxbUcW0AA0Enl.jpg,"TidyTuesday, rstats",49,2018,1070363233565978600,Images-only,Image
+2018-12-06T01:11:04Z,http://pbs.twimg.com/media/DtshGoAXgAA65Pf.jpg,"squat, fitness, TidyTuesday, humpday, datass, booty",49,2018,1070485743250870300,Images-only,Image
+2018-12-06T02:10:52Z,http://pbs.twimg.com/media/Dtstk6aVAAA42OF.jpg,"TidyTuesday, R4DS, dataviz, plotly",49,2018,1070500793843937300,Links included,needs inspection
+2018-12-06T16:41:40Z,http://pbs.twimg.com/media/Dtv2COUWwAAKDWs.jpg,"tidytuesday, r4ds, tidyverse, rstats, tidytext, dataviz",49,2018,1070719935326892e3,Images-only,needs inspection
+2018-12-06T20:38:09Z,http://pbs.twimg.com/media/DtwqVk6XcAAc5SY.jpg,TidyTuesday,49,2018,1070779448948080600,Links included,Image
+2018-12-06T21:07:54Z,http://pbs.twimg.com/media/Dtwy__GW4AATkBc.jpg,"TidyTuesday, rstats",49,2018,1070786935118069800,Images-only,Image
+2018-12-06T21:41:42Z,http://pbs.twimg.com/media/Dtw5_e-V4AESFNu.jpg,"TidyTuesday, R4DS, dataviz",49,2018,1070795441019719700,Links included,needs inspection
+2018-12-06T23:14:46Z,http://pbs.twimg.com/media/DtxOA2QX4AAGMxh.jpg,"tidytuesday, ggplot2",49,2018,1070818861824512e3,Links included,Image
+2018-12-07T00:08:40Z,http://pbs.twimg.com/media/DtxcZA4XgAE0GDl.jpg,"tidytuesday, rstat",49,2018,1070832428460183600,Links included,Image
+2018-12-07T04:07:39Z,http://pbs.twimg.com/media/DtyS5N4VAAAmFDz.jpg,"TidyTuesday, rstats, R4DS, dataviz",49,2018,1070892571654680600,Links included,Image
+2018-12-08T11:39:02Z,http://pbs.twimg.com/media/Dt5EBJEXQAAzQW3.jpg,"AdventOfCode, rstats, tidyverse, TidyTuesday",49,2018,1071368549887811600,Images-only,Screenshot of two ggplot() horizontal bar charts. Demonstrates how by default bars are arranged by the sorted bar labels and that fct_reorder can be used to reorder bars from longest to smallest.
+2018-12-10T16:15:56Z,http://pbs.twimg.com/media/DuEWVHtVsAAgG6V.jpg,"TidyTuesday, nyc, opendata, r4ds, tidyverse, rstats, dataviz",50,2018,1072163012327415800,Links included,Image
+2018-12-11T14:00:04Z,http://pbs.twimg.com/media/DuJBEcyWkAE_En0.jpg,"TidyTuesday, DataScientists, R, hackathon",50,2018,1072491207929016300,Links included,Image
+2018-12-11T14:32:47Z,http://pbs.twimg.com/media/DuJIi4cWwAAeUc-.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz, datascience",50,2018,1072499440471154700,Images-only,needs inspection
+2018-12-11T18:01:32Z,http://pbs.twimg.com/media/DuJ3ztgWwAIaIOH.jpg,"tidytuesday, rstats",50,2018,1072551975441612800,Links included,Image
+2018-12-11T18:59:51Z,http://pbs.twimg.com/media/DuKFpyrXQAATlKq.jpg,"TidyTuesday, rstats, dataviz",50,2018,1072566650157830100,Images-only,Image
+2018-12-11T18:59:52Z,http://pbs.twimg.com/media/DuKFqFaXQAECZ4p.jpg,"TidyTuesday, rstats, dataviz",50,2018,1072566653349740500,Images-only,Image
+2018-12-11T23:31:03Z,http://pbs.twimg.com/media/DuLDtJpXcAITuEV.jpg,"TidyTuesday, rstats, r4ds",50,2018,1072634901768347600,Images-only,Image
+2018-12-12T00:55:21Z,http://pbs.twimg.com/media/DuLXDCDW0AA4LCE.jpg,"TidyTuesday, Rstats",50,2018,1072656115807211500,Links included,Image
+2018-12-12T05:43:24Z,http://pbs.twimg.com/media/DuMXzrDUwAAgWnT.jpg,tidytuesday,50,2018,1072728604440580100,Links included,Image
+2018-12-12T10:08:55Z,http://pbs.twimg.com/media/DuNTDoqWwAEkODR.jpg,"bioinfoRmatician, TidyTuesday, rstats, GitHub, OpenSource",50,2018,1072795425294508e3,Images-only,Image
+2018-12-12T12:42:07Z,http://pbs.twimg.com/media/DuN4yaBWsAAvRUf.jpg,"tidytuesday, rstats",50,2018,1072833977109659600,Links included,needs inspection
+2018-12-13T11:58:00Z,http://pbs.twimg.com/media/DuS4MbpUcAE84K1.jpg,"TidyTuesday, rstats, R4DS, dataviz",50,2018,107318526529903e4,Links included,Image
+2018-12-13T13:12:45Z,http://pbs.twimg.com/media/DuTJUCeWoAAKfJj.jpg,"TidyTuesday, rstats",50,2018,1073204074579968e3,Links included,Image
+2018-12-14T06:09:33Z,http://pbs.twimg.com/media/DuWx-2JXcAATVXy.jpg,TidyTuesday,50,2018,1073459960573583400,Links included,"A scatterplot titled ""Do cleanliness scale in NYC restaurants?"". The x-axis reads ""Number of Inspection-Related Closures"". The y-axis reads ""Number of Franchise Locations"". The points are labeled by restaurants. There is a line of best fit with a positive slope. Dunkin Donuts has 1 closure and just under 100 franchise locations in NYC. Kennedy Fried Chicken has the most inspection-related closures from 2015-2016."
+2018-12-16T05:29:25Z,http://pbs.twimg.com/media/Dug7NceWkAEuKoo.jpg,"TidyTuesday, rstats",50,2018,1074174637184028700,Images-only,Image
+2018-12-17T02:15:24Z,http://pbs.twimg.com/media/DulW5wIVAAAVfSC.jpg,tidytuesday,51,2018,10744881999075e5,Links included,Image
+2018-12-17T13:55:51Z,http://pbs.twimg.com/media/Dun47hUVsAAVxqD.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",51,2018,107466447263411e4,Links included,Image
+2018-12-18T01:15:13Z,http://pbs.twimg.com/media/DuqU4P1VsAARIIK.jpg,"TidyTuesday, rstats, R4DS",51,2018,1074835442686664700,Links included,needs inspection
+2018-12-18T02:07:10Z,http://pbs.twimg.com/media/DuqgviFW0AACMUg.jpg,"TidyTuesday, rstats, dataviz, r4ds, tidyverse",51,2018,1074848516986601500,Links included,Image
+2018-12-18T16:04:57Z,http://pbs.twimg.com/media/DutgwIHXQAAGDr6.jpg,"tidytuesday, rstats, dataviz, datascience, r4ds, hireme",51,2018,1075059352531333100,Images-only,needs inspection
+2018-12-18T20:30:02Z,http://pbs.twimg.com/media/DuudaNdW4AUtedR.jpg,"tidytuesday, rstats",51,2018,1075126059559989200,Links included,Image
+2018-12-19T05:41:40Z,http://pbs.twimg.com/media/DuwauZ1U0AA1cvc.jpg,tidytuesday,51,2018,1075264883367632900,Links included,Image
+2018-12-19T08:01:10Z,http://pbs.twimg.com/media/Duw5v0xUUAAH1uB.jpg,"100DaysOfCode, rstats, TidyTuesday",51,2018,1075299992430989300,Images-only,Image
+2018-12-21T16:22:25Z,http://pbs.twimg.com/media/Du9A4oSWwAAwNit.jpg,"rstats, tidytuesday, dataviz",51,2018,1076150909527314400,Links included,Image
+2018-12-22T05:18:26Z,http://pbs.twimg.com/tweet_video_thumb/Du_xxzpX4AAXyXi.jpg,"TidyTuesday, rstats",51,2018,1076346199047897100,Images-only,Image
+2018-12-22T22:23:24Z,http://pbs.twimg.com/media/DvDbsYmXcAo9QQW.png,"tidytuesday, rstats, dataviz, rladies",51,2018,1076604143962341400,Links included,Image
+2018-12-23T03:37:29Z,http://pbs.twimg.com/media/DvEkG2oXgAAmyOL.jpg,TidyTuesday,51,2018,1076683182903304200,Links included,"A bar graph, with flipped coordinates. title - ""Where did captive cetaceans with missing COD info last reside before their death?"", subtitle = ""For Deaths Since 1990"", x - ""Birth Decade"", y - ""Number of Deaths with no COD Info"", fill color legend - ""Last Residence"", caption - ""Sources: US National Marine Mammal Inventory, Ceta-Base"". Total of 19 deaths with no COD info in the 90's and 2000's. Count of 4 for the 2010s"
+2018-12-25T14:04:38Z,http://pbs.twimg.com/media/DvRIXlZVAAALOwj.jpg,"TidyTuesday, TidyTuesday",52,2018,1077565786720485400,Images-only,Image
+2018-12-30T05:34:23Z,http://pbs.twimg.com/tweet_video_thumb/DvpCvaHX4AAXSh_.jpg,"TidyTuesday, rstats",52,2018,1079249319528669200,Links included,
+2018-12-31T19:02:02Z,http://pbs.twimg.com/tweet_video_thumb/DvxFjFiUYAQTPhH.jpg,tidytuesday,53,2018,1079814957594824700,Images-only,Image
