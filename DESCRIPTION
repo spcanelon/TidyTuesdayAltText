@@ -1,13 +1,19 @@
 Package: TidyTuesdayAltText
-Title: What the Package Does (One Line, Title Case)
+Title: Alternative text for media attached to TidyTuesday tweets
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
+Authors@R: c(
+    person(given = "Silvia",
+           family = "Canelón",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "sp.canelon@gmail.com",
+           comment = c(ORCID = "0000-0003-1709-1394")),
+    person(given = "Thomas",
+           family = "Mock",
+           role = c("aut"),
+           email = "j.thomasmock@gmail.com",
+           comment = c(ORCID = ""))
+           )
+Description: Alternative (alt) text for media attached to tweets participating in the TidyTuesday social project (i.e. using the #TidyTuesday hashtag). Most often the media is an image of a data visualization.
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
