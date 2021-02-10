@@ -4,7 +4,7 @@
 #'
 #' @format A tibble with 338 rows and 8 variables:
 #' \describe{
-#'   \item{TweetId}{<chr> Unique tweet identifer.}
+#'   \item{TweetId}{<chr> Unique tweet identifier.}
 #'   \item{ImageUrl}{<chr> URL to the media shared in the tweet.} 
 #'   \item{AltText}{<chr> Alternative text corresponding to the media shared in the tweet. 
 #'   
