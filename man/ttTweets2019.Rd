@@ -23,7 +23,13 @@ There are four types of entries:
 \item{TweetDate}{<dttm> Date and time the tweet was posted. Ranges from January 1, 2019 to December 31, 2019.}
 \item{Year}{<dbl> Year the tweet was posted. Includes only 2019.}
 \item{Week}{<dbl> Week the tweet was posted. Ranges from week 1-53.}
-\item{UrlCheck}{<chr> Denotes whether the tweet included a link. There are two options: "Links included" which denotes the tweet included external links in addition to media, like a link to source code; and "Images-only" which denotes the tweet only included media.}
+\item{UrlCheck}{<fct> Denotes whether the tweet included an external link.
+
+There are two types of entries:
+\itemize{
+\item "IncludesLinks" which denotes the tweet included external links in addition to media, like a link to source code.
+\item "NoLinks" which denotes the tweet did not include external links (i.e. only included media).}
+}
 }
 }
 \source{

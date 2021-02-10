@@ -28,7 +28,6 @@ files_df_new <-
                 HashtagList,
                 TweetDate,
                 Year,
-                Week,
                 UrlCheck) %>%
   # convert TweetId from numeric to character variable
   dplyr::mutate(TweetId = as.character(TweetId))
@@ -45,13 +44,23 @@ files_df_new <-
   files_df_new %>%
   # extract values from named AltText list
   dplyr::mutate(AltText = unname(AltText)) %>%
-  # give more descriptive cases for AltText
+  # define more descriptive cases
   dplyr::mutate(
+    # AltText variable
     AltText = dplyr::case_when(
       AltText == "" ~ NA_character_,
       AltText == "needs inspection" ~ "ScrapingError",
       TRUE ~ AltText
+    ),
+    # UrlCheck variable
+    UrlCheck = dplyr::case_when(
+      UrlCheck == "Links included" ~ "IncludesLinks",
+      UrlCheck == "Images-only" ~ "NoLinks"
     )
+  ) %>%
+  # convert UrlCheck from character to factor variable
+  dplyr::mutate(
+    UrlCheck = as.factor(UrlCheck)
   )
 
 #### split dataset into years again ####
