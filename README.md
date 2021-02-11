@@ -29,6 +29,32 @@ You can install the development version of `TidyTuesdayAltText` from
 devtools::install_github("spcanelon/TidyTuesdayAltText")
 ```
 
+### Note about installing from a private repo
+
+While this repo is private, you will first have to make sure to provide
+authentication to GitHub using a [Personal Access Token
+(PAT)](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
+as a credential. You can follow the steps in the credential caching
+chapter of Happy Git with R (also summarized below): [Chapter 10 Cache
+credentials for HTTPS \| Happy Git and GitHub for the
+useR](https://happygitwithr.com/credential-caching.html)
+
+1.  Create a personal access token using `usethis` which pre-selects
+    recommended scopes/permissions: `usethis::create_github_token()`
+
+2.  Then store your token somewhere safe and treat it like you would a
+    password.
+
+3.  Call an R function to store your credentials using the
+    [`credentials` package](https://docs.ropensci.org/credentials/)
+    which will prompt you to enter your token:
+    `credentials::set_github_pat()`<br> This populates the `GITHUB_PAT`
+    environment variable that `install_github()` defaults to as the
+    authentication token (i.e. **auth\_token**) argument.
+
+4.  Then proceed to install the package as usual:
+    `devtools::install_github("spcanelon/TidyTuesdayAltText")`
+
 ## Data dictionary
 
 | variable    | class     | description                                                            |
