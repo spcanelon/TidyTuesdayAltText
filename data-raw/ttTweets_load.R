@@ -5,7 +5,9 @@ library(here)
 library(fs)
 library(janitor)
 
-#### read in all relevant files ####
+
+# read in all relevant files ----------------------------------------------
+
 # resource: https://www.gerkelab.com/blog/2018/09/import-directory-csv-purrr-readr/
 
 # match Rds files with string "Tweets"
@@ -17,7 +19,9 @@ filesDF <-
   purrr::map_df(readr::read_rds) %>%
   distinct()
 
-#### wrangle data ####
+
+# wrangle data ------------------------------------------------------------
+
 filesDF_new <-
   filesDF %>%
   # rename columns to upper camel case
@@ -33,14 +37,18 @@ filesDF_new <-
   # convert TweetId from numeric to character variable
   dplyr::mutate(TweetId = as.character(TweetId))
 
-# split HashtagList vector into individual hashtags
+
+# split HashtagList vector into individual hashtags -----------------------
+
 filesDF_new <-
   filesDF_new %>%
   dplyr::mutate(
     HashtagList = stringr::str_split(HashtagList, ", ")
   )
 
-#### wrangle AltText variable ####
+
+# wrangle AltText variable ------------------------------------------------
+
 filesDF_new <-
   filesDF_new %>%
   # extract values from named AltText list
@@ -64,7 +72,14 @@ filesDF_new <-
     UrlCheck = as.factor(UrlCheck)
   )
 
-#### split dataset into years again ####
+
+# create relevant AltText subset dataset ----------------------------------
+
+altTextSubset <-
+  filesDF_new %>%
+  filter(AltText != "Image")
+
+# split dataset into years again ------------------------------------------
 
 # split by year
 dfSplits <- 
@@ -77,9 +92,11 @@ ttTweets2019 <- dfSplits[[2]]
 ttTweets2020 <- dfSplits[[3]]
 ttTweets2021 <- dfSplits[[4]]
 
-#### exporting new data to `data` folder ####
+
+# exporting new data to `data` folder -------------------------------------
 
 usethis::use_data(ttTweets2018, overwrite = TRUE)
 usethis::use_data(ttTweets2019, overwrite = TRUE)
 usethis::use_data(ttTweets2020, overwrite = TRUE)
 usethis::use_data(ttTweets2021, overwrite = TRUE)
+usethis::use_data(altTextSubset, overwrite = TRUE)
