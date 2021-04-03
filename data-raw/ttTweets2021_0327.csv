@@ -1,0 +1,611 @@
+tweet_date,image_url,hashtag_list,week,year,tweet_id,url_check,alt_text
+2021-01-31T14:01:28Z,http://pbs.twimg.com/media/EtEMpYvW8AICITi.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",5,2021,1355878869992169472,Links included,Image
+2021-01-31T20:42:10Z,http://pbs.twimg.com/tweet_video_thumb/EtFnI90UUAE5QdB.jpg,tidytuesday,5,2021,1355979710379905026,Links included,
+2021-02-01T05:30:40Z,http://pbs.twimg.com/media/EtHg8gVUUAM9R64.jpg,TidyTuesday,5,2021,1356112713110364161,Images-only,Image
+2021-02-01T09:42:14Z,http://pbs.twimg.com/media/EtIad-bW8AEOQ4Q.png,"TidyTuesday, RStats, RStatsFR",5,2021,1356176019779178496,Images-only,Image
+2021-02-01T12:23:21Z,http://pbs.twimg.com/media/EtI_ritXAAMYL8V.jpg,TidyTuesday,5,2021,1356216566761877504,Links included,
+2021-02-01T12:58:21Z,http://pbs.twimg.com/media/EtJHwIwXYAIgILX.png,TidyTuesday,5,2021,1356225373055365120,Images-only,Image
+2021-02-01T15:52:44Z,http://pbs.twimg.com/media/EtJvrrQU0AEPCEZ.jpg,"TidyTuesday, RStats",5,2021,1356269258926264320,Links included,Image
+2021-02-01T19:28:50Z,http://pbs.twimg.com/media/EtKg4i6XEAsKV2F.jpg,"TidyTuesday, rstats, r4ds, dataviz",5,2021,1356323643781996544,Links included,Image
+2021-02-01T20:42:45Z,http://pbs.twimg.com/media/EtKxDxIXMAM_90X.png,TidyTuesday,5,2021,1356342246233284608,Links included,Image
+2021-02-02T01:33:14Z,http://pbs.twimg.com/media/EtL0kDIWMAETvQK.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",5,2021,1356415349323952130,Links included,Image
+2021-02-02T03:39:36Z,http://pbs.twimg.com/media/EtMQWXFXUAA5p9V.png,"TidyTuesday, RStats",5,2021,1356447150096453633,Links included,Image
+2021-02-02T06:06:01Z,http://pbs.twimg.com/media/EtMxs3PWgAAEGs7.png,"HBCUs, TidyTuesday, rstats",5,2021,1356483994456588288,Links included,Image
+2021-02-02T08:41:12Z,http://pbs.twimg.com/media/EtNWXXNVkAAKEuS.png,"TidyTuesday, rstats, energytransition, hydro, nuclear, wind, solar, auspol, cleanenergy",5,2021,1356523048757694468,Images-only,Image
+2021-02-02T15:38:40Z,http://pbs.twimg.com/media/EtO1fVDXMAcLO6y.jpg,TidyTuesday,5,2021,1356628106790985728,Links included,Screenshot of R code to clean HBCU Enrollment data from Tidy Tuesday
+2021-02-02T16:46:36Z,http://pbs.twimg.com/media/EtPDsdtXEAIM7_6.jpg,"tidytuesday, breakfreefromplastic, rstats, tidyverse, dataviz",5,2021,1356645205563293703,Links included,Image
+2021-02-02T17:04:31Z,http://pbs.twimg.com/media/EtPHKSRU4AESOFG.jpg,"tidytuesday, rstats",5,2021,1356649713424977921,Links included,Image
+2021-02-02T19:35:07Z,http://pbs.twimg.com/media/EtPsLrWXIAsLE-j.jpg,"TidyTuesday, TidyTuesday, RStats",5,2021,1356687610962411521,Links included,Image
+2021-02-02T20:45:32Z,http://pbs.twimg.com/media/EtP8T23XYAMocNj.png,"TidyTuesday, rstats, r4ds, ggplot2, R4Ds",5,2021,1356705334400847872,Images-only,Image
+2021-02-02T21:43:09Z,http://pbs.twimg.com/media/EtQJfslXcAIbM66.jpg,"TidyTuesday, RStats",5,2021,1356719832725659648,Images-only,Image
+2021-02-02T21:52:30Z,http://pbs.twimg.com/media/EtQLZhvXIAAG-f2.jpg,"TidyTuesday, DataScience, DataVisualisation, RStats",5,2021,1356722186774589442,Links included,Image
+2021-02-02T22:42:51Z,http://pbs.twimg.com/media/EtQWmMOWYAAfy5b.png,"TidyTuesday, RStats",5,2021,1356734856097579009,Links included,Image
+2021-02-02T23:18:34Z,http://pbs.twimg.com/tweet_video_thumb/EtQcexzU4AMhcQx.jpg,"Covid, Data, Toronto, TidyData, TidyTuesday",5,2021,1356743845979975682,Links included,
+2021-02-02T23:32:58Z,http://pbs.twimg.com/tweet_video_thumb/EtQhs51XEAIKLEY.jpg,"TidyTuesday, RStats, R4ds",5,2021,1356747468113862663,Links included,
+2021-02-03T01:32:57Z,http://pbs.twimg.com/media/EtQ9H9cXYAEfGO7.jpg,"TidyTuesday, rstats",5,2021,1356777664405778434,Links included,Image
+2021-02-03T03:27:50Z,http://pbs.twimg.com/media/EtRXmmJWgAAf2z5.png,"tidytuesday, rstats",5,2021,1356806574455595010,Links included,Image
+2021-02-03T03:33:13Z,http://pbs.twimg.com/media/EtRZn7CVgAEVY7G.jpg,TidyTuesday,5,2021,1356807932294258690,Links included,Image
+2021-02-03T03:38:37Z,http://pbs.twimg.com/media/EtRautQU0AAe1Fc.jpg,"TidyTuesday, rtistry",5,2021,1356809290468626434,Links included,A visualization showing multiple bars displayed in a radial half circle. Each bar represents the proportion of individuals enrolled at HBCUs that are women vs. men. You can see that consistently from 1976 to 2015 the proportion of women enrolled is much larger than the proportion of men.
+2021-02-03T04:53:02Z,http://pbs.twimg.com/media/EtRqyGQU4AQYqlc.jpg,"TidyTuesday, RStats, GGPlot2, DataViz",5,2021,1356828015834013696,Links included,Image
+2021-02-03T07:15:34Z,http://pbs.twimg.com/media/EtSMOlpXEAAaGZX.jpg,"TidyTuesday, rstats",5,2021,1356863886910234624,Links included,Image
+2021-02-03T14:54:54Z,http://pbs.twimg.com/media/EtT1aWhU0AEcZYx.png,"TidyTuesday, rstats",5,2021,1356979482595270657,Images-only,Image
+2021-02-03T16:36:00Z,http://pbs.twimg.com/media/EtRaNLTVkAIpupt.png,"TidyTuesday, rstats",5,2021,1357004923045629964,Links included,Dumbbell plot showing the differences in total number of enrolled students by gender
+2021-02-03T16:53:08Z,http://pbs.twimg.com/media/EtUQtFjVEAApdWi.jpg,"TidyTuesday, rstat",5,2021,1357009236593504261,Images-only,Image
+2021-02-03T18:30:28Z,http://pbs.twimg.com/media/EtUm41_XUAc7Fcr.png,"tidytuesday, rstats, dataviz, TidyTuesday, ggplot2, tidyverse",5,2021,1357033730905436162,Links included,Image
+2021-02-03T18:50:30Z,http://pbs.twimg.com/ext_tw_video_thumb/1357038000195186689/pu/img/2WGXBM5T9tkUjz3w.jpg,"TidyTuesday, rshiny, tidyverse, rstats",5,2021,1357038770676203523,Links included,
+2021-02-03T20:03:58Z,http://pbs.twimg.com/media/EtU8Vi5WYAUC9vv.png,"TidyTuesday, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz",5,2021,1357057260132917250,Links included,Image
+2021-02-03T21:50:12Z,http://pbs.twimg.com/media/EtVUL4ZWgAI8q16.png,"TidyTuesday, rstats",5,2021,1357083996837052425,Links included,Image
+2021-02-04T03:39:03Z,http://pbs.twimg.com/media/EtWkQuaUYAQmcy3.png,"DataVisualization, TidyTuesday, MakeoverMonday, storytellingwithdata, ship30for30",5,2021,1357171784559173637,Images-only,Image
+2021-02-04T05:11:44Z,http://pbs.twimg.com/media/EtW5rBKVkAA5Ghn.png,"TidyTuesday, RStats, GGPlot2, DataViz",5,2021,1357195111751249920,Images-only,Image
+2021-02-04T07:47:07Z,http://pbs.twimg.com/media/EtXdM8BWYAQriEI.jpg,"TidyTuesday, ggplot2, rstats, r4ds, dataviz, outlier2021",5,2021,1357234213116911616,Links included,Image
+2021-02-04T07:50:11Z,http://pbs.twimg.com/media/EtXcvxyXcAAuO93.jpg,TidyTuesday,5,2021,1357234985032445954,Images-only,Image
+2021-02-04T14:27:37Z,http://pbs.twimg.com/media/EtY4kXSVkAIoITX.png,TidyTuesday,5,2021,1357335003026264073,Links included,Image
+2021-02-04T14:40:56Z,http://pbs.twimg.com/media/EtY7thvVkAENjPB.jpg,"TidyTuesday, Rstats, R4DS",5,2021,1357338353507553289,Links included,Image
+2021-02-04T15:19:37Z,http://pbs.twimg.com/media/EtZD_33UcAIDRo0.jpg,"TidyTuesday, rstats, dataviz, datascience",5,2021,1357348087769878541,Links included,Image
+2021-02-04T16:09:56Z,http://pbs.twimg.com/media/EtZOyM_XYAEvkIl.png,"TidyTuesday, RStats, ggplot2, R4ds",5,2021,1357360753704075266,Links included,Image
+2021-02-04T17:19:07Z,http://pbs.twimg.com/media/EtZd9kyVEAAUQJY.jpg,"TidyTuesday, rstats",5,2021,1357378161223245826,Images-only,Image
+2021-02-04T19:50:58Z,http://pbs.twimg.com/media/EtaC6YJXcAIzZ30.jpg,"TidyTuesday, rstats",5,2021,1357416377305423878,Links included,Image
+2021-02-04T20:46:06Z,http://pbs.twimg.com/media/EtaPe4yXYAI7njJ.jpg,"TidyTuesday, dataviz, RStats",5,2021,1357430253103251460,Links included,Image
+2021-02-04T22:19:50Z,http://pbs.twimg.com/media/EtakRJRVgAEPV4D.png,"TidyTuesday, viz",5,2021,1357453838882512896,Links included,Image
+2021-02-05T00:01:48Z,http://pbs.twimg.com/media/Eta8ZXqWQAAzDwY.jpg,"Tidytuesday, Rstats",6,2021,1357479503103209472,Links included,Image
+2021-02-05T02:28:31Z,http://pbs.twimg.com/media/EtbckBOUUAA52pR.jpg,"TidyTuesday, rstats, breakfreefromplastic",6,2021,1357516424810352644,Images-only,Image
+2021-02-05T05:47:27Z,http://pbs.twimg.com/media/EtcLdGbXcAANWXj.png,"rstats, ggplot2, mapping, TidyTuesday",6,2021,1357566488727674880,Images-only,Image
+2021-02-05T17:42:03Z,http://pbs.twimg.com/tweet_video_thumb/Eteu0SkXYAEvzot.jpg,TidyTuesday,6,2021,1357746321785053185,Links included,
+2021-02-05T23:12:14Z,http://pbs.twimg.com/media/Etf6p_qWYAsDd3i.jpg,TidyTuesday,6,2021,1357829415271555074,Images-only,Image
+2021-02-06T04:01:24Z,http://pbs.twimg.com/tweet_video_thumb/Etg8ttVVIAAAFco.jpg,"TidyTuesday, rstats, HBCUs",6,2021,1357902185883832322,Links included,
+2021-02-06T12:38:53Z,http://pbs.twimg.com/media/EtizF1sWgAUir1t.png,"TidyTuesday, Rstats",6,2021,1358032413478256645,Links included,Image
+2021-02-06T14:38:15Z,http://pbs.twimg.com/media/EtjMe8XXUAA3gtr.png,"dataviz, TidyTuesday, DataVisualization, Rstats, tidyverse, ggplot2, DataScience",6,2021,1358062456048910338,Links included,Image
+2021-02-06T16:18:34Z,http://pbs.twimg.com/media/EtjlkJfXcAEn7_k.jpg,"rstat, tidytuesday",6,2021,1358087700990087171,Links included,Image
+2021-02-06T19:57:47Z,http://pbs.twimg.com/media/EtkXoJZXUAkC5RX.png,"TidyTuesday, ggplot2, rstats",6,2021,1358142866724446208,Links included,Image
+2021-02-06T20:24:27Z,http://pbs.twimg.com/media/Etkb852WYAAYLr6.png,"TidyTuesday, rstats",6,2021,1358149580811096071,Links included,Image
+2021-02-06T20:50:38Z,http://pbs.twimg.com/media/EtkjkxJU0AMq-qW.png,TidyTuesday,6,2021,1358156168850415616,Links included,Image
+2021-02-06T22:42:11Z,http://pbs.twimg.com/media/Etk8_fCXAAIuwOJ.png,TidyTuesday,6,2021,1358184242652598279,Links included,Image
+2021-02-07T07:41:08Z,http://pbs.twimg.com/media/Etm38IRVcAAhbXD.png,TidyTuesday,6,2021,1358319872912945152,Links included,Image
+2021-02-07T08:42:42Z,http://pbs.twimg.com/media/EtnGGSjVgAMtRJa.png,"TidyTuesday, RStats",6,2021,1358335366936207361,Links included,Image
+2021-02-07T12:32:26Z,http://pbs.twimg.com/media/Etn5-AvXMAEfCLZ.png,"TidyTuesday, RStats",6,2021,1358393180501266438,Links included,Image
+2021-02-07T13:32:55Z,http://pbs.twimg.com/media/EtoDMCeXIAQu-O0.jpg,"TidyTuesday, dataviz",6,2021,1358408402913943552,Images-only,Image
+2021-02-07T14:01:02Z,http://pbs.twimg.com/media/EtoPrXIXIAMR22j.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",6,2021,1358415477215801350,Links included,Image
+2021-02-07T14:19:53Z,http://pbs.twimg.com/media/EtoSgguWQAI9ZYY.jpg,tidytuesday,6,2021,1358420221263020036,Images-only,Image
+2021-02-07T18:05:35Z,http://pbs.twimg.com/media/EtpHWGfXIAE741g.jpg,"TidyTuesday, Rstats",6,2021,1358477020813012993,Links included,Image
+2021-02-07T21:24:15Z,http://pbs.twimg.com/media/Etp0tn0XYAcE8ff.png,TidyTuesday,6,2021,1358527015708733448,Links included,"Chart with lines showing the proportion of the US population aged 25+ that are high school and college graduates from 1910 to 2016, with bars ascending/descending from the line to show the difference between white and black Americans."
+2021-02-08T00:59:38Z,http://pbs.twimg.com/media/EtqkowtXYAEjh5T.jpg,"Tidytuesday, Rstats",6,2021,1358581217004822530,Links included,Image
+2021-02-08T05:07:11Z,http://pbs.twimg.com/media/EtresxTVkAERRu9.jpg,TidyTuesday,6,2021,1358643518634250240,Links included,Image
+2021-02-08T11:32:59Z,http://pbs.twimg.com/media/Ets3YcDXIAEGy2N.jpg,"TidyTuesday, Rstats",6,2021,1358740608563707906,Links included,Image
+2021-02-08T13:22:05Z,http://pbs.twimg.com/media/EttQWSUVIAAzIRT.jpg,TidyTuesday,6,2021,1358768062858555392,Links included,Image
+2021-02-08T16:19:39Z,http://pbs.twimg.com/media/Ett4fnSVgAsiSSD.jpg,"TidyTuesday, dataviz, ggplot2, R",6,2021,1358812747241168896,Links included,Image
+2021-02-08T16:23:05Z,http://pbs.twimg.com/media/Ett5xUQXcAEXOOT.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",6,2021,1358813610772955145,Links included,Image
+2021-02-08T18:30:11Z,http://pbs.twimg.com/media/EtuVvlFXYAEYkOl.jpg,"TidyTuesday, rstats, DataVisualization",6,2021,1358845598871531520,Images-only,Image
+2021-02-08T20:15:23Z,http://pbs.twimg.com/media/Etuu2XjWgAM4gJk.jpg,"TidyTuesday, rstats, r4ds, dataviz",6,2021,1358872071225376773,Links included,Image
+2021-02-08T22:10:44Z,http://pbs.twimg.com/media/EtvIn2oWgAsrIEf.jpg,TidyTuesday,6,2021,1358901101215559682,Images-only,Image
+2021-02-09T03:55:40Z,http://pbs.twimg.com/media/EtwYH5HXUAAfE6R.png,TidyTuesday,6,2021,1358987906023587841,Links included,Image
+2021-02-09T04:39:20Z,http://pbs.twimg.com/media/Etwf9lRWQAEQBo0.png,TidyTuesday,6,2021,1358998895360098309,Links included,Image
+2021-02-09T08:17:15Z,http://pbs.twimg.com/media/EtxSTzkVkAI9Ufa.png,"TidyTuesday, Rstats",6,2021,1359053735809347587,Links included,Image
+2021-02-09T10:13:35Z,http://pbs.twimg.com/media/EtxuwZkXcAEeDvD.png,TidyTuesday,6,2021,1359083011774545920,Links included,Image
+2021-02-09T10:18:39Z,http://pbs.twimg.com/media/EtxvQuIXAAEhBHZ.png,"TidyTuesday, rstats",6,2021,1359084286721351687,Images-only,Image
+2021-02-09T12:38:48Z,http://pbs.twimg.com/media/EtyP1TaXYAAxu7z.jpg,"TidyTuesday, rstats",6,2021,1359119559987494912,Links included,Image
+2021-02-09T14:31:02Z,http://pbs.twimg.com/media/EtypuJQWgAchB7F.jpg,"TidyTuesday, rstats",6,2021,1359147801712680960,Links included,Image
+2021-02-09T14:45:42Z,http://pbs.twimg.com/media/EtytAPhXYAMy0sR.png,TidyTuesday,6,2021,1359151493035786249,Links included,Image
+2021-02-09T14:47:28Z,http://pbs.twimg.com/tweet_video_thumb/EtytZwBXUAImG6i.jpg,"TidyTuesday, rstats, r4ds",6,2021,1359151939704025094,Images-only,
+2021-02-09T17:13:50Z,http://pbs.twimg.com/media/EtzO8czVEAIvai7.png,TidyTuesday,6,2021,1359188770398982146,Links included,Image
+2021-02-09T19:11:26Z,http://pbs.twimg.com/media/Etzn7rDXcAQs24r.png,"TidyTuesday, rmarkdown, Rstats, tidyverse, ggplot2",6,2021,1359218369409482752,Links included,Image
+2021-02-09T19:24:13Z,http://pbs.twimg.com/media/Etzrhe2XEAU-Kov.jpg,TidyTuesday,6,2021,1359221585488543749,Links included,Image
+2021-02-09T19:46:49Z,http://pbs.twimg.com/media/EtzwlCUWYAIewQF.png,"TidyTuesday, Rstats",6,2021,1359227272260165633,Links included,Image
+2021-02-09T20:56:56Z,http://pbs.twimg.com/tweet_video_thumb/Et0B3zbXUAcaA6k.jpg,"TidyTuesday, DataVisualization, DataScience, RStats",6,2021,1359244915855736836,Links included,
+2021-02-09T21:00:31Z,http://pbs.twimg.com/media/Et0B6crVkAEgCMB.jpg,"TidyTuesday, rstats",6,2021,1359245821095546880,Links included,
+2021-02-09T21:19:13Z,http://pbs.twimg.com/media/Et0FkSrWgAgoHpf.png,"rstats, TidyTuesday",6,2021,1359250526286864388,Links included,Image
+2021-02-09T21:57:48Z,http://pbs.twimg.com/media/Et0P2wJWYAQm35G.jpg,"TidyTuesday, Rstats",6,2021,1359260233760137216,Links included,Image
+2021-02-09T22:04:59Z,http://pbs.twimg.com/media/Et0Ri17XcAEzB3t.png,"tidytuesday, datascience, rstats",6,2021,1359262044348964870,Links included,Image
+2021-02-09T22:38:50Z,http://pbs.twimg.com/media/Et0Y1kpXYAQcu1A.png,"TidyTuesday, Rstats, ggplot2, dataviz, ddj",6,2021,1359270563328450562,Links included,Image
+2021-02-09T23:17:52Z,http://pbs.twimg.com/media/Et0hrkRWgAYVtSF.jpg,"TidyTuesday, Rstats",6,2021,1359280383418851329,Links included,Image
+2021-02-09T23:52:31Z,http://pbs.twimg.com/media/Et0o2yDUUAAuLyh.png,TidyTuesday,6,2021,1359289102739251203,Links included,Image
+2021-02-10T00:46:33Z,http://pbs.twimg.com/tweet_video_thumb/Et02IOUVEAE1fyp.jpg,TidyTuesday,6,2021,1359302701863952387,Links included,
+2021-02-10T01:27:49Z,http://pbs.twimg.com/media/Et0_w-NXIAE2l9A.png,"TidyTuesday, rstats, r4ds",6,2021,1359313089401942016,Links included,Image
+2021-02-10T02:04:37Z,http://pbs.twimg.com/media/Et1ISTiXUAUtMlf.jpg,"TidyTuesday, Rstats",6,2021,1359322348613206024,Links included,Image
+2021-02-10T03:24:03Z,http://pbs.twimg.com/media/Et1Uz1vUUAAWx7K.jpg,"TidyTuesday, UCLoveDataWeek, USCensus, UrbanInstitute, WealthInequality, BlackHistoryMonth",6,2021,1359342340003909638,Links included,Image
+2021-02-10T04:15:54Z,http://pbs.twimg.com/media/Et1mS0sWYAMRSbv.png,"TidyTuesday, rstats",6,2021,1359355388169244676,Links included,Image
+2021-02-10T07:10:55Z,http://pbs.twimg.com/media/Et2Nh4LWgAUPIRR.png,"TidyTuesday, RStats, ggplot2, R4ds",6,2021,1359399433138536448,Links included,Image
+2021-02-10T10:24:33Z,http://pbs.twimg.com/media/Et258E3XEAA6wiY.jpg,"TidyTuesday, rstats, kenya",6,2021,1359448159957753856,Images-only,Image
+2021-02-10T13:30:09Z,http://pbs.twimg.com/media/Et3kzqmWgAEEnrk.jpg,"PlasticPollution, Tidytuesday, breakfreefromplastic, RStats",6,2021,1359494867676762112,Links included,Image
+2021-02-10T13:52:40Z,http://pbs.twimg.com/media/Et3p-baXIAYMb9c.jpg,"TidyTuesday, RStats",6,2021,1359500532931579907,Links included,Image
+2021-02-10T14:50:09Z,http://pbs.twimg.com/media/Et33PV6WgAgyqKs.png,"TidyTuesday, RStats",6,2021,1359515000440815616,Links included,Image
+2021-02-10T16:49:05Z,http://pbs.twimg.com/media/Et4STUfVkAIC9CR.jpg,"TidyTuesday, RStats",6,2021,1359544933691006977,Links included,Image
+2021-02-10T16:55:18Z,http://pbs.twimg.com/tweet_video_thumb/Et4T4lBUUAEWD67.jpg,"tidytuesday, rstats",6,2021,1359546494890614788,Links included,
+2021-02-10T18:00:09Z,http://pbs.twimg.com/media/Et4ioysXAAEaQwE.jpg,TidyTuesday,6,2021,1359562816701792262,Images-only,Image
+2021-02-10T18:02:20Z,http://pbs.twimg.com/media/Et4joezWgAoteD0.jpg,"rstats, TidyTuesday",6,2021,1359563365799059458,Images-only,Image
+2021-02-10T18:58:23Z,http://pbs.twimg.com/media/Et4wGR_XAAE1xf1.jpg,"tidytuesday, rstats, dataviz, TidyTuesday, ggplot2, tidyverse",6,2021,1359577470379429888,Links included,Wealth and income inequality in USA
+2021-02-10T19:12:37Z,http://pbs.twimg.com/tweet_video_thumb/Et4xgJ3VcAAfU9K.jpg,"TidyTuesday, rstats, tidyverse",6,2021,1359581052918931456,Links included,Image
+2021-02-10T20:06:37Z,http://pbs.twimg.com/media/Et5AG9PXcAwxbHQ.png,TidyTuesday,6,2021,1359594644326203394,Links included,Image
+2021-02-10T20:15:10Z,http://pbs.twimg.com/media/Et4_K45WQBAd13s.jpg,"TidyTuesday, gggibbous, ggthemr, gghighlight",6,2021,1359596795240800257,Links included,"Time series graphs showing the average student debt for white, black and hispanic families in the US from the 1990s through to the late 2010s. The percentage of families with student debt are shown using gibbous charts, similar to pie charts. The average black family's student debt overtook the average white family's in the 2000s, in part due to a greater percentage of black families having student debt since then."
+2021-02-10T21:19:01Z,http://pbs.twimg.com/media/Et5PZd6XIAQ_IV2.jpg,TidyTuesday,6,2021,1359612861316816903,Links included,Image
+2021-02-10T21:40:57Z,http://pbs.twimg.com/media/Et5VtC3WYAIU-Ue.jpg,"TidyTuesday, RStats",6,2021,1359618382589538308,Images-only,Image
+2021-02-10T22:25:53Z,http://pbs.twimg.com/media/Et5fqf-XYAMiaVo.jpg,TidyTuesday,6,2021,1359629688331730944,Images-only,
+2021-02-10T22:35:52Z,http://pbs.twimg.com/media/Et5R8XZXcA8T8hU.jpg,"tidytuesday, RStats, r4ds",6,2021,1359632202049454080,Links included,Image
+2021-02-10T23:26:29Z,http://pbs.twimg.com/media/Et5t2oZXUAA7rKR.png,"TidyTuesday, dataviz, r4ds, rstats",6,2021,1359644942394679298,Links included,Image
+2021-02-11T02:09:46Z,http://pbs.twimg.com/media/Et6TB9xXYAEcKmH.png,"TidyTuesday, rstats",6,2021,1359686032741040128,Links included,Image
+2021-02-11T05:35:40Z,http://pbs.twimg.com/media/Et6_-4kUYAArRft.jpg,"TidyTuesday, Tidydors",6,2021,1359737846706307072,Links included,Image
+2021-02-11T06:47:17Z,http://pbs.twimg.com/media/Et7SIRSUcAgkKbz.jpg,"TidyTuesday, RStudio, Rstats",6,2021,1359755870519713795,Links included,Image
+2021-02-11T19:10:21Z,http://pbs.twimg.com/media/Et98vTxWQAIgw5C.jpg,"TidyTuesday, Rstats",6,2021,1359942869939871744,Links included,Image
+2021-02-11T20:56:34Z,http://pbs.twimg.com/media/Et-UCQyXYAI9UqD.png,"TidyTuesday, rstats",6,2021,1359969601149431808,Links included,Image
+2021-02-11T22:10:20Z,http://pbs.twimg.com/media/Et-mACqU0AAeVpU.png,"rstats, ggplot, tidytuesday",6,2021,1359988164249571328,Images-only,Image
+2021-02-12T02:12:25Z,http://pbs.twimg.com/media/Et_daQrWgAEZX8E.jpg,"TidyTuesday, rstats",7,2021,1360049086465011713,Links included,Image
+2021-02-12T08:51:21Z,http://pbs.twimg.com/media/EuA4pKSWgAcmbWd.jpg,"TidyTuesday, rstats",7,2021,1360149483808575490,Links included,Image
+2021-02-12T13:18:17Z,http://pbs.twimg.com/media/EuB1Mk9XUAYRWJa.jpg,"TidyTuesday, rstats",7,2021,1360216657931759618,Images-only,Image
+2021-02-12T13:56:32Z,http://pbs.twimg.com/media/EuB-iFVXIAoU7Mg.jpg,"TidyTuesday, dataviz, RStats",7,2021,1360226283708383232,Links included,Image
+2021-02-12T14:08:48Z,http://pbs.twimg.com/media/EuCBYfSXcAE9UX1.jpg,"TidyTuesday, rstats",7,2021,1360229370535813123,Images-only,
+2021-02-12T14:42:50Z,http://pbs.twimg.com/media/EuCJMZtXcAIc1l3.jpg,"TidyTuesday, rstats",7,2021,1360237936390856706,Links included,Image
+2021-02-12T15:14:14Z,http://pbs.twimg.com/media/EuCQTTAVcAILp5H.png,"TidyTuesday, Rstats",7,2021,1360245837914230790,Links included,Image
+2021-02-12T19:45:42Z,http://pbs.twimg.com/media/EuDOgnvXMAosZeo.jpg,tidytuesday,7,2021,1360314154209411074,Images-only,Image
+2021-02-12T22:46:49Z,http://pbs.twimg.com/tweet_video_thumb/EuD395KXUAAmb0V.jpg,"TidyTuesday, rladies",7,2021,1360359735623565321,Links included,
+2021-02-13T01:49:33Z,http://pbs.twimg.com/media/EuEhkVAVEAIFVtF.jpg,"TidyTuesday, rstats",7,2021,1360405718961037316,Links included,Image
+2021-02-13T03:12:41Z,http://pbs.twimg.com/media/EuEzrkPXYAUrDH5.jpg,TidyTuesday,7,2021,1360426639704928258,Images-only,Image
+2021-02-13T04:51:10Z,http://pbs.twimg.com/media/EuFLV7HU0AELdlU.jpg,"TidyTuesday, rstats, dataviz",7,2021,1360451427752054794,Links included,Image
+2021-02-13T07:00:12Z,http://pbs.twimg.com/media/EuFo2bXUcAQFW3f.png,"TidyTuesday, r4ds, Rstats",7,2021,1360483899587977218,Links included,Image
+2021-02-13T10:35:22Z,http://pbs.twimg.com/media/EuGaGd_VoAAqhtT.png,TidyTuesday,7,2021,1360538046383280130,Links included,Image
+2021-02-13T11:17:00Z,http://pbs.twimg.com/media/EuGjf7gXMAEBTdi.jpg,"TidyTuesday, rstats, r4ds, dataviz",7,2021,1360548522987249667,Links included,Image
+2021-02-13T16:32:44Z,http://pbs.twimg.com/tweet_video_thumb/EuHr6zbXMAU6fJq.jpg,"TidyTuesday, Rstats, dataviz",7,2021,1360627981413199876,Links included,
+2021-02-13T16:37:30Z,http://pbs.twimg.com/media/EuHswEZXIAUaL6r.png,"TidyTuesday, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz",7,2021,1360629179876864000,Links included,Image
+2021-02-13T20:30:33Z,http://pbs.twimg.com/media/EuIiS8-UcAEz6A1.png,"TidyTuesday, RStats, GGPlot2, DataViz",7,2021,1360687829345472512,Links included,"There are five plots showing different wealth metrics for Black, Hispanic, and White populations in the United States in 1989 and 2016. The top plot extends across the width of the image and shows the percent of people by race in each income bracket; the distribution of income is skewed towards the lower end of income brackets for the Black and Hispanic population and towards the higher end of the income brackets for the white population. The lower section of the image has four slope line plots showing home ownership percentages, average family wealth, family liquid retirement savings, and family student loan debt for Black, Hispanic, and white populations in 1989 and 2016. The white population was better off in all of the metrics in 1989 and has increased wealth at a much higher rate than the Black and Hispanic populations. All three populations have experienced increased student loan debt, but the Black population has the highest average family student loan debt in 2016."
+2021-02-13T21:51:53Z,http://pbs.twimg.com/tweet_video_thumb/EuI0SYkXcAQ_r4B.jpg,"galentinesday, TidyTuesday",7,2021,1360708297037406216,Links included,Image
+2021-02-14T05:01:34Z,http://pbs.twimg.com/media/EuKXIrYVIAYirF1.png,"TidyTuesday, rstats",7,2021,1360816429436608516,Images-only,Image
+2021-02-14T09:40:54Z,http://pbs.twimg.com/media/EuLXQ4pXIAUCajk.jpg,"TidyTuesday, DataScience, TidyModels, rStats",7,2021,1360886726374404097,Images-only,Image
+2021-02-14T11:17:47Z,http://pbs.twimg.com/media/EuLsTQkWYAER4zM.jpg,"TidyTuesday, rstats, CorrelAid",7,2021,1360911110891843584,Images-only,Image
+2021-02-14T12:50:14Z,http://pbs.twimg.com/media/EuMCmVKWYAAIVbh.jpg,"ValentinesDay, RStats, TidyTuesday, AcademicChatter, AcademicTwitter",7,2021,1360934372627668992,Images-only,Image
+2021-02-14T14:01:00Z,http://pbs.twimg.com/media/EuMSzExXEAcfl1U.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",7,2021,1360952182770716674,Links included,Image
+2021-02-14T15:44:47Z,http://pbs.twimg.com/media/EuMpMVGXYAUaxt8.png,"RStats, TidyTuesday",7,2021,1360978301418930176,Images-only,Image
+2021-02-14T18:34:44Z,http://pbs.twimg.com/ext_tw_video_thumb/1361020928487018497/pu/img/vux0vCEh54UhZnsk.jpg,"MakingOf, TidyTuesday",7,2021,1361021069524692995,Links included,Image
+2021-02-14T19:59:05Z,http://pbs.twimg.com/media/EuNkjQHVgAI56yk.png,TidyTuesday,7,2021,1361042299501776897,Images-only,A plot of average family student loan debt by year and race
+2021-02-14T21:17:39Z,http://pbs.twimg.com/media/EuN2rFlWYAQNFhR.png,"TidyTuesday, rstats",7,2021,1361062071820046346,Links included,Image
+2021-02-15T03:07:58Z,http://pbs.twimg.com/media/EuPGgyuWYAQ19xX.png,"TidyTuesday, rstats, rstudio",7,2021,1361150229857394688,Links included,Image
+2021-02-15T04:21:14Z,http://pbs.twimg.com/media/EuPWmaBWYAEgm7p.jpg,TidyTuesday,7,2021,1361168670433640452,Links included,Image
+2021-02-15T16:18:41Z,http://pbs.twimg.com/media/EuR5PYiWgAAhIlV.png,"TidyTuesday, RStats, dataviz, ggplot2",7,2021,1361349222063349763,Links included,Image
+2021-02-15T16:28:18Z,http://pbs.twimg.com/media/EuR81aWUcAcxfCD.jpg,"TidyTuesday, RStats",7,2021,1361351642210177024,Links included,Image
+2021-02-15T17:51:19Z,http://pbs.twimg.com/media/EuSQvhpXEAMTnc4.jpg,"TidyTuesday, DuBoisChallenge, rstats, dataviz, r4ds",7,2021,1361372530951540739,Links included,Image
+2021-02-15T20:36:08Z,http://pbs.twimg.com/media/EuS2AB9XEAA6HdJ.jpg,"TidyTuesday, DuBoisChallenge",7,2021,1361414011787513856,Links included,Image
+2021-02-15T23:25:09Z,http://pbs.twimg.com/media/EuTccMyXAAQfmuK.jpg,"TidyTuesday, rstats, dataviz, DataScience, dataviz",7,2021,1361456545377226759,Images-only,Image
+2021-02-15T23:55:05Z,http://pbs.twimg.com/media/EuThl5bXYAIW2ny.jpg,"DuBoisChallenge, TidyTuesday",7,2021,1361464076736606209,Links included,Image
+2021-02-16T01:55:49Z,http://pbs.twimg.com/media/EuT_JJ3XcAk0ElD.jpg,"TidyTuesday, DuBoisChallenge, Rstats",7,2021,1361494459045842947,Links included,Image
+2021-02-16T02:41:57Z,http://pbs.twimg.com/media/EuUI8jrWgAMgr_z.jpg,"TidyTuesday, DuBoisChallenge, rstats, tidyverse, ggplot2, r4ds, dataviz",7,2021,1361506069017726978,Links included,Image
+2021-02-16T02:47:34Z,http://pbs.twimg.com/media/EuULerNWgAEqkWf.png,"DuBoisChallenge, TidyTuesday",7,2021,1361507484104617986,Links included,Image
+2021-02-16T03:12:30Z,http://pbs.twimg.com/media/EuURhBQXMAAVNBq.jpg,tidytuesday,7,2021,1361513759668391936,Links included,Image
+2021-02-16T04:23:46Z,http://pbs.twimg.com/media/EuUgUvwXMAIVFh5.jpg,"TidyTuesday, dataviz, DuBoisChallenge",7,2021,1361531693937684481,Links included,Image
+2021-02-16T05:02:15Z,http://pbs.twimg.com/media/EuUqqkYWYAQxZ0n.jpg,"TidyTuesday, rstats",7,2021,1361541377885167619,Links included,Image
+2021-02-16T06:14:16Z,http://pbs.twimg.com/tweet_video_thumb/EuU7I5lXcAEkkLl.jpg,"TidyTuesday, ggplot2",7,2021,1361559500390596609,Links included,
+2021-02-16T06:36:14Z,http://pbs.twimg.com/media/EuVAIFHVoAMyD4p.jpg,"TidyTuesday, DuBoisChallenge, rstats",7,2021,1361565029343010818,Links included,Image
+2021-02-16T07:16:41Z,http://pbs.twimg.com/media/EuVG42CUYAEYVSD.png,TidyTuesday,7,2021,1361575210286161922,Images-only,Image
+2021-02-16T07:26:02Z,http://pbs.twimg.com/media/EuVLRPaXEAEacss.jpg,"TidyTuesday, DuBoisChallenge, rstats, tidyverse, ggplot2, r4ds, dataviz",7,2021,1361577562242187265,Links included,Image
+2021-02-16T08:38:35Z,http://pbs.twimg.com/media/EuVaKhZU4AYxfAd.jpg,"TidyTuesday, rstats",7,2021,1361595822404558849,Images-only,Image
+2021-02-16T08:38:37Z,http://pbs.twimg.com/media/EuVbRJbVoAADWMD.jpg,"TidyTuesday, Rstats",7,2021,1361595827198697476,Images-only,Image
+2021-02-16T08:38:38Z,http://pbs.twimg.com/media/EuVbyEwU4AcqgFL.jpg,"TidyTuesday, Rstats",7,2021,1361595832219299842,Images-only,Image
+2021-02-16T10:56:13Z,http://pbs.twimg.com/media/EuV7H_sXMAAmAFI.jpg,"DuBoisChallenge, RStats, ggplot2, TidyTuesday",7,2021,1361630455519444996,Links included,"A pie chart comparing the occupational status of ""negroes and whites"" in Georgia, hand-printed by DuBois. A recreation using modern graphing tools is shown next to it, which is close but imperfect."
+2021-02-16T15:41:41Z,http://pbs.twimg.com/media/EuW8f_4XUAEbA8q.png,"TidyTuesday, rstats, DuBoisChallenge, BlackHistoryMonth2021",7,2021,1361702298263707649,Links included,Image
+2021-02-16T16:25:44Z,http://pbs.twimg.com/media/EuXG5ixXAAIC0XK.jpg,"TidyTuesday, DuBoisChallenge, ggplot, productiveprocrastination",7,2021,1361713384752832520,Links included,Image
+2021-02-16T17:23:06Z,http://pbs.twimg.com/media/EuXRxCeWYAQB9Bc.jpg,"TidyTuesday, DuBoisChallenge, RStats",7,2021,1361727821329149959,Links included,Image
+2021-02-16T17:35:57Z,http://pbs.twimg.com/media/EuXVgkGXAAA7LeC.png,"TidyTuesday, rstats, r4ds, ggplot2, R4Ds",7,2021,1361731055129137156,Images-only,Image
+2021-02-16T17:44:50Z,http://pbs.twimg.com/media/EuXX9K8XEAMNbqs.jpg,"DuBoisChallenge, TidyTuesday, dataviz, RStats",7,2021,1361733287564181507,Links included,"Recreation of Du Bois' Plate 10, [The Georgia Negro] Conjugal condition, a graph showing the marital status by age of African Americans compared to Germans"
+2021-02-16T18:24:12Z,http://pbs.twimg.com/media/EuXh-pJXMAAg3N1.png,"TidyTuesday, DuBoisChallenge, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz",7,2021,1361743197593075716,Links included,Image
+2021-02-16T18:50:30Z,http://pbs.twimg.com/media/EuXmx0gWQAI38To.jpg,"DuBoisChallenge, TidyTuesday, RStats, dataviz",7,2021,1361749814501900288,Links included,Image
+2021-02-16T18:57:55Z,http://pbs.twimg.com/media/EuXpY9ZXYAMKnSK.png,"TidyTuesday, DuBoisChallenge, RStats",7,2021,1361751678890967044,Links included,Image
+2021-02-16T19:23:05Z,http://pbs.twimg.com/media/EuXulFRXAAgViPz.jpg,"DuBoisChallenge, TidyTuesday, RStats",7,2021,1361758015477719041,Images-only,Image
+2021-02-16T19:32:54Z,http://pbs.twimg.com/media/EuXxNd5XEAEXVHu.jpg,"TidyTuesday, DuBoisChallenge, rstats, r4ds, BlackHistoryMonth",7,2021,1361760483666190350,Links included,Image
+2021-02-16T19:51:35Z,http://pbs.twimg.com/media/EuX2DO0WQAARosF.jpg,"TidyTuesday, rstats",7,2021,1361765186932252673,Links included,Image
+2021-02-16T20:05:15Z,http://pbs.twimg.com/media/EuX18qEXYAIZwkT.jpg,"TidyTuesday, DuBoisChallenge, r4ds, rstats",7,2021,1361768625779187717,Links included,
+2021-02-16T20:05:43Z,http://pbs.twimg.com/media/EuX489_WQAEibGU.jpg,"TidyTuesday, DuBoisChallenge, rstats, dataviz, TidyTuesday, DuBoisChallenge",7,2021,1361768744339529728,Links included,Image
+2021-02-16T20:06:15Z,http://pbs.twimg.com/tweet_video_thumb/EuX5eMaXIAAdZKA.jpg,"TidyTuesday, r4ds, rstats, DuBoisChallenge",7,2021,1361768878444003331,Images-only,
+2021-02-16T20:25:21Z,http://pbs.twimg.com/media/EuX6wbpXcAIji40.jpg,"DuBoisChallenge, TidyTuesday",7,2021,1361773685560999944,Links included,Image
+2021-02-16T20:48:41Z,http://pbs.twimg.com/media/EuYCoc3XMAAix5K.jpg,"TidyTuesday, DuBoisChallenge, rstats",7,2021,1361779554516410371,Links included,Image
+2021-02-16T20:54:00Z,http://pbs.twimg.com/media/EuX1VGWXUAYTIq2.jpg,"TidyTuesday, DuBoisChallenge, DataVisualization, DataScience, RStats",7,2021,1361780893061246976,Links included,Image
+2021-02-16T21:08:59Z,http://pbs.twimg.com/media/EuYH5ccXAAo4tPB.jpg,"TidyTuesday, DuBoisChallenge",7,2021,1361784663912644609,Links included,Image
+2021-02-16T21:54:35Z,http://pbs.twimg.com/media/EuYR88kUUAAEOp7.jpg,"DuBoisChallenge, TidyTuesday",7,2021,1361796138773352449,Links included,Image
+2021-02-16T22:18:24Z,http://pbs.twimg.com/media/EuYXs-hXEAUua6I.jpg,"TidyTuesday, DuBoisChallenge, rstats",7,2021,1361802134392500228,Images-only,Image
+2021-02-16T22:28:37Z,http://pbs.twimg.com/media/EuYZynhXYAQt-PI.jpg,"TidyTuesday, DuBoisChallenge",7,2021,1361804705454837761,Links included,Image
+2021-02-16T22:45:40Z,http://pbs.twimg.com/media/EuYcm0VU4AEqt74.jpg,tidytuesday,7,2021,1361808995623727104,Links included,Image
+2021-02-16T22:55:55Z,http://pbs.twimg.com/media/EuYf7R9VIAM94gH.jpg,"TidyTuesday, rstats, dataviz",7,2021,1361811576311869442,Links included,Image
+2021-02-16T23:32:43Z,http://pbs.twimg.com/media/EuYo1TYXYAEPExK.jpg,"TidyTuesday, RStats, DataViz",7,2021,1361820837821767681,Links included,Data visualizations shown in a grid layout in the 2021 TidyTuesday database: tiny.cc/notion-dataviz
+2021-02-17T00:52:43Z,http://pbs.twimg.com/media/EuY5mv3UcAA8cEi.jpg,"DuBoisChallenge, TidyTuesday",7,2021,1361840970782765057,Links included,Image
+2021-02-17T00:57:49Z,http://pbs.twimg.com/media/EuY8ODXXcAAn2e7.jpg,"TidyTuesday, DuBoisChallenge, DuBoisChallenge, DataVisualization, rstats, rstudio, ggplot2, tidyverse",7,2021,1361842251010347008,Links included,Image
+2021-02-17T01:37:30Z,http://pbs.twimg.com/media/EuZFSxqXEAAvdhL.jpg,"TidyTuesday, DuBoisChallenge, r4ds, rstats",7,2021,1361852241079066624,Links included,Image
+2021-02-17T02:53:04Z,http://pbs.twimg.com/media/EuZWSBzWQAELkyX.jpg,"DuBoisChallenge, TidyTuesday, Rstats",7,2021,1361871256048525313,Links included,Image
+2021-02-17T03:00:20Z,http://pbs.twimg.com/media/EuZXyhvXAAAT7OU.jpg,"DuBoisChallenge, RStats, TidyTuesday",7,2021,1361873085041893380,Images-only,Image
+2021-02-17T04:38:43Z,http://pbs.twimg.com/media/EuZuA5AUYAM2lQ9.png,"TidyTuesday, DuBoisChallenge, RStats, DataViz, GGPlot2",7,2021,1361897842831355906,Links included,Image
+2021-02-17T04:48:18Z,http://pbs.twimg.com/media/EuZvZzCVIAQfUdb.jpg,"TidyTuesday, DuBoisChallenge",7,2021,1361900254077939717,Links included,Image
+2021-02-17T07:01:54Z,http://pbs.twimg.com/media/EuaPQ_xVkAA72gX.jpg,"TidyTuesday, DuBoisChallenge, Tidydors",7,2021,1361933875560124416,Links included,Image
+2021-02-17T07:27:07Z,http://pbs.twimg.com/media/EuaVQx0U4AAEWLO.jpg,"tidytuesday, DuBoisChallenge, DataVisualization, RStats",7,2021,1361940222905225217,Links included,Image
+2021-02-17T07:52:10Z,http://pbs.twimg.com/media/EuaWzTFU4AMRVQJ.jpg,"TidyTuesday, HBCU, ClarkAtlantaUniversity, CAU, DataJournalism",7,2021,1361946526365323266,Links included,Image
+2021-02-17T08:08:44Z,http://pbs.twimg.com/media/EuaewjCVEAYpRua.jpg,"TidyTuesday, DuBoisChallenge, Tidydors",7,2021,1361950695344074752,Links included,Image
+2021-02-17T13:04:11Z,http://pbs.twimg.com/media/EubiYG7XMAcG3wD.jpg,"TidyTuesday, DuBoisChallenge, rstats, r4ds",7,2021,1362025048459067392,Links included,Image
+2021-02-17T13:26:11Z,http://pbs.twimg.com/media/EubnfwcVIAghkt-.jpg,"TidyTuesday, DuBoisChallenge, rstats",7,2021,1362030586391498755,Links included,Image
+2021-02-17T15:53:09Z,http://pbs.twimg.com/media/EucE7GjXAAEJNJE.jpg,"TidyTuesday, cowplot",7,2021,1362067570954805252,Links included,Image
+2021-02-17T16:16:25Z,http://pbs.twimg.com/media/EucNo7NUUAQyaAL.jpg,"DuBoisChallenge, TidyTuesday, rstats",7,2021,1362073425494171658,Links included,Image
+2021-02-17T16:21:10Z,http://pbs.twimg.com/media/EucPpT3XMAIPPsM.jpg,"TidyTuesday, DuBoisChallenge, Rstats",7,2021,1362074621252616197,Links included,Image
+2021-02-17T18:33:28Z,http://pbs.twimg.com/media/EucsAY4WgAU_FbK.png,"TidyTuesday, DuBoisChallenge, Rstats",7,2021,1362107914627018763,Images-only,Image
+2021-02-17T20:22:05Z,http://pbs.twimg.com/media/EudGrcBXYAMWWli.png,"TidyTuesday, DuBoisChallenge, rstats",7,2021,1362135251972022272,Links included,"A bar graph depicting conjugal conditions in 1900 between German and Negro populations, Age ranges 15-40, 40-60 and 60+. Germany had more single young people. The majority of each population was married. "
+2021-02-17T21:38:37Z,http://pbs.twimg.com/media/EudYTXLWYAM6m49.jpg,"TidyTuesday, DuBoisChallenge, rstats",7,2021,1362154511041724419,Images-only,Image
+2021-02-17T22:59:25Z,http://pbs.twimg.com/media/EudqvHtVoAElzhg.jpg,"TidyTuesday, DuBoisChallenge",7,2021,1362174842901045249,Links included,Image
+2021-02-18T00:39:38Z,http://pbs.twimg.com/media/EueBvLKU4AEgjA5.jpg,"TidyTuesday, DuBoisChallenge",7,2021,1362200063586406400,Links included,Image
+2021-02-18T10:40:07Z,http://pbs.twimg.com/media/EugJ8ksVkAc2KQ8.jpg,"TidyTuesday, r4ds, rstats",7,2021,1362351180953780225,Links included,Image
+2021-02-18T11:39:50Z,http://pbs.twimg.com/media/EugY12yXEAIKa7v.jpg,"TidyTuesday, ggplot2, DuBoisChallenge, rstats, dataviz, sociology",7,2021,1362366211040940032,Links included,Replication of Du Bois chart showing assessed value of furniture owned by Georgia Blacks in the end of the 19th century.
+2021-02-18T14:40:50Z,http://pbs.twimg.com/media/Eug_ALdXEDg7CxC.jpg,"TidyTuesday, rstats",7,2021,1362411759391367169,Images-only,Image
+2021-02-18T16:16:10Z,http://pbs.twimg.com/media/EuhX1EXXIAMynxA.jpg,"TidyTuesday, Rstats, RstatsFR, R4DS",7,2021,1362435752957800452,Links included,Image
+2021-02-18T18:05:09Z,http://pbs.twimg.com/media/EuhxB5xWgAcD0ju.jpg,"TidyTuesday, rstats",7,2021,1362463176667897859,Links included,Image
+2021-02-18T20:12:43Z,http://pbs.twimg.com/media/EuiOOzyXAAgLo08.jpg,"TidyTuesday, DuBoisChallenge, rstats",7,2021,1362495280076185609,Links included,Image
+2021-02-18T20:24:25Z,http://pbs.twimg.com/media/EuiOcCeXcAY_Z-n.jpg,"BlackHistoryMonth2021, TidyTuesday, DuBoisChallenge, RStats",7,2021,1362498226327273472,Links included,Image
+2021-02-18T22:30:12Z,http://pbs.twimg.com/media/EuitbWPWYAACqbc.jpg,"TidyTuesday, DuBoisChallenge",7,2021,1362529879053467650,Links included,
+2021-02-19T02:58:09Z,http://pbs.twimg.com/media/EujpUFpWgAoED5V.jpg,"TidyTuesday, DuBoisChallenge",8,2021,1362597310220369926,Images-only,Image
+2021-02-19T02:59:22Z,http://pbs.twimg.com/media/EujrSC7UcAYcgcr.jpg,"TidyTuesday, rstats, dataviz, DuBoisChallenge",8,2021,1362597617713119235,Links included,Image
+2021-02-19T06:03:50Z,http://pbs.twimg.com/media/EukU_duXcAAnLKv.jpg,"TidyTuesday, DuBoisChallenge, rstats",8,2021,1362644038638329856,Images-only,Image
+2021-02-19T14:49:31Z,http://pbs.twimg.com/media/EumNw0ZWgAEd5GZ.jpg,"TidyTuesday, DuBoisChallenge, rstats, r4ds, dataviz",8,2021,1362776331654725636,Links included,Image
+2021-02-19T17:58:11Z,http://pbs.twimg.com/media/Eum5BxGWgAAIYUM.jpg,"TidyTuesday, rstats, datascience",8,2021,1362823810127441921,Links included,Image
+2021-02-19T18:44:37Z,http://pbs.twimg.com/media/EunDG2cXEAI3V9n.jpg,"tidytuesday, rstats",8,2021,1362835495458324499,Links included,Image
+2021-02-19T20:04:24Z,http://pbs.twimg.com/media/EunVHA2XMAkXuh1.jpg,"BlackHistoryMonth2021, TidyTuesday, DuBoisChallenge, RStats",8,2021,1362855576401825793,Links included,Image
+2021-02-19T20:13:10Z,http://pbs.twimg.com/media/EunX7WRXcAQkRbS.jpg,"TidyTuesday, Python, MatPlotLib, Plotly",8,2021,1362857782219833344,Images-only,Image
+2021-02-20T13:43:16Z,http://pbs.twimg.com/media/EurHN7lXUAgZ3Fw.jpg,"rstats, DuBoisChallenge, TidyTuesday",8,2021,1363122047547760642,Links included,Image
+2021-02-20T17:14:48Z,http://pbs.twimg.com/media/Eur4pKAXMAsGip1.jpg,"TidyTuesday, Rstats",8,2021,1363175280119054341,Images-only,Image
+2021-02-21T01:59:34Z,http://pbs.twimg.com/media/EutuFC1VkAExzCP.png,"TidyTuesday, DuBoisChallenge",8,2021,1363307345573384192,Links included,Image
+2021-02-21T04:35:24Z,http://pbs.twimg.com/media/EuuTqmFVgAQHeek.png,"DuBoisChallenge, RStats, DataViz, GGPlot2, TidyTuesday",8,2021,1363346561149722624,Links included,Image
+2021-02-21T09:15:12Z,http://pbs.twimg.com/media/EuvP6xcVoAIhguw.jpg,"TidyTuesday, DuBoisChallenge, rstats",8,2021,1363416976647888900,Links included,Image
+2021-02-21T14:01:15Z,http://pbs.twimg.com/media/EuwV_BgWgAAXSF9.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",8,2021,1363488961537130497,Links included,Image
+2021-02-21T19:36:17Z,http://pbs.twimg.com/media/EuxiO99XUAEc3B1.jpg,TidyTuesday,8,2021,1363573276421816320,Images-only,Image
+2021-02-22T02:11:57Z,http://pbs.twimg.com/media/Euy7krlUYAYHrwX.png,"TidyTuesday, DuBoisChallenge",8,2021,1363672846745038853,Images-only,Image
+2021-02-22T03:20:51Z,http://pbs.twimg.com/media/EuzM_twWgAA78t3.jpg,"DuBoisChallenge, TidyTuesday, Rstats",8,2021,1363690187100938244,Images-only,Image
+2021-02-22T06:02:06Z,http://pbs.twimg.com/media/EuzwbdMXEAESq8v.jpg,"TidyTuesday, DuBoisChallenge",8,2021,1363730766723756032,Links included,Image
+2021-02-22T18:39:46Z,http://pbs.twimg.com/media/Eu2eRQ7XcAMPQiC.jpg,"DataViz, rstats, DuBoisChallenge, TidyTuesday",8,2021,1363921440991494144,Links included,"TidyTuesday data viz shared as part of the the #DuBoisChallenge last week, arranged in a tile view. Source: tiny.cc/notion-dataviz"
+2021-02-22T20:27:13Z,http://pbs.twimg.com/media/Eu23rnsXYAMleVO.png,"TidyTuesday, DuBoisChallenge, Rstats, dataviz, DataVisualization",8,2021,1363948481681973250,Images-only,Image
+2021-02-22T21:09:18Z,http://pbs.twimg.com/media/Eu3BDmVXUAkOXmi.jpg,"TidyTuesday, DuBoisChallenge",8,2021,1363959071976677376,Links included,
+2021-02-23T02:16:21Z,http://pbs.twimg.com/media/Eu4HhFVUYAQcHVE.png,"TidyTuesday, RStats, ggplot2, R4ds",8,2021,1364036345224519682,Links included,Image
+2021-02-23T02:50:43Z,http://pbs.twimg.com/media/Eu4PrwVXMAQAqk6.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",8,2021,1364044990662508545,Links included,Image
+2021-02-23T03:20:05Z,http://pbs.twimg.com/media/Eu4UwvuXEAEEw_C.jpg,"TidyTuesday, Rstats, RstatsFr, R4DS",8,2021,1364052381915308032,Links included,Image
+2021-02-23T11:38:10Z,http://pbs.twimg.com/tweet_video_thumb/Eu6IaIsWQAE__XB.jpg,TidyTuesday,8,2021,1364177727742480384,Images-only,
+2021-02-23T12:11:58Z,http://pbs.twimg.com/media/Eu6PkycVgAAVw1A.jpg,"tidytuesday, TidyTuesday, DuBoisChallenge",8,2021,1364186235367919616,Links included,Image
+2021-02-23T17:08:56Z,http://pbs.twimg.com/tweet_video_thumb/Eu7T-0fXEAAZrzo.jpg,"DuBoisChallenge, TidyTuesday, DataVisualization, DataScience, RStats",8,2021,1364260967945801731,Links included,
+2021-02-23T18:02:16Z,http://pbs.twimg.com/media/Eu7f-1CXYAQt7AS.png,"tidytuesday, dataviz",8,2021,1364274390326738945,Images-only,Image
+2021-02-23T18:17:55Z,http://pbs.twimg.com/media/Eu7j1AEXUAIDkEJ.jpg,"TidyTuesday, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz",8,2021,1364278330560811016,Links included,Image
+2021-02-23T18:34:24Z,http://pbs.twimg.com/media/Eu7nFNzXUAE0oHU.png,"TidyTuesday, rstats",8,2021,1364282476265414659,Links included,Image
+2021-02-23T19:00:45Z,http://pbs.twimg.com/media/Eu7tWmvWgAobO3E.jpg,TidyTuesday,8,2021,1364289110593007618,Links included,Image
+2021-02-23T20:12:19Z,http://pbs.twimg.com/media/Eu79KahVIAI6MoR.png,"TidyTuesday, rstats",8,2021,1364307117318959105,Links included,Image
+2021-02-23T22:05:55Z,http://pbs.twimg.com/media/Eu8YCVTXcAAfTLR.png,"TidyTuesday, Rstats, ggplot2, DataScience, soil",8,2021,1364335707817455620,Images-only,Image
+2021-02-23T22:42:04Z,http://pbs.twimg.com/media/Eu8gXbaXYA0n6Md.jpg,TidyTuesday,8,2021,1364344804411387906,Images-only,Image
+2021-02-23T23:47:25Z,http://pbs.twimg.com/media/Eu8vUzUUUAIOIBA.jpg,"TidyTuesday, dataviz, RStats",8,2021,1364361250231173122,Images-only,Image
+2021-02-24T02:23:22Z,http://pbs.twimg.com/media/Eu9ShBIVoAEVBiB.png,"TidyTuesday, DuboisChallenge, rstats",8,2021,1364400495800897536,Images-only,Image
+2021-02-24T02:26:39Z,http://pbs.twimg.com/media/Eu9TiDLVgAAE23X.png,"TidyTuesday, ggtext, rstats",8,2021,1364401323878178818,Links included,Image
+2021-02-24T02:37:48Z,http://pbs.twimg.com/media/Eu9VI2xXIAgTnHm.jpg,TidyTuesday,8,2021,1364404128915611651,Links included,Image
+2021-02-24T05:02:11Z,http://pbs.twimg.com/media/Eu92pxjVgAA6vfY.png,"TidyTuesday, RStats, GGPlot2, DataViz",8,2021,1364440464359792646,Links included,Image
+2021-02-24T05:07:41Z,http://pbs.twimg.com/media/Eu92pnHU4AIuc6u.jpg,TidyTuesday,8,2021,1364441848421343232,Links included,Image
+2021-02-24T06:09:56Z,http://pbs.twimg.com/media/Eu-GWKtWgAEmtYE.jpg,"TidyTuesday, rstats, BHM, BLS",8,2021,1364457514553720833,Links included,Image
+2021-02-24T06:19:16Z,http://pbs.twimg.com/media/Eu-I2UUVcAIjidD.png,TidyTuesday,8,2021,1364459864504684544,Images-only,"A visualization representing the pay disparities between white and Black women. The white women's median weekly earnings is represented by a grey square while the black women's median weekly earnings is represented by a white square. Over time both groups earnings increase, but the black women's earnings is always less. "
+2021-02-24T07:19:21Z,http://pbs.twimg.com/media/Eu-WuBPVIAIzbvM.jpg,"TidyTuesday, Tidydors",8,2021,1364474981954908163,Links included,Image
+2021-02-24T08:03:00Z,http://pbs.twimg.com/ext_tw_video_thumb/1364371480855928833/pu/img/mm4KQrhqKPSEuc6v.jpg,"DuBoisChallenge, TidyTuesday, rstats, dataviz",8,2021,1364485967931797506,Links included,
+2021-02-24T08:13:33Z,http://pbs.twimg.com/media/Eu-jDvQUYAMt3ed.jpg,"TidyTuesday, Rstats, BHM",8,2021,1364488623173758979,Links included,Image
+2021-02-24T12:03:23Z,http://pbs.twimg.com/media/Eu_XxqyXcAQ2FCh.png,"TidyTuesday, RStats",8,2021,1364546463808823300,Links included,Image
+2021-02-24T12:23:02Z,http://pbs.twimg.com/tweet_video_thumb/Eu_cKy5XMAQzDJW.jpg,"TidyTuesday, RStats",8,2021,1364551410101157892,Links included,
+2021-02-24T12:39:20Z,http://pbs.twimg.com/media/Eu_fqJZXUAYueYF.jpg,"DuBoisChallenge, RStats, TidyTuesday, BlackLivesMatterUK, WEBDuBois, DataFam, blackindata, BlackHistoryMonth",8,2021,1364555509894959108,Links included,Image
+2021-02-24T14:30:26Z,http://pbs.twimg.com/media/Eu_4yTkWgAIhe2b.jpg,"TidyTuesday, rstats, dataviz, TidyTuesday, ggplot2, tidyverse",8,2021,1364583468731097096,Links included,Image
+2021-02-24T14:30:58Z,http://pbs.twimg.com/media/Eu_5iGLXEAQTxb0.png,"rstats, TidyTuesday",8,2021,1364583604379131904,Images-only,Image
+2021-02-24T15:30:35Z,http://pbs.twimg.com/media/EvAG_T5XUAkBA8G.png,"TidyTuesday, rstats, ggplot2",8,2021,1364598605638758400,Images-only,Image
+2021-02-24T17:05:59Z,http://pbs.twimg.com/media/EvAclHoXAAAp-ob.png,"TidyTuesday, rstats",8,2021,1364622614136819712,Links included,Image
+2021-02-24T18:25:30Z,http://pbs.twimg.com/media/EvAvEcdVgAAQKX1.png,"DuBoisChallenge, tidytuesday, rstats",8,2021,1364642626318688260,Links included,Image
+2021-02-25T02:00:53Z,http://pbs.twimg.com/media/EvCXOPfVgAMNwzt.jpg,TidyTuesday,8,2021,1364757228868169728,Links included,Image
+2021-02-25T02:11:10Z,http://pbs.twimg.com/media/EvCZvt2WYAQQ1WJ.png,"TidyTuesday, rstats, ggplot, R4ds",8,2021,1364759814929346560,Links included,Image
+2021-02-25T03:13:23Z,http://pbs.twimg.com/media/EvCm5N4WYAIxhJL.jpg,"TidyTuesday, rstats",8,2021,1364775472152862721,Images-only,Image
+2021-02-25T05:00:01Z,http://pbs.twimg.com/media/EvC_KEdUUAAzJ67.png,"TidyTuesday, RStats, DataViz, GGPlot2",8,2021,1364802305254518787,Links included,Image
+2021-02-25T06:36:54Z,http://pbs.twimg.com/media/EvDWZU5U4AMHPWj.jpg,TidyTuesday,8,2021,1364826686949257216,Links included,Starburst plot showing the ratio of men employees to women employees in 2020 by industry. 
+2021-02-25T07:34:25Z,http://pbs.twimg.com/media/EvDjdE2VkAQMQAX.jpg,"TidyTuesday, r4ds, rstats",8,2021,1364841161811103745,Links included,Image
+2021-02-25T09:58:02Z,http://pbs.twimg.com/media/EvD9q2GVIAEeZuK.jpg,"TidyTuesday, RStats",8,2021,1364877304338386947,Links included,Image
+2021-02-25T16:00:54Z,http://pbs.twimg.com/media/EvFXuhRWQAAUfDM.png,TidyTuesday,8,2021,1364968625879216128,Images-only,Image
+2021-02-25T16:26:26Z,http://pbs.twimg.com/media/EvFdjdIVcAAcvD1.png,"rstats, tidytuesday, tidyverse",8,2021,1364975050873397251,Links included,Image
+2021-02-25T17:42:22Z,http://pbs.twimg.com/media/EvFu3nYWYAsCHs4.jpg,"TidyTuesday, ggplot, rstats",8,2021,1364994159002738691,Links included,Image
+2021-02-25T18:13:55Z,http://pbs.twimg.com/media/EvFbzNDWQAQDDhJ.png,"TidyTuesday, inequality",8,2021,1365002098824380417,Links included,Image
+2021-02-25T18:15:07Z,http://pbs.twimg.com/tweet_video_thumb/EvF2VYKXEAIKCam.jpg,"TidyTuesday, rstats",8,2021,1365002402252775425,Links included,
+2021-02-25T18:21:42Z,http://pbs.twimg.com/media/EvF3ogYXIAcdrwf.png,"TidyTuesday, rstats",8,2021,1365004057534939156,Links included,Image
+2021-02-26T04:39:13Z,http://pbs.twimg.com/media/EvIEZELWgAE4MB4.jpg,"TidyTuesday, rstats",9,2021,1365159459534823425,Links included,Image
+2021-02-26T11:23:38Z,http://pbs.twimg.com/media/EvJhrZAXMAMPCj8.jpg,tidytuesday,9,2021,1365261233293680640,Links included,Image
+2021-02-26T13:40:12Z,http://pbs.twimg.com/media/EvJ-dEZXIAcTBlm.png,"TidyTuesday, dataviz, RStats",9,2021,1365295603975135238,Links included,Image
+2021-02-26T14:10:47Z,http://pbs.twimg.com/media/EvKHdBHXUAMVJWJ.png,"TidyTuesday, Rstats, R4ds",9,2021,1365303300728446977,Links included,Image
+2021-02-26T16:06:25Z,http://pbs.twimg.com/media/EvKhH4zUcAU4tcO.jpg,"TidyTuesday, rstats, dataviz, ggplot",9,2021,1365332401656717313,Links included,Image
+2021-02-27T04:32:42Z,http://pbs.twimg.com/tweet_video_thumb/EvNNDeOVoAMd8Ux.jpg,"TidyTuesday, rstats, dataviz",9,2021,1365520208014708736,Links included,
+2021-02-27T13:52:16Z,http://pbs.twimg.com/media/EvPNdCeXMAUwgP2.jpg,"TidyTuesday, Python, MatPlotLib, Plotly",9,2021,1365661029229821954,Images-only,Image
+2021-02-27T15:44:48Z,http://pbs.twimg.com/media/EvPlvpJXIAIG7zL.jpg,"TidyTuesday, Rstats",9,2021,1365689349225009155,Links included,Image
+2021-02-27T16:40:38Z,http://pbs.twimg.com/media/EvPzrr5XYAEkvDr.png,"TidyTuesday, Rstats",9,2021,1365703400793509889,Links included,Image
+2021-02-27T20:22:18Z,http://pbs.twimg.com/media/EvQmvHRWgA0EDcw.jpg,"TidyTuesday, Python, MatPlotLib, Plotly",9,2021,1365759184147525637,Images-only,Image
+2021-02-27T21:09:38Z,http://pbs.twimg.com/media/EvQxHewUcAAaL8F.png,"TidyTuesday, Rstats",9,2021,1365771093173133314,Links included,Image
+2021-02-27T22:52:47Z,http://pbs.twimg.com/media/EvRIDdwXEAkuEwu.jpg,"TidyTuesday, dataviz, Rstats, ggplot2",9,2021,1365797055428497408,Links included,Image
+2021-02-28T03:23:03Z,http://pbs.twimg.com/media/EvSG80yVIAEeXVo.jpg,"TidyTuesday, rstats",9,2021,1365865066831118336,Links included,Image
+2021-02-28T12:20:32Z,http://pbs.twimg.com/media/EvUB0hUWYAc01IR.jpg,"TidyTuesday, rstats, r4ds, dataviz",9,2021,1366000328609562624,Links included,Image
+2021-02-28T14:01:18Z,http://pbs.twimg.com/media/EvUZH9gXcAAz17o.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",9,2021,1366025688197832709,Links included,Image
+2021-02-28T15:12:59Z,http://pbs.twimg.com/ext_tw_video_thumb/1366043509392834566/pu/img/qBxCPZJsR2RDSLoy.jpg,"MakingOf, TidyTuesday",9,2021,1366043726884327424,Links included,Image
+2021-02-28T15:43:44Z,http://pbs.twimg.com/media/EvUwkEwVgAAWjLN.jpg,TidyTuesday,9,2021,1366051467149287425,Links included,Image
+2021-02-28T18:36:31Z,http://pbs.twimg.com/media/EvVXXgcXcAQMA_9.jpg,"TidyTuesday, rstats, ggplot2, r4ds, dataviz, datavis",9,2021,1366094947884138497,Images-only,"The Current Population Survey (CPS) is a monthly survey of households conducted by the U.S. Bureau of Census for the Bureau of Labor Statistics. It provides a comprehensive body of data on the labor force, employment, unemployment, persons not in the labor force, hours of work, earnings, and other demographic and labor force characteristics. The following visualizations show the overall number (as a bar chart) and distribution (as a waterfall chart) per industry in 2020 for each of the three races within the survey: white, black or african american and asian. The industries are sorted by the number of employed persons overall."
+2021-02-28T19:22:14Z,http://pbs.twimg.com/media/EvVhpJCUYAMdim5.jpg,"rstats, tidytuesday, ggplot2",9,2021,1366106455019937793,Links included,Image
+2021-03-01T00:10:38Z,http://pbs.twimg.com/media/EvWkZnQXEAAnsv3.jpg,"rayshader, tidytuesday, dataviz, rstats",9,2021,1366179031247380480,Images-only,Image
+2021-03-01T04:04:56Z,http://pbs.twimg.com/media/EvXaF1aVIAQPsq6.jpg,"TidyTuesday, Tidydors",9,2021,1366237994894594048,Images-only,Image
+2021-03-01T18:39:01Z,http://pbs.twimg.com/media/Evaf8_sVcAAIRhs.png,"TidyTuesday, KMeans, BureauOfLaborStatistics, UnsupervisedLearning, Plotly, Rmd",9,2021,1366457965578919936,Links included,Image
+2021-03-01T19:24:04Z,http://pbs.twimg.com/media/Evaq2nXUYAMv8Kg.jpg,"TidyTuesday, rstats, datascience, dataviz",9,2021,1366469304925908993,Links included,Image
+2021-03-02T02:34:30Z,http://pbs.twimg.com/media/EvcO01GXEAsjJQt.jpg,"TidyTuesday, tidyverse, rstats, dataviz",9,2021,1366577625444061186,Links included,Image
+2021-03-02T07:32:53Z,http://pbs.twimg.com/media/EvdTXKSVoAIyDxY.jpg,"TidyTuesday, SuperBowl, rstats, dataviz",9,2021,1366652717033164803,Links included,Image
+2021-03-02T09:14:02Z,http://pbs.twimg.com/media/EvdqdEmXIAUusYP.png,TidyTuesday,9,2021,1366678172650078210,Images-only,Image
+2021-03-02T13:20:35Z,http://pbs.twimg.com/media/EveiatGXEAE_zaH.jpg,"TidyTuesday, dataviz, RStats",9,2021,1366740217634443274,Links included,Composite plot showing feature appearance in Super Bowl ads by brand and by year. The features were identified by FiveThirtyEight (article link: https://projects.fivethirtyeight.com/super-bowl-ads/)
+2021-03-02T16:41:24Z,http://pbs.twimg.com/media/EvfPiV1XEAEWcWF.png,"TidyTuesday, RStats, Dataviz",9,2021,1366790754732015620,Links included,Image
+2021-03-02T17:16:49Z,http://pbs.twimg.com/media/EvfYj26XMAcsRBN.png,"Tidytuesday, rstats, r4ds",9,2021,1366799667535753220,Links included,Image
+2021-03-02T17:45:04Z,http://pbs.twimg.com/media/Evffg7zVoAEZQ8Z.png,"TidyTuesday, rstats",9,2021,1366806779326124032,Links included,"A stream graph depicting characteristics of Superbowl ads from 2000-2020, including: animals, celebrity, danger, funny, patriotic, showing the product quickly, and sex. Each characteristic is indicated in a shade of red/orange on a navy background. Funny commercials make up a large proportion, same with quick product placement"
+2021-03-02T18:38:34Z,http://pbs.twimg.com/media/EvfraajXIAE9v8K.jpg,TidyTuesday,9,2021,1366820243109199876,Links included,Image
+2021-03-02T19:16:21Z,http://pbs.twimg.com/media/Evf0UmEXMAMs6PD.jpg,"TidyTuesday, rstats",9,2021,1366829749205676034,Links included,Image
+2021-03-02T19:42:23Z,http://pbs.twimg.com/media/Evf6DbLXMAwGRar.jpg,"TidyTuesday, rstats, dataviz, TidyTuesday, r4ds, tidyverse",9,2021,1366836301165658115,Links included,Image
+2021-03-02T20:05:00Z,http://pbs.twimg.com/media/Evf_RjOUYAEq2ny.jpg,TidyTuesday,9,2021,1366841994773815297,Links included,Image
+2021-03-02T21:53:43Z,http://pbs.twimg.com/media/EvgYMtOWYAAXEd7.png,"TidyTuesday, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz",9,2021,1366869351870136323,Links included,Image
+2021-03-02T22:34:12Z,http://pbs.twimg.com/tweet_video_thumb/EvghsV_UUAABqpo.jpg,"TidyTuesday, rstats",9,2021,1366879538462945284,Images-only,
+2021-03-02T23:19:21Z,http://pbs.twimg.com/media/EvgsB6mXYAIVQ-K.jpg,"TidyTuesday, dataviz, RStats, NFL",9,2021,1366890903487528961,Images-only,Image
+2021-03-03T01:22:55Z,http://pbs.twimg.com/media/EvhHzjaVgAASMRy.jpg,TidyTuesday,9,2021,1366921998459314177,Images-only,Image
+2021-03-03T04:27:19Z,http://pbs.twimg.com/tweet_video_thumb/EvhxShPWgAofxhb.jpg,"TidyTuesday, gganimate",9,2021,1366968405664874499,Images-only,Composite plot showing feature appearance in Super Bowl ads by brand and by year. The features were identified by FiveThirtyEight (article link: https://projects.fivethirtyeight.com/super-bowl-ads/)
+2021-03-03T05:20:22Z,http://pbs.twimg.com/media/Evh978IWQAMIpvm.jpg,"TidyTuesday, rstats",9,2021,1366981757455773698,Links included,Image
+2021-03-03T05:42:53Z,http://pbs.twimg.com/media/EviDPmsVgAYtYpG.png,"TidyTuesday, tidydors",9,2021,1366987423247294467,Links included,Image
+2021-03-03T08:15:15Z,http://pbs.twimg.com/media/EvimC77VcAI63AR.png,"TidyTuesday, Rstats, dataviz",9,2021,1367025766257422338,Links included,Image
+2021-03-03T15:16:11Z,http://pbs.twimg.com/media/EvkFrWvXYAQJTtf.jpg,"TidyTuesday, DataVisualization, DataScience, RStats",9,2021,1367131699163910146,Links included,Image
+2021-03-03T16:35:03Z,http://pbs.twimg.com/media/EvkZFQCWQAUf_a2.jpg,TidyTuesday,9,2021,1367151543238025217,Images-only,Image
+2021-03-03T16:35:22Z,http://pbs.twimg.com/tweet_video_thumb/EvkYqdYWYAMWu0S.jpg,"TidyTuesday, rstats",9,2021,1367151625668857863,Links included,Image
+2021-03-03T17:21:46Z,http://pbs.twimg.com/media/EvkjjOAUUAYkuKJ.jpg,"TidyTuesday, SuperBowl",9,2021,1367163303349219333,Links included,Image
+2021-03-03T18:31:59Z,http://pbs.twimg.com/media/Evkz2UdVEAInDJd.png,"TidyTuesday, RStats, DataViz, GGPlot2",9,2021,1367180974312751104,Links included,Image
+2021-03-04T00:13:12Z,http://pbs.twimg.com/media/EvmB6XYXEAAZUcO.png,"TidyTuesday, Rstats, ggplot2, tidyvers, dataviz, DataScience",9,2021,1367266843497558016,Links included,Image
+2021-03-04T02:38:24Z,http://pbs.twimg.com/media/EvmjH7eWYAMkc0E.jpg,"TidyTuesday, rstats, R4DS, dataviz, DataVisualization",9,2021,1367303384945094658,Links included,Image
+2021-03-04T23:25:30Z,http://pbs.twimg.com/media/EvrAHvTVcAAetNS.jpg,TidyTuesday,9,2021,1367617224375083008,Links included,Image
+2021-03-05T16:27:12Z,http://pbs.twimg.com/media/Evuno2wXcAs7s-l.jpg,"TidyTuesday, Rstats",10,2021,1367874343821336579,Links included,Image
+2021-03-05T16:32:11Z,http://pbs.twimg.com/media/EvunrrlXIAASF7E.jpg,"TidyTuesday, RStats, DataFam, blackindata",10,2021,1367875601193971716,Links included,Image
+2021-03-05T17:23:46Z,http://pbs.twimg.com/ext_tw_video_thumb/1367888540433022977/pu/img/O33M01HEGShfblGq.jpg,"MakinfOf, TidyTuesday",10,2021,1367888582048948231,Links included,Composite plot showing feature appearance in Super Bowl ads by brand and by year. The features were identified by FiveThirtyEight (article link: https://projects.fivethirtyeight.com/super-bowl-ads/)
+2021-03-05T20:59:39Z,http://pbs.twimg.com/media/Evvo0PkXEAYR-kf.jpg,"dataviz, TidyTuesday",10,2021,1367942908465344516,Images-only,Image
+2021-03-06T02:33:45Z,http://pbs.twimg.com/media/Evw0pJrUcAA-ejF.png,"TidyTuesday, rstats",10,2021,1368026990096216070,Links included,Image
+2021-03-06T06:09:17Z,http://pbs.twimg.com/media/Evxlw-PXIAEIjTr.jpg,"rstats, TidyTuesday",10,2021,1368081227882913794,Links included,Image
+2021-03-06T18:21:38Z,http://pbs.twimg.com/media/Ev0NvmZXEAAZm8z.png,"MakeoverMonday, TidyTuesday",10,2021,1368265533288820740,Images-only,Image
+2021-03-07T02:17:49Z,http://pbs.twimg.com/media/Ev16qY2VgAEMOtR.png,TidyTuesday,10,2021,1368385367120900099,Links included,Image
+2021-03-07T14:01:21Z,http://pbs.twimg.com/media/Ev4cQ6WWQAAi6gL.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",10,2021,1368562415328235525,Links included,Image
+2021-03-07T14:27:11Z,http://pbs.twimg.com/media/Ev4iFXVXAAIsBPw.jpg,"TidyTuesday, rstats, r4ds, dataviz",10,2021,1368568916327489543,Links included,Image
+2021-03-07T14:51:58Z,http://pbs.twimg.com/media/Ev4nsuLWEAIzLvn.png,"Tidytuesday, TidyTuesday, RStats",10,2021,1368575157049188353,Links included,Image
+2021-03-07T23:13:30Z,http://pbs.twimg.com/media/Ev6ZNvtUcAA9GGB.jpg,"tidytuesday, rstats, ggplot2",10,2021,1368701368882503680,Links included,Image
+2021-03-08T04:18:59Z,http://pbs.twimg.com/media/Ev7gT8bVgAo-562.png,"TidyTuesday, Tidydors",10,2021,1368778248423829510,Links included,Image
+2021-03-08T17:26:48Z,http://pbs.twimg.com/media/Ev-Uh0cVcAAV_uI.png,"TidyTuesday, RStats",10,2021,1368976508434272257,Links included,Image
+2021-03-08T18:50:53Z,http://pbs.twimg.com/media/Ev-meTOXMAcVsYB.jpg,TidyTuesday,10,2021,1368997668748460034,Links included,Image
+2021-03-08T19:29:16Z,http://pbs.twimg.com/media/Ev-vBt9VoAAyh7A.jpg,"TidyTuesday, OneChartAtATime, RStats, DataVisualization, DataViz",10,2021,1369007328255635457,Links included,Image
+2021-03-08T19:51:42Z,http://pbs.twimg.com/media/Ev-1Bp9WQAY7Ej9.jpg,"TidyTuesday, rstats, ggplot2",10,2021,1369012974439043075,Links included,Image
+2021-03-08T21:35:32Z,http://pbs.twimg.com/tweet_video_thumb/Ev_Mu2WXYAIYmx-.jpg,TidyTuesday,10,2021,1369039102209888256,Links included,
+2021-03-08T22:58:18Z,http://pbs.twimg.com/media/Ev_gvpqWQAEEqLb.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",10,2021,1369059931165515776,Links included,Image
+2021-03-09T00:25:30Z,http://pbs.twimg.com/media/Ev_z-qfXIAIejz9.png,"TidyModels, rstats, TidyTuesday, TidyModels, rstats, TidyTuesday",10,2021,1369081877450080261,Links included,Image
+2021-03-09T00:25:30Z,http://pbs.twimg.com/media/Ev_z-qfXIAIejz9.png,"TidyModels, rstats, TidyTuesday, TidyModels, rstats, TidyTuesday",10,2021,1369081877450080261,Links included,Image
+2021-03-09T09:07:33Z,http://pbs.twimg.com/media/EwBsIO0VEAQKmW1.jpg,"TidyTuesday, Rstats, dataviz",10,2021,1369213255512596480,Links included,Image
+2021-03-09T09:44:38Z,http://pbs.twimg.com/media/EwB0q_DVIAMeQC1.jpg,TidyTuesday,10,2021,1369222589407580165,Links included,Image
+2021-03-09T10:49:06Z,http://pbs.twimg.com/media/EwCDYDoWQAgv4_W.jpg,TidyTuesday,10,2021,1369238810085777410,Images-only,Image
+2021-03-09T12:35:16Z,http://pbs.twimg.com/media/EwCbq3kXcAE3Rhe.jpg,"TidyTuesday, Rstats, tidyverse, ggplot2, DataVisualization",10,2021,1369265527714103298,Links included,Image
+2021-03-09T17:26:11Z,http://pbs.twimg.com/media/EwDeQHSXMAIeRxn.jpg,"TidyTuesday, DataVisualization, DataScience, RStats",10,2021,1369338741899329550,Links included,Image
+2021-03-09T18:18:11Z,http://pbs.twimg.com/media/EwDqJWLXcAIthRo.jpg,"TidyTuesday, rstats, r4ds, dataviz",10,2021,1369351826110361603,Links included,Image
+2021-03-09T18:36:53Z,http://pbs.twimg.com/media/EwDtMZzXYAMv1i1.png,"TidyTuesday, Film, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz, Bechdel",10,2021,1369356533528690688,Links included,Image
+2021-03-09T18:38:30Z,http://pbs.twimg.com/media/EwDtYEQXEAQCaZZ.png,TidyTuesday,10,2021,1369356938937569290,Links included,Image
+2021-03-09T19:14:14Z,http://pbs.twimg.com/media/EwD25kcXIAQsIFk.jpg,"IWD, IWD2021, rstats, TidyTuesday",10,2021,1369365931705724940,Images-only,Image
+2021-03-09T19:54:06Z,http://pbs.twimg.com/media/EwEALt2XAAcNwz2.jpg,TidyTuesday,10,2021,1369375966401859588,Images-only,Image
+2021-03-09T20:10:20Z,http://pbs.twimg.com/media/EwED5bsWgAMl4Rv.jpg,"TidyTuesday, tidydors",10,2021,1369380052329234436,Links included,Image
+2021-03-09T21:28:48Z,http://pbs.twimg.com/media/EwEVzQWWYAoSpIF.jpg,"TidyTuesday, rstats",10,2021,1369399796889497600,Links included,Image
+2021-03-09T21:52:42Z,http://pbs.twimg.com/media/EwEaGGRWgAIqrq6.png,"TidyTuesday, Rstats, dataviz",10,2021,1369405812645498882,Links included,Image
+2021-03-09T22:09:31Z,http://pbs.twimg.com/media/EwEej_IWYA4XN-E.png,TidyTuesday,10,2021,1369410045428068361,Links included,Image
+2021-03-09T22:58:39Z,http://pbs.twimg.com/media/EwEqa7jWYAgPrZR.jpg,"TidyTuesday, Rstats",10,2021,1369422407279206415,Images-only,Image
+2021-03-09T23:27:09Z,http://pbs.twimg.com/tweet_video_thumb/EwEwq71XYAEe1yG.jpg,"TidyTuesday, RStats",10,2021,1369429580117839880,Links included,
+2021-03-10T00:30:05Z,http://pbs.twimg.com/media/EwE_WZiXIAEXR8-.jpg,"TidyTuesday, dataviz, RStats, ChooseToChallenge",10,2021,1369445419869159432,Images-only,Image
+2021-03-10T01:10:28Z,http://pbs.twimg.com/media/EwFIln7XEAIRXjo.jpg,"TidyTuesday, rstats, r4ds, ggplot2, R4Ds",10,2021,1369455581422092288,Images-only,Image
+2021-03-10T01:22:03Z,http://pbs.twimg.com/media/EwFLMT2UcAEacW_.jpg,"TidyTuesday, rstats",10,2021,1369458496651989000,Links included,Image
+2021-03-10T01:57:58Z,http://pbs.twimg.com/media/EwFS5zLXcAAXKQ8.jpg,TidyTuesday,10,2021,1369467534089523201,Links included,Image
+2021-03-10T02:28:49Z,http://pbs.twimg.com/media/EwFaGv6VEAQeECe.jpg,"TidyTuesday, DataScience, dataviz, Rstats, tidyverse",10,2021,1369475298287259650,Links included,Image
+2021-03-10T02:51:17Z,http://pbs.twimg.com/media/EwFfCDbWEAImdBK.jpg,"TidyTuesday, BechdelTest",10,2021,1369480954478231552,Links included,Image
+2021-03-10T04:41:04Z,http://pbs.twimg.com/media/EwF4yrGVkAUS9q1.jpg,"TidyTuesday, dataviz, genderbias, Rstats",10,2021,1369508582232748035,Links included,Image
+2021-03-10T10:01:52Z,http://pbs.twimg.com/media/EwHB9wmXcAEwmKU.jpg,"TidyTuesday, dataviz, rstats, tidyverse, r4ds",10,2021,1369589313248313351,Links included,Image
+2021-03-10T10:07:24Z,http://pbs.twimg.com/media/EwHDYuGWYAICNy4.jpg,"TidyTuesday, tidyverse, R4ds, dataviz, R4DScommunity",10,2021,1369590704876498953,Links included,Image
+2021-03-10T12:18:58Z,http://pbs.twimg.com/media/EwHhMwIXEAM5K9N.png,"TidyTuesday, RStats, Dataviz",10,2021,1369623815664267265,Links included,Image
+2021-03-10T15:32:16Z,http://pbs.twimg.com/media/EwINpF_XMAMC_L9.jpg,"TidyTuesday, rstats",10,2021,1369672461227331589,Links included,Image
+2021-03-10T16:26:51Z,http://pbs.twimg.com/media/EwIaQYMXcAAMA7a.jpg,"TidyTuesday, rstats, dataviz, TidyTuesday, r4ds, tidyverse",10,2021,1369686197832998922,Links included,Image
+2021-03-10T16:28:43Z,http://pbs.twimg.com/media/EwIXI5QXYAAZo7s.jpg,"TidyTuesday, ggplot, tidyverse, Rstats",10,2021,1369686667846639616,Links included,Image
+2021-03-10T16:38:43Z,http://pbs.twimg.com/media/EwIdCt1XcAccoHL.png,"TidyTuesday, dataviz, rstats, bechdel",10,2021,1369689184437420032,Links included,Image
+2021-03-10T19:05:15Z,http://pbs.twimg.com/media/EwI9r_EWgAYE0jV.png,TidyTuesday,10,2021,1369726059084677125,Links included,Image
+2021-03-10T19:20:18Z,http://pbs.twimg.com/media/EwJB9AUWEAA1yQI.png,"TidyTuesday, Rstats, ggplot2",10,2021,1369729845085802503,Links included,Image
+2021-03-10T22:38:25Z,http://pbs.twimg.com/media/EwJuRdpWgAIJ0AJ.png,TidyTuesday,10,2021,1369779705851879428,Links included,Image
+2021-03-11T00:00:20Z,http://pbs.twimg.com/media/EwKCIApWQAIpWV4.png,"TidyTuesday, rstats, datascience",10,2021,1369800321485205510,Links included,Image
+2021-03-11T12:18:42Z,http://pbs.twimg.com/media/EwMqdXeWQAIGZgn.png,"TidyTuesday, RStats",10,2021,1369986136316203013,Images-only,Image
+2021-03-11T15:43:19Z,http://pbs.twimg.com/media/EwNZBgeVIAAq-xY.png,TidyTuesday,10,2021,1370037630306447363,Links included,Image
+2021-03-11T16:35:48Z,http://pbs.twimg.com/media/EwNk_3CXIAoPtB0.jpg,TidyTuesday,10,2021,1370050835158347777,Links included,Image
+2021-03-11T16:43:05Z,http://pbs.twimg.com/media/EwNmS6HWQAE1iA3.jpg,"Tidytuesday, RStats",10,2021,1370052671890206728,Links included,Image
+2021-03-11T18:08:24Z,http://pbs.twimg.com/media/EwN6kckVgAAsaDS.png,"TidyTuesday, RStats, DataViz, GGPlot2",10,2021,1370074141244624899,Images-only,Image
+2021-03-11T18:47:23Z,http://pbs.twimg.com/media/EwODqNeWQAchxXO.png,"DataScienceforBiologists, tidytuesday",10,2021,1370083950870298627,Links included,Image
+2021-03-11T19:14:28Z,http://pbs.twimg.com/media/EwOKEc0WEAcuhl4.jpg,"DataScienceforBiologists, tidytuesday",10,2021,1370090765418905605,Links included,Image
+2021-03-11T19:57:18Z,http://pbs.twimg.com/media/EwOT-pBXAAMAxos.png,"DataScienceforBiologists, tidytuesday",10,2021,1370101545589690376,Links included,Image
+2021-03-11T20:17:02Z,http://pbs.twimg.com/media/EwOX_ZfXMAUPj4f.jpg,tidytuesday,10,2021,1370106513692430337,Links included,Image
+2021-03-11T22:22:49Z,http://pbs.twimg.com/media/EwO03VNW8AwSKcs.jpg,TidyTuesday,10,2021,1370138168033480705,Links included,Image
+2021-03-12T02:13:25Z,http://pbs.twimg.com/media/EwPqJ1WVkAEX5FP.jpg,"TidyTuesday, rstats, tidyverse, dataviz, bechdeltest",11,2021,1370196199609753607,Links included,Image
+2021-03-12T02:53:10Z,http://pbs.twimg.com/media/EwPzGmHXMAE1j8P.png,"TidyTuesday, rstats, r4ds, dataviz",11,2021,1370206204144795649,Links included,Image
+2021-03-12T13:12:41Z,http://pbs.twimg.com/media/EwR_m5GUUAAyVkZ.jpg,"TidyTuesday, RStats",11,2021,1370362110815793154,Links included,Image
+2021-03-12T16:00:48Z,http://pbs.twimg.com/media/EwSmwxvWYAI7Oo0.jpg,"rstats, TidyTuesday, NairobiR, AfricaR",11,2021,1370404417569185795,Images-only,Image
+2021-03-12T17:10:06Z,http://pbs.twimg.com/media/EwS2rzzW8Acir6o.jpg,"TidyTuesday, RStats, dataviz",11,2021,1370421857791381508,Links included,Image
+2021-03-12T19:40:36Z,http://pbs.twimg.com/ext_tw_video_thumb/1370440172463083528/pu/img/TN58Chnc3L8RhFaU.jpg,"tidytuesday, rstats, dataviz",11,2021,1370459732805320707,Links included,
+2021-03-12T22:00:37Z,http://pbs.twimg.com/media/EwT52llXMAIUN2V.jpg,tidytuesday,11,2021,1370494969702678529,Images-only,Image
+2021-03-12T23:04:36Z,http://pbs.twimg.com/media/EwUHgb1VIAAQwP2.png,"TidyTuesday, RStats, DataVisualization, DataViz",11,2021,1370511070092140545,Links included,Image
+2021-03-12T23:40:33Z,http://pbs.twimg.com/media/EwUQXb-VkAYHgqy.jpg,"TidyTuesday, RStats, GGPlot2, DataViz",11,2021,1370520116610232323,Images-only,Image
+2021-03-13T14:20:49Z,http://pbs.twimg.com/media/EwXZ4ySWgAUc6bT.jpg,"rstats, ggplot2, datafam, dataviz, tidytuesday",11,2021,1370741642441981959,Links included,Image
+2021-03-13T22:23:25Z,http://pbs.twimg.com/media/EwZHa_dWQAAbsRf.jpg,"TidyTuesday, PiDay, rstats, ggplot2, pi, PiDay2021, dataviz, datavisualization",11,2021,1370863093065080834,Links included,Image
+2021-03-13T22:55:40Z,http://pbs.twimg.com/media/EwZP6ahW8AQ62v-.jpg,"TidyTuesday, rstats, dataviz",11,2021,1370871210049945606,Images-only,Image
+2021-03-13T23:34:54Z,http://pbs.twimg.com/media/EwZSgoXVIAA81uh.jpg,"TidyTuesday, Rstats",11,2021,1370881083152113664,Links included,Image
+2021-03-14T02:16:38Z,http://pbs.twimg.com/media/EwZ96XzVcAEvAC-.png,TidyTuesday,11,2021,1370921782627028993,Links included,Image
+2021-03-14T03:23:16Z,http://pbs.twimg.com/media/EwaMxKeXEAIineP.jpg,"TidyTuesday, rstats",11,2021,1370938554856185856,Links included,Image
+2021-03-14T10:01:35Z,http://pbs.twimg.com/media/EwboAf-VIAQDXXE.jpg,"TidyTuesday, rstats",11,2021,1371038792279154689,Links included,Image
+2021-03-14T12:18:13Z,http://pbs.twimg.com/media/EwcHvZxXAAU4RBh.jpg,"TidyTuesday, rstats, r4ds, dataviz",11,2021,1371073177414164480,Links included,Image
+2021-03-14T13:01:15Z,http://pbs.twimg.com/media/EwcRo93XIAUXrRl.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",11,2021,1371084009195896838,Links included,Image
+2021-03-14T13:31:36Z,http://pbs.twimg.com/media/EwcYIhvWgAEOKJU.png,"TidyTuesday, BechdelTest, RStudio, IWD2021, IWD, rstats, dataviz, r4ds, tidyverse",11,2021,1371091645681311745,Links included,Image
+2021-03-14T13:43:38Z,http://pbs.twimg.com/media/EwcbDcdWEAEE_e7.png,TidyTuesday,11,2021,1371094673402519552,Links included,Image
+2021-03-14T14:05:34Z,http://pbs.twimg.com/media/Ewcf1D9W8AAQ1Xq.png,"TidyTuesday, Rstats",11,2021,1371100194062929925,Links included,Image
+2021-03-14T15:52:47Z,http://pbs.twimg.com/media/Ewc4X0EWYAMH8x2.jpg,"DataScienceforBiologists, tidytuesday",11,2021,1371127176469348355,Links included,Image
+2021-03-14T15:52:48Z,http://pbs.twimg.com/media/Ewc4nI9XEAALkp_.jpg,TidyTuesday,11,2021,1371127181246611457,Links included,Image
+2021-03-14T20:27:29Z,http://pbs.twimg.com/media/Ewd2ardWUAMFbkK.jpg,TidyTuesday,11,2021,1371196306601959425,Links included,Image
+2021-03-14T20:41:28Z,http://pbs.twimg.com/media/Ewd64WYXMAA4jpX.png,"DataScienceforBiologists, TidyTuesday",11,2021,1371199825690165251,Links included,Image
+2021-03-14T20:45:12Z,http://pbs.twimg.com/media/Ewd7zOLWYAAf7ec.png,"TidyTuesday, Rstats",11,2021,1371200765688172544,Links included,Image
+2021-03-15T13:00:53Z,http://pbs.twimg.com/media/Ewha55RXMAIUBtA.jpg,"DataScienceforBiologists, tidytuesday",11,2021,1371446304128299011,Links included,Image
+2021-03-15T18:21:17Z,http://pbs.twimg.com/media/EwikeJyWEAICnwm.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",11,2021,1371526935088668674,Links included,Image
+2021-03-15T19:16:49Z,http://pbs.twimg.com/media/EwixL4NXAAQcC9I.jpg,"TidyTuesday, rstats",11,2021,1371540908773101575,Images-only,Image
+2021-03-15T21:10:05Z,http://pbs.twimg.com/media/EwjKq_dW8AQqsv6.png,tidytuesday,11,2021,1371569414219444228,Links included,Image
+2021-03-15T21:49:20Z,http://pbs.twimg.com/media/EwjT9rCWYAUY2bz.jpg,"rstats, tidytuesday",11,2021,1371579290345734147,Images-only,Image
+2021-03-16T02:47:21Z,http://pbs.twimg.com/media/EwkYPdaWEAEZxgO.png,"rstats, TidyTuesday",11,2021,1371654290457116678,Links included,Image
+2021-03-16T07:46:59Z,http://pbs.twimg.com/media/Ewlc3T6WEAc1GCr.jpg,TidyTuesday,11,2021,1371729694446526464,Images-only,Image
+2021-03-16T08:02:07Z,http://pbs.twimg.com/media/EwlgS2OUUAIBhN9.jpg,"Tidytuesday, regex, rstats, dataviz, r4ds",11,2021,1371733503075786756,Links included,Image
+2021-03-16T09:31:11Z,http://pbs.twimg.com/media/Ewl0vACWYAEuwBz.jpg,"TidyTuesday, NBA2K, Steam",11,2021,1371755918547910658,Links included,Image
+2021-03-16T15:22:31Z,http://pbs.twimg.com/media/EwnFJZAW8AUeX_V.jpg,"TidyTuesday, RStats",11,2021,1371844333662572554,Images-only,Image
+2021-03-16T15:43:56Z,http://pbs.twimg.com/media/EwnJ7Y4W8AAAGuC.jpg,"TidyTuesday, DataVisualization, DataScience, RStats",11,2021,1371849724844707848,Links included,Image
+2021-03-16T15:46:45Z,http://pbs.twimg.com/media/EwnJwxdWUAQYrSC.png,"tidytuesday, Rstats, civ6",11,2021,1371850430561538054,Images-only,Image
+2021-03-16T16:32:22Z,http://pbs.twimg.com/media/EwnU8NuVcAAYpmN.png,"TidyTuesday, rstats",11,2021,1371861913647247361,Links included,"A plot inspired by Atari breakout with rows of boxes on the top for each month of the year between 2012 and 2020. Each row of tiles is a year and each tile is a month. Each tile is filled to indicate the game that month that had the highest number of players playing the game at the same time (peak players). Dot 2 had the most months with the max peak players, at 68 months. The highest peak player count was over 3 million in January 2018 for PlayerUnknown's Battleground."
+2021-03-16T17:35:42Z,http://pbs.twimg.com/media/EwnjdalVgAAo15v.jpg,"TidyTuesday, rstats",11,2021,1371877849221591045,Links included,Overall median number of concurrent players is higher during the pandemic
+2021-03-16T17:57:00Z,http://pbs.twimg.com/media/EwnngPnWQAIrxJx.png,"TidyTuesday, rstats",11,2021,1371883209793888258,Links included,Image
+2021-03-16T17:57:42Z,http://pbs.twimg.com/media/EwnmWhaWYAY5RUo.jpg,"rstats, TidyTuesday, videogames, dataviz",11,2021,1371883386059550721,Links included,Image
+2021-03-16T18:08:26Z,http://pbs.twimg.com/media/EwnlUabWUAAbK3i.jpg,"TidyTuesday, rstats",11,2021,1371886087182897152,Links included,Image
+2021-03-16T18:32:12Z,http://pbs.twimg.com/media/EwnvWbrWUAgftVv.png,"TidyTuesday, rstats, datavis",11,2021,1371892067933257729,Links included,Image
+2021-03-16T18:40:18Z,http://pbs.twimg.com/media/Ewnx5cfWEAY1hsL.png,"TidyTuesday, Top10, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz, gamers",11,2021,1371894109632397315,Links included,Image
+2021-03-16T21:08:38Z,http://pbs.twimg.com/media/EwoSzISXAAUvcU1.jpg,TidyTuesday,11,2021,1371931435343446017,Links included,Image
+2021-03-16T21:19:47Z,http://pbs.twimg.com/media/EwoV6LAXMAMWhLy.jpg,TidyTuesday,11,2021,1371934241475469318,Links included,Image
+2021-03-16T21:57:38Z,http://pbs.twimg.com/media/EwofD2KW8AMJOcr.jpg,"TidyTuesday, rstats, covid19",11,2021,1371943768232976391,Images-only,Image
+2021-03-16T22:40:36Z,http://pbs.twimg.com/media/Ewook4gXIAQEBZo.jpg,"TidyTuesday, rstats, r4ds",11,2021,1371954581643624450,Links included,Image
+2021-03-16T22:41:57Z,http://pbs.twimg.com/tweet_video_thumb/EwoppSkXMAMIJn5.jpg,"TidyTuesday, rstats, r4ds",11,2021,1371954918957940739,Images-only,
+2021-03-16T23:40:17Z,http://pbs.twimg.com/media/Ewo3FCXWUAEVVJx.jpg,"TidyTuesday, dataviz, RStats, CSGO",11,2021,1371969601148424192,Images-only,Image
+2021-03-17T00:42:39Z,http://pbs.twimg.com/media/EwpFVsmWgAEDs0J.jpg,"TidyTuesday, rstats, r4ds, dataviz",11,2021,1371985296489857026,Links included,Image
+2021-03-17T01:19:36Z,http://pbs.twimg.com/media/EwpNz4JXAAYSXgw.jpg,"TidyTuesday, rstats",11,2021,1371994594397847555,Links included,Image
+2021-03-17T01:39:23Z,http://pbs.twimg.com/media/EwpRxZHWUAAWEHk.jpg,"rstats, DataVisualization, TidyTuesday, tidyverse, DataVisualization",11,2021,1371999571782594562,Links included,Image
+2021-03-17T02:14:40Z,http://pbs.twimg.com/media/EwpZ2_jXIAICmKa.jpg,"TidyTuesday, rstats, tidyverse",11,2021,1372008451325505543,Links included,Image
+2021-03-17T04:13:12Z,http://pbs.twimg.com/media/Ewp1JliWgAAEyjN.jpg,"TidyTuesday, Steam, games, rstats, DataVisualization",11,2021,1372038281559298053,Links included,Image
+2021-03-17T06:55:25Z,http://pbs.twimg.com/media/EwqZPNqU8AAPaPO.jpg,"TidyTuesday, tidydors",11,2021,1372079105831673859,Links included,Image
+2021-03-17T13:19:57Z,http://pbs.twimg.com/media/EwryOT0WQAAX6Ss.jpg,"TidyTuesday, StardewValley",11,2021,1372175876469706757,Links included,Image
+2021-03-17T15:47:14Z,http://pbs.twimg.com/media/EwsT4oJXAAcQLsX.jpg,"rstats, TidyTuesday",11,2021,1372212943186694148,Images-only,Image
+2021-03-17T15:55:04Z,http://pbs.twimg.com/media/EwsV66aWQAIe2kO.jpg,"TidyTuesday, rstats, dataviz, TidyTuesday, r4ds, tidyverse",11,2021,1372214914186641412,Links included,Image
+2021-03-17T17:17:22Z,http://pbs.twimg.com/media/EwsoMYSUcAQAB_R.jpg,"rstats, Tidytuesday, SuperBowl",11,2021,1372235623403290626,Images-only,Image
+2021-03-17T19:13:48Z,http://pbs.twimg.com/media/EwtDe0MXIAc8dS7.png,"TidyTuesday, dataviz, rstats",11,2021,1372264924865499146,Links included,Image
+2021-03-17T20:52:17Z,http://pbs.twimg.com/media/EwtaL3-WQAMDlaa.jpg,"TidyTuesday, rstats",11,2021,1372289709561495553,Links included,Image
+2021-03-17T20:59:23Z,http://pbs.twimg.com/media/EwtbribXAAAs7sU.png,"TidyTuesday, rstats",11,2021,1372291495789756422,Links included,Image
+2021-03-17T22:08:40Z,http://pbs.twimg.com/media/EwtqjDDXAAAMblV.png,"TidyTuesday, RStats",11,2021,1372308932295856136,Links included,Image
+2021-03-17T22:35:53Z,http://pbs.twimg.com/media/EwtwYtwVcAIbuiV.png,TidyTuesday,11,2021,1372315780050685952,Links included,Image
+2021-03-18T00:05:55Z,http://pbs.twimg.com/media/Ewt_GzJXIAEPyba.png,TidyTuesday,11,2021,1372338438263992322,Links included,needs inspection
+2021-03-18T07:30:40Z,http://pbs.twimg.com/media/EwvrBVmWEAEnIDk.jpg,"TidyTuesday, rstats, r4ds",11,2021,1372450365111685121,Links included,Image
+2021-03-18T09:53:10Z,http://pbs.twimg.com/media/EwwM8O6UYAAXz_R.jpg,TidyTuesday,11,2021,1372486225894936577,Images-only,Image
+2021-03-18T15:25:15Z,http://pbs.twimg.com/media/EwxY8CLWUAUF87h.jpg,"TidyTuesday, rstats",11,2021,1372569795770642436,Links included,Image
+2021-03-18T16:44:34Z,http://pbs.twimg.com/media/Ewxp2M7VgAQstsM.jpg,"TidyTuesday, RStats",11,2021,1372589756236763137,Links included,Image
+2021-03-18T19:05:02Z,http://pbs.twimg.com/media/EwyLQm3VIAAf-2Y.png,"TidyTuesday, Tidydors",11,2021,1372625106615234561,Links included,Image
+2021-03-18T19:15:55Z,http://pbs.twimg.com/media/EwyNobWWQAALUWr.jpg,"TidyTuesday, r4ds, Tidyverse, RStats",11,2021,1372627847869820933,Links included,Image
+2021-03-18T19:33:25Z,http://pbs.twimg.com/media/EwyQ9UIWgAAtSN3.png,TidyTuesday,11,2021,1372632251754745866,Links included,Image
+2021-03-18T19:33:41Z,http://pbs.twimg.com/media/EwyRxWXWUAYt20D.png,"TidyTuesday, rstats, dataviz",11,2021,1372632317777350659,Links included,Top 10 simultaneous players in on-line games. Player unknow's battleground had over of 3 million people playing at the same time in january 2018.
+2021-03-18T22:53:31Z,http://pbs.twimg.com/media/Ewy_PRwVcAArkiw.jpg,"TidyTuesday, RStats, DataViz, GGPlot2",11,2021,1372682606270050304,Links included,Image
+2021-03-18T23:35:34Z,http://pbs.twimg.com/media/EwzI6ebVoAcWFpX.png,"TidyTuesday, steamcharts, DataScience, dataviz, Rstats, tidyverse",11,2021,1372693190084415491,Links included,
+2021-03-19T00:10:07Z,http://pbs.twimg.com/media/EwzRDOkVIAM-wH1.jpg,"TidyTuesday, DataViz, RStats",12,2021,1372701884574670850,Images-only,Image
+2021-03-19T06:14:36Z,http://pbs.twimg.com/media/Ew0kgrZUYAQThc_.jpg,"TidyTuesday, rstats",12,2021,1372793608466657285,Links included,
+2021-03-19T19:25:22Z,http://pbs.twimg.com/media/Ew3ZNK-WQAMwJSp.jpg,"TidyTuesday, Rstats",12,2021,1372992614723682304,Links included,Image
+2021-03-19T20:06:17Z,http://pbs.twimg.com/media/Ew3ivg5XIAMBjfU.jpg,"rstats, TidyTuesday",12,2021,1373002909688926215,Images-only,Image
+2021-03-19T22:14:34Z,http://pbs.twimg.com/media/Ew4AMqvXEAofNjy.png,"TidyTuesday, Civ6, Civ5, OneMoreTurn",12,2021,1373035192521261063,Links included,Image
+2021-03-20T18:08:49Z,http://pbs.twimg.com/media/Ew8RkpYVEAcztI0.jpg,"TidyTuesday, Tidydors",12,2021,1373335735978237954,Links included,Image
+2021-03-20T18:26:18Z,http://pbs.twimg.com/media/Ew8RhraUUAA-aS_.png,TidyTuesday,12,2021,1373340135345983488,Links included,Image
+2021-03-20T22:30:22Z,http://pbs.twimg.com/media/Ew9MInFWYAIA8P-.png,TidyTuesday,12,2021,1373401558080184323,Links included,Image
+2021-03-20T23:33:50Z,http://pbs.twimg.com/media/Ew9a_aNUcAEHqTV.jpg,"TidyTuesday, Rstats",12,2021,1373417529373200388,Links included,Image
+2021-03-21T05:59:09Z,http://pbs.twimg.com/media/Ew-0G12UcAAwDxp.png,"TidyTuesday, rstats, tidyverse, dataviz, rshiny, ValveIndex",12,2021,1373514497588043786,Links included,Image
+2021-03-21T12:55:22Z,http://pbs.twimg.com/media/ExATa_uWgAMPNR6.png,"rstats, tidytuesday",12,2021,1373619243225337867,Links included,Image
+2021-03-21T13:01:10Z,http://pbs.twimg.com/media/ExAUv40XIAIjrXn.png,"TidyTuesday, rstats, rtweet, TidyTuesday, TidyTuesday",12,2021,1373620701404487682,Links included,Image
+2021-03-21T13:32:38Z,http://pbs.twimg.com/media/ExAbUpAW8AA8Prk.png,"TidyTuesday, RStats",12,2021,1373628620183326721,Links included,"Heatmap visualization of the highest number of simultaneous players on The Sims 3 per month, 2013 - 2020. X-axis: Months from January to December, Y-axis: Years 2013 - 2020. Blue background with shades of green representing the peak number of players each month. Highest: March 2020 (10,426 players). Lowest: October 2013 (1,538 players). Title is in the Sims language ""Simlish""."
+2021-03-21T15:16:33Z,http://pbs.twimg.com/media/ExAwPGhXEAIKsLi.jpg,TidyTuesday,12,2021,1373654769785520128,Images-only,
+2021-03-21T15:50:07Z,http://pbs.twimg.com/media/ExA7SvXXMAEVccb.png,"TidyTuesday, rstats, dataviz, ggplot",12,2021,1373663217885589506,Links included,Image
+2021-03-21T16:17:44Z,http://pbs.twimg.com/media/ExBBOPYW8AMUIVg.png,"TidyTuesday, RStats",12,2021,1373670167075504128,Links included,Image
+2021-03-21T17:05:53Z,http://pbs.twimg.com/media/ExBLehFWUAMm4i8.jpg,"TidyTuesday, Rstats",12,2021,1373682286739197953,Links included,Image
+2021-03-21T17:34:30Z,http://pbs.twimg.com/media/ExBSb20W8AcUcJq.jpg,"TidyTuesday, rstats, r4ds, dataviz",12,2021,1373689486681505796,Links included,Image
+2021-03-21T20:44:23Z,http://pbs.twimg.com/media/ExB9-lNXIAYNyKd.png,"TidyTuesday, Python, matplotlib",12,2021,1373737275645911052,Images-only,Image
+2021-03-21T21:48:51Z,http://pbs.twimg.com/media/ExCNWeVWQAMURFq.jpg,"TidyTuesday, rstats",12,2021,1373753496944709635,Links included,Image
+2021-03-21T21:53:20Z,http://pbs.twimg.com/media/ExCBudWXIAcWWF0.jpg,"TidyTuesday, rstats, ggplot2, dataviz",12,2021,1373754627376742408,Links included,Image
+2021-03-22T00:30:23Z,http://pbs.twimg.com/media/ExCx-SKXEAECiwv.png,"tidytuesday, DataScienceforBiologists",12,2021,1373794148868882432,Images-only,Image
+2021-03-22T00:42:44Z,http://pbs.twimg.com/media/ExC05BgWUAAyYDB.png,"TidyTuesday, Python, MatPlotLib",12,2021,1373797255036162061,Links included,Image
+2021-03-22T06:29:11Z,http://pbs.twimg.com/media/ExEEmUqXEAIQKGD.jpg,"100daysofCode, javascript, nodejs, TidyTuesday, WomenInTech, WomenWhoCode, WomenInSTEM, Serverless, Computing, NodeJs, deno, the404code, DataScience, machinelearning, AI, awslambda, NodeJs, Python, Coding",12,2021,1373884441664294912,Links included,Image
+2021-03-22T14:32:42Z,http://pbs.twimg.com/media/ExFy5PjXEAQVB-d.png,"100daysofCode, javascript, nodejs, TidyTuesday, WomenInTech, WomenWhoCode, WomenInSTEM, Serverless, Computing, NodeJs, deno, the404code, DataScience, machinelearning, AI, awslambda, NodeJs, Python, Coding",12,2021,1374006123074887688,Links included,Image
+2021-03-22T15:59:37Z,http://pbs.twimg.com/media/ExGFb7dWgAUHasm.png,"TidyTuesday, Python, MatPlotLib",12,2021,1374027998429581323,Links included,Image
+2021-03-22T17:13:51Z,http://pbs.twimg.com/media/ExGYKhYW8AIVdua.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",12,2021,1374046677275967495,Links included,Image
+2021-03-22T18:32:08Z,http://pbs.twimg.com/ext_tw_video_thumb/1374066214180372484/pu/img/c6Mq1oAIBN6zjbLr.jpg,"MakingOf, TidyTuesday",12,2021,1374066377879908358,Links included,Image
+2021-03-22T19:35:08Z,http://pbs.twimg.com/media/ExG4gbqWYAke2bl.jpg,"TidyTuesday, rstats",12,2021,1374082233305301000,Links included,Image
+2021-03-22T22:29:01Z,http://pbs.twimg.com/media/ExHfwqOXMAA0Zdq.png,"TidyTuesday, DataVisualization, tidyverse, dplyr, ggplot, rstats, r4ds, dataviz",12,2021,1374125991732334592,Links included,Image
+2021-03-22T22:57:17Z,http://pbs.twimg.com/media/ExHmxbaXMAY107k.png,"TidyTuesday, Python, MatPlotLib",12,2021,1374133105817227271,Images-only,Image
+2021-03-23T02:08:52Z,http://pbs.twimg.com/media/ExISaoyW8AA24-3.jpg,"TidyTuesday, rstats, dataviz",12,2021,1374181320281182208,Images-only,Image
+2021-03-23T03:49:43Z,http://pbs.twimg.com/media/ExIlubBWgAAVPf7.jpg,"TidyTuesday, rstats",12,2021,1374206700383825922,Images-only,Image
+2021-03-23T04:42:09Z,http://pbs.twimg.com/media/ExI1NmkUcAEUjGF.png,"bpstats, tidytuesday, rstats, ggplot2",12,2021,1374219893705338882,Images-only,Image
+2021-03-23T08:10:39Z,http://pbs.twimg.com/media/ExJlXrtUUAAX95K.jpg,"TidyTuesday, rstats",12,2021,1374272364444196869,Images-only,Image
+2021-03-23T09:31:56Z,http://pbs.twimg.com/media/ExJ4BujUYAIV1N1.jpg,"TidyTuesday, Mali, rstats, R4ds",12,2021,1374292823608987654,Links included,Image
+2021-03-23T10:44:16Z,http://pbs.twimg.com/media/ExKIlvnWEAIKCSG.jpg,TidyTuesday,12,2021,1374311023361019908,Links included,Image
+2021-03-23T12:04:19Z,http://pbs.twimg.com/media/ExKa5HMXIAAlehI.png,TidyTuesday,12,2021,1374331168460578818,Links included,Image
+2021-03-23T12:14:05Z,http://pbs.twimg.com/media/ExKbR4MXMAMRITL.jpg,TidyTuesday,12,2021,1374333628306624513,Links included,Image
+2021-03-23T12:29:44Z,http://pbs.twimg.com/media/ExKgk9gWEAEyImY.jpg,"TidyTuesday, rstats",12,2021,1374337565965307907,Images-only,Image
+2021-03-23T12:43:40Z,http://pbs.twimg.com/media/ExKjnQYXAAEdnc1.jpg,"TidyTuesday, DataVisualization, DataScience, RStats",12,2021,1374341074748108801,Links included,Image
+2021-03-23T14:33:50Z,http://pbs.twimg.com/media/ExK8m-PUcAQPEZK.png,"TidyTuesday, Python, MatPlotLib",12,2021,1374368799344967681,Images-only,Image
+2021-03-23T14:45:48Z,http://pbs.twimg.com/media/ExK_Fs7U8AUAdWt.jpg,TidyTuesday,12,2021,1374371809475260419,Links included,Image
+2021-03-23T14:57:00Z,http://pbs.twimg.com/media/EwsEUn8UYAIpGFS.jpg,TidyTuesday,12,2021,1374374626223140864,Links included,"A stylized banner titled ""TidyTuesday"" with subtitle ""A weekly data project in R from the R4DS online learning community"". The text is in white font over a black paint strokes. Underneath is visible a diagram of ""tidy data"" showing a spreadsheet and labels ""variables"" with arrows spanning columns, ""observations"" with arrows spanning rows, and ""values"" with circles over individual cells."
+2021-03-23T15:49:08Z,http://pbs.twimg.com/media/ExH-xMaVkAAr1sX.png,"rstats, TidyTuesday",12,2021,1374387746060394502,Links included,"Three scatter point plots showing IMDB ratings for the office seasons, one showing basic scatter plot, the second showing the points using the jitter function, and the last using a beeswarm function"
+2021-03-23T16:48:16Z,http://pbs.twimg.com/media/ExLb277UUAcv8NT.jpg,"TidyTuesday, rstats",12,2021,1374402629548142595,Links included,Image
+2021-03-23T17:05:25Z,http://pbs.twimg.com/media/ExLf1IfUcAUDL2m.jpg,"TidyTuesday, rstats",12,2021,1374406943750557704,Links included,Image
+2021-03-23T17:48:38Z,http://pbs.twimg.com/media/ExLpMx6U8AMXM6X.jpg,"100daysofCode, javascript, nodejs, TidyTuesday, WomenInTech, WomenWhoCode, WomenInSTEM, Serverless, Computing, NodeJs, machinelearning, AI, awslambda, typescript, NodeJs, Python, Coding, COVID19, Fiverr, HTLM",12,2021,1374417821539594252,Links included,Image
+2021-03-23T17:59:21Z,http://pbs.twimg.com/media/ExLr5siVcAg4NU3.jpg,TidyTuesday,12,2021,1374420515385872393,Images-only,Image
+2021-03-23T18:59:36Z,http://pbs.twimg.com/media/ExL5jQaVkAMFLLb.jpg,"TidyTuesday, RStats, DataVizualization, DataViz",12,2021,1374435680122667010,Links included,Image
+2021-03-23T19:23:27Z,http://pbs.twimg.com/media/ExL_YF7VgA8epGa.jpg,"TidyTuesday, dataviz, RStats",12,2021,1374441681752264708,Links included,United Nations General Assembly Voting. Vertical shift of characters shows the relative frequency of issues voted on by decade. Bold indicates the most voted-on issue for each decade.
+2021-03-23T19:35:53Z,http://pbs.twimg.com/media/ExMBU3nVcAAgW0w.png,"TidyTuesday, rstats",12,2021,1374444810203852812,Links included,Image
+2021-03-23T20:10:38Z,http://pbs.twimg.com/media/ExMKFgjUYAAoCTe.jpg,"TidyTuesday, dataviz, RStats",12,2021,1374453554556018701,Links included,Image
+2021-03-23T22:11:47Z,http://pbs.twimg.com/media/ExMlEtoUUAMpbMT.png,TidyTuesday,12,2021,1374484042989457413,Links included,Image
+2021-03-23T23:27:05Z,http://pbs.twimg.com/media/ExM3KmrUYAIwK35.jpg,"TIdyTuesday, Tidydors",12,2021,1374502992766922752,Links included,Image
+2021-03-24T01:34:58Z,http://pbs.twimg.com/media/ExNTcXqWQAAgmGv.png,"TidyTuesday, rstats",12,2021,1374535178933186560,Links included,Image
+2021-03-24T02:34:27Z,http://pbs.twimg.com/media/ExNgoQ6WYAg6TQA.jpg,TidyTuesday,12,2021,1374550147598856194,Images-only,Image
+2021-03-24T03:33:06Z,http://pbs.twimg.com/media/ExNscVhXMAQ59zD.jpg,tidytuesday,12,2021,1374564907052634116,Links included,"Visualization of video game data, showing a multicolor graph of the average peak percentage of players divided by the highest number of players at a single time."
+2021-03-24T06:21:19Z,http://pbs.twimg.com/media/ExOUk5tVIAYEI5k.png,"TidyTuesday, r4ds, rstats",12,2021,1374607237927161862,Links included,Image
+2021-03-24T12:17:32Z,http://pbs.twimg.com/media/ExPl8lIWYAYk-QM.png,"TidyTuesday, RStats, ggplot2",12,2021,1374696882656661508,Links included,Image
+2021-03-24T14:47:16Z,http://pbs.twimg.com/media/ExQJHx3XIAIiJ25.jpg,TidyTuesday,12,2021,1374734567240691712,Links included,Image
+2021-03-24T15:01:31Z,http://pbs.twimg.com/media/ExQMJotXMAQZp2b.png,"TidyTuesday, tidyverse, rstats",12,2021,1374738153177808900,Links included,Image
+2021-03-24T17:30:17Z,http://pbs.twimg.com/media/ExQundoWUAASYyb.jpg,"100daysofCode, javascript, nodejs, TidyTuesday, WomenInTech, WomenWhoCode, WomenInSTEM, Serverless, Computing, NodeJs, deno, the404code, DataScience, DataVisualization, Python, Coding, HTML, NodeJS, COVID19",12,2021,1374775590058885120,Links included,Image
+2021-03-24T17:47:25Z,http://pbs.twimg.com/media/ExQyvjmWUAEWM9d.jpg,"TidyTuesday, rstats, dataviz, TidyTuesday, r4ds, tidyverse",12,2021,1374779903657324545,Links included,Image
+2021-03-24T18:14:47Z,http://pbs.twimg.com/media/ExQ5NjQW8AIQoLR.jpg,"TidyTuesday, tidytext, r, tidyverse, ggplot2",12,2021,1374786788930285570,Links included,Image
+2021-03-24T18:35:28Z,http://pbs.twimg.com/media/ExQ935dWgAI9Tri.png,"TidyTuesday, shinyapp, rstats, dataviz",12,2021,1374791996301320192,Links included,Image
+2021-03-24T20:41:45Z,http://pbs.twimg.com/media/ExRYVRRWYAI9ht_.jpg,"TidyTuesday, rstats",12,2021,1374823773086609416,Links included,Image
+2021-03-24T21:00:25Z,http://pbs.twimg.com/media/ExRfKTsWQAk5zCj.jpg,"TidyTuesday, rstats",12,2021,1374828470715420673,Links included,Image
+2021-03-24T22:07:55Z,http://pbs.twimg.com/media/ExRuqLCWgAAQ-I6.jpg,TidyTuesday,12,2021,1374845459693506561,Images-only,Image
+2021-03-24T23:43:20Z,http://pbs.twimg.com/media/ExSDcO1WUAEDYb9.png,"TidyTuesday, rstats",12,2021,1374869472385847306,Links included,Image
+2021-03-25T01:03:19Z,http://pbs.twimg.com/media/ExSVrdPWQAk41n7.jpg,"TidyTuesday, rstats, TidyTuesday",12,2021,1374889598275481609,Links included,Image
+2021-03-25T03:13:34Z,http://pbs.twimg.com/media/ExSzX9XXAAA13HU.jpg,"TidyTuesday, rstats, dataviz, r4ds, ggplot2",12,2021,1374922377868496898,Links included,Image
+2021-03-25T04:22:51Z,http://pbs.twimg.com/media/ExTEGe1WQA4lD5l.png,"RStats, TidyTuesday",12,2021,1374939813497999368,Images-only,Image
+2021-03-25T04:44:30Z,http://pbs.twimg.com/media/ExTJVfYWUAQ1k6c.jpg,"TidyTuesday, UNvotes, rstats, r4ds",12,2021,1374945263912116224,Images-only,Image
+2021-03-25T05:26:10Z,http://pbs.twimg.com/media/ExTS5OKWYAEjZ3b.png,"RStats, TidyTuesday",12,2021,1374955747725967362,Images-only,Image
+2021-03-25T08:39:00Z,http://pbs.twimg.com/ext_tw_video_thumb/1374889282473721863/pu/img/ceDtz4zg-kjWwWuU.jpg,"TidyTuesday, rshiny, rstats",12,2021,1375004275290542081,Links included,Image
+2021-03-25T10:24:28Z,http://pbs.twimg.com/media/ExUW2YwXEAAbMLf.png,"ggplot2, Rstats, TidyTuesday",12,2021,1375030817332805633,Images-only,Image
+2021-03-25T12:06:28Z,http://pbs.twimg.com/media/ExUuk2fXEAE3NGw.jpg,"TidyTuesday, RStats, tidyverse, dataviz",12,2021,1375056486385213440,Links included,Image
+2021-03-25T12:18:08Z,http://pbs.twimg.com/media/ExUxBlWWUAErVRu.jpg,"TidyTuesday, RStats, tidyverse, dataviz",12,2021,1375059424151269378,Images-only,
+2021-03-25T12:24:28Z,http://pbs.twimg.com/media/ExUysjWWYAQc5l6.jpg,"TidyTuesday, DuboisChallenge, RStats, dataviz, tidyverse",12,2021,1375061015101108226,Images-only,Image
+2021-03-25T12:27:15Z,http://pbs.twimg.com/media/ExUzGnPXAAcYtuK.jpg,"TidyTuesday, RStats, tidyverse",12,2021,1375061717680537606,Images-only,Image
+2021-03-25T15:00:29Z,http://pbs.twimg.com/media/ExVWHQnXAAI5udh.jpg,"TidyTuesday, rstats",12,2021,1375100281105612805,Links included,Image
+2021-03-25T17:03:12Z,http://pbs.twimg.com/media/ExVxMOiWEAYCgCb.png,"TidyTuesday, rstats",12,2021,1375131161115123723,Images-only,Image
+2021-03-25T17:43:07Z,http://pbs.twimg.com/media/ExV7JAPWQAIuLAf.jpg,"100daysofCode, javascript, nodejs, TidyTuesday, WomenInTech, WomenWhoCode, WomenInSTEM, Serverless, Computing, deno, the404code, DataScience, machinelearning, AI, awslambda, NodeJs, Python, Coding, COVID, COVID19",12,2021,1375141206427111427,Links included,Image
+2021-03-25T18:12:04Z,http://pbs.twimg.com/media/ExWBFMMWQAULvRD.png,"TidyTuesday, rstats, r4ds",12,2021,1375148492511981579,Links included,Image
+2021-03-25T18:24:33Z,http://pbs.twimg.com/media/ExWFGgRWYAILewB.jpg,"TidyTuesday, rstats, datavis",12,2021,1375151634859356173,Links included,Image
+2021-03-25T20:24:46Z,http://pbs.twimg.com/media/ExWgaleWUAAJDi1.jpg,TidyTuesday,12,2021,1375181887828856833,Links included,Image
+2021-03-25T23:03:52Z,http://pbs.twimg.com/media/ExXFDUaWgAIFNBj.jpg,"TidyTuesday, dataviz, RStats, GlobalGoals",12,2021,1375221927095250947,Images-only,Image
+2021-03-25T23:40:45Z,http://pbs.twimg.com/media/ExXJVnBWQAELABx.jpg,"TidyTuesday, rstats, patchwork, tidytext, ggplot2, dataviz",12,2021,1375231209077346309,Links included,Image
+2021-03-26T00:45:14Z,http://pbs.twimg.com/media/ExXbDlsWgAU2YkQ.png,"TidyTuesday, RStats, datavis, r4ds, nfl, SuperBowl",13,2021,1375247437447712769,Links included,Image
+2021-03-26T01:00:33Z,http://pbs.twimg.com/media/ExXfwJ4WYAAe4jx.jpg,"TidyTuesday, r4ds, tidyverse, rstats, dataviz",13,2021,1375251291035828224,Links included,alt1
+2021-03-26T01:05:00Z,http://pbs.twimg.com/media/ExW4msJUUAEe0zQ.jpg,TidyTuesday,13,2021,1375252410587832321,Links included,Image
+2021-03-26T16:11:30Z,http://pbs.twimg.com/media/ExawBojWQAA5Aus.png,"DataScienceforBiologists, TidyTuesday",13,2021,1375480538732097546,Links included,Image
+2021-03-26T17:54:20Z,http://pbs.twimg.com/media/ExbHTDxXIAATGn4.jpg,"100daysofCode, javascript, nodejs, TidyTuesday, WomenInTech, WomenWhoCode, WomenInSTEM, Serverless, Computing, NodeJs, deno, the404code, DataScience, technology, machinelearning, AI, awslambda, Python, Coding, usa",13,2021,1375506418623647746,Links included,Image
+2021-03-26T19:53:39Z,http://pbs.twimg.com/media/Exbi2NzWEAA4lIq.jpg,"TidyTuesday, rstats",13,2021,1375536446547824642,Links included,
+2021-03-26T20:36:03Z,http://pbs.twimg.com/media/Exbr6U0VEAASb7C.jpg,"TidyTuesday, rockthemes, rstats, dataviz",13,2021,1375547117532372992,Links included,Image
+2021-03-26T20:38:51Z,http://pbs.twimg.com/media/ExbtYpVXMA0xmzU.jpg,"TidyTuesday, rstats, r4ds, dataviz",13,2021,1375547821017985035,Links included,"Show are two charts in a single graphic illustrating United States voting patterns on UN resolutions from 1946 to 2019. The top chart represents each vote as a vertical stripes with red for yes votes, blue for no vote and grey for abstentions. The  the bottom chart depicts the percentages between three ballot choices with the same colour categories as the first graphic, showing the United states voting no 54.7% of the time; voting yes 26.2% of the time and abstaining 19.2% of the time.""
+"
+2021-03-27T00:34:50Z,http://pbs.twimg.com/tweet_video_thumb/ExcjcgQVEAIShz6.jpg,"TidyTuesday, rstats, dataviz, gganimate, UnitedNations",13,2021,1375607208914743296,Links included,
+2021-03-27T05:15:01Z,http://pbs.twimg.com/tweet_video_thumb/ExdjZaUVoAAzuaw.jpg,"TidyTuesday, rstats",13,2021,1375677719829082112,Links included,
+2021-03-27T06:51:26Z,http://pbs.twimg.com/media/Exd5I8WWEAEIebV.jpg,"TidyTuesday, RStats, dataviz",13,2021,1375701981281583106,Links included,Bar plot showing number of UN votes by issue
+2021-03-27T10:20:26Z,http://pbs.twimg.com/media/ExeoHsNVIAEQgb2.jpg,TidyTuesday,13,2021,1375754579845865474,Links included,Image
+2021-03-27T11:23:28Z,http://pbs.twimg.com/media/Exe33jrWgAEJPMG.png,"rstats, dataviz, TidyTuesday",13,2021,1375770440212299779,Images-only,Image
+2021-03-27T11:53:08Z,http://pbs.twimg.com/media/Exe-GhCVEAwuZvV.jpg,"TidyTuesday, rstats",13,2021,1375777908376051714,Links included,Image
+2021-03-27T12:31:31Z,http://pbs.twimg.com/media/ExfHJH7W8AoZVwK.jpg,"tidytuesday, UN, rstats, dataviz, r4ds",13,2021,1375787567921135617,Links included,Image
+2021-03-27T13:26:22Z,http://pbs.twimg.com/media/ExfUCtNXMAIwYkb.jpg,"rstats, TidyTuesday, DataFam, dataviz",13,2021,1375801370314432513,Links included,Image
+2021-03-27T15:13:20Z,http://pbs.twimg.com/media/ExfsYaIW8AIYfGc.png,"rstats, dataviz, TidyTuesday",13,2021,1375828290636808196,Links included,Image
+2021-03-27T15:14:50Z,http://pbs.twimg.com/media/Exfs4ZTXIAMhNMF.png,"TidyTuesday, rstats, rtweet, TidyTuesday",13,2021,1375828667239178244,Links included,"Bar chart of tweets tagged with TidyTuesday hashtag for the past week, with the day of the week on the x axis and count on the y axis. There were a total of 165 TidyTuesday tagged tweets between 2021-03-20 and 2021-03-27. Sunday had 14 tweets, Monday had 16 tweets, Tuesday had 40 tweets, Wednesday had 35 tweets, Thursday had 28 tweets, Friday had 15 tweets, and Saturday had 17 tweets."
+2021-03-27T16:11:23Z,http://pbs.twimg.com/media/Exf5VROUUAEF2Xu.png,"TidyTuesday, rstats",13,2021,1375842898332184577,Links included,Image
+2021-03-27T16:15:05Z,http://pbs.twimg.com/media/Exf460PUcAMfIrI.jpg,"TidyTuesday, Rstats",13,2021,1375843830197481476,Links included,"Donut charts showing the proportion of yes, no and abstain votes by G7 nations at the UN. Key takeaways: US was the only nation which voted ""no"" the most and France abstained from voting 30% of the time."
+2021-03-27T17:34:34Z,http://pbs.twimg.com/media/ExgKjbnXAAEZYkS.jpg,"TidyTuesday, rstats, dataviz, rspatial",13,2021,1375863831671476224,Links included,Image
+2021-03-27T17:52:14Z,http://pbs.twimg.com/media/ExgQt5EWUAIFfle.png,"TidyTuesday, rstats, r4ds, dataviz",13,2021,1375868277893828611,Links included,Image
+2021-03-27T18:02:58Z,http://pbs.twimg.com/media/ExgTXRNXEAYfBv6.jpg,"TidyTuesday, rstats",13,2021,1375870980246081537,Links included,"Bar chart showing voting data results of United Nations members. In 1996, the members voted on whether World Television Day would be recognized annually on 21 November for its impact on communication. There were only 11 countries that voted to abstain from voting compared to 141 countries that voted yes. Country names are listed in their respective bar.
+
+Data source is Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/12379
+"
+2021-03-27T19:04:20Z,http://pbs.twimg.com/media/ExggsAGWQAAXB1w.jpg,TidyTuesday,13,2021,1375886422671036420,Links included,Image
+2021-03-27T19:19:41Z,http://pbs.twimg.com/tweet_video_thumb/ExgkIL5UcAInfaN.jpg,"TidyTuesday, rstats",13,2021,1375890287445241863,Links included,
+2021-03-27T19:27:52Z,http://pbs.twimg.com/media/ExgS1mSU4AM4Fcb.png,"TidyTuesday, RStats, GGPlot2, DataViz",13,2021,1375892344604528640,Links included,"Since 1970, the United States has voted yes less frequently then most other countries in the U.N. General Assembly. For each issue, the main graph shows a box plot of the percent of yes votes made by each country; the point represents the United States. The line below the main graph represents the number of votes on each issue over time. There is a set of graphs for each of the six issues: colonialism, economic development, human rights, Palestinian conflict, arms control and disarmament, and nuclear weapons' and nuclear material."
+2021-03-27T19:59:07Z,http://pbs.twimg.com/media/Exgrf1wXIAA-NnQ.jpg,TidyTuesday,13,2021,1375900211109855239,Images-only,"infographic showing guidelines for writing alt-text for graphs and data visualizations. the graphic suggests to be concise, state the chart type, describe the data and significant trends, and include a link to the data source."
+2021-03-27T21:07:31Z,http://pbs.twimg.com/media/Exg9WZbWUAERY5O.jpg,"TidyTuesday, dataviz, r4ds",13,2021,1375917421589061640,Links included,Image
