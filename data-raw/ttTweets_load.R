@@ -12,13 +12,14 @@ library(janitor)
 files <- fs::dir_ls(here("data-raw"), regexp = "Tweets(.*).Rds")
 
 # read in all files into one dataframe
-files_df <-
+filesDF <-
   files %>%
-  purrr::map_df(readr::read_rds)
+  purrr::map_df(readr::read_rds) %>%
+  distinct()
 
 #### wrangle data ####
-files_df_new <-
-  files_df %>%
+filesDF_new <-
+  filesDF %>%
   # rename columns to upper camel case
   janitor::clean_names(case = "upper_camel") %>%
   # reorder columns
@@ -33,15 +34,15 @@ files_df_new <-
   dplyr::mutate(TweetId = as.character(TweetId))
 
 # split HashtagList vector into individual hashtags
-files_df_new <-
-  files_df_new %>%
+filesDF_new <-
+  filesDF_new %>%
   dplyr::mutate(
     HashtagList = stringr::str_split(HashtagList, ", ")
-    )
+  )
 
 #### wrangle AltText variable ####
-files_df_new <-
-  files_df_new %>%
+filesDF_new <-
+  filesDF_new %>%
   # extract values from named AltText list
   dplyr::mutate(AltText = unname(AltText)) %>%
   # define more descriptive cases
@@ -66,15 +67,15 @@ files_df_new <-
 #### split dataset into years again ####
 
 # split by year
-df_splits <- 
-  files_df_new %>% 
-    group_split(Year)
+dfSplits <- 
+  filesDF_new %>% 
+  group_split(Year)
 
 # naming the separate tibbles
-ttTweets2018 <- df_splits[[1]]
-ttTweets2019 <- df_splits[[2]]
-ttTweets2020 <- df_splits[[3]]
-ttTweets2021 <- df_splits[[4]]
+ttTweets2018 <- dfSplits[[1]]
+ttTweets2019 <- dfSplits[[2]]
+ttTweets2020 <- dfSplits[[3]]
+ttTweets2021 <- dfSplits[[4]]
 
 #### exporting new data to `data` folder ####
 
