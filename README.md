@@ -7,9 +7,20 @@
 <!-- badges: end -->
 
 The goal of `TidyTuesdayAltText` is to provide insight into the
-alternative (alt) text that is or isn’t provided to accompany the data
-visualizations shared on Twitter as part of the TidyTuesday social
-project[1].
+alternative (alt) text accompanying the data visualizations shared on
+Twitter as part of the TidyTuesday social project[1].
+
+The package contains 5 datasets:
+
+``` r
+library(TidyTuesdayAltText)
+
+?ttTweets2018
+?ttTweets2019
+?ttTweets2020
+?ttTweets2021
+?altTextSubset
+```
 
 ## Installation
 
