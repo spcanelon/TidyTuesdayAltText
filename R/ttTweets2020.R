@@ -2,7 +2,7 @@
 #'
 #' A dataset containing the alternative text for media shared in 2020 as part of the TidyTuesday social project, and other attributes of 3300+ tweets. 
 #'
-#' @format A tibble with 3374 rows and 8 variables:
+#' @format A tibble with 3374 rows and 7 variables:
 #' \describe{
 #'   \item{TweetId}{<chr> Unique tweet identifier.}
 #'   \item{ImageUrl}{<chr> URL to the media shared in the tweet.} 
@@ -21,7 +21,6 @@
 #'   \item{HashtagList}{<list> List of hashtags used in the tweet.}
 #'   \item{TweetDate}{<dttm> Date and time the tweet was posted. Ranges from January 1, 2020 to December 31, 2020.}
 #'   \item{Year}{<dbl> Year the tweet was posted. Includes only 2020.}
-#'   \item{Week}{<dbl> Week the tweet was posted. Ranges from week 1-53.}
 #'   \item{UrlCheck}{<fct> Denotes whether the tweet included an external link. 
 #'   
 #'   There are two types of entries:

@@ -5,7 +5,7 @@
 \alias{ttTweets2018}
 \title{TidyTuesday tweets from 2018 that contain media}
 \format{
-A tibble with 709 rows and 8 variables:
+A tibble with 709 rows and 7 variables:
 \describe{
 \item{TweetId}{<chr> Unique tweet identifier.}
 \item{ImageUrl}{<chr> URL to the media shared in the tweet.}

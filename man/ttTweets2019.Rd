@@ -5,7 +5,7 @@
 \alias{ttTweets2019}
 \title{TidyTuesday tweets from 2019 that contain media}
 \format{
-A tibble with 2022 rows and 8 variables:
+A tibble with 2022 rows and 7 variables:
 \describe{
 \item{TweetId}{<chr> Unique tweet identifier.}
 \item{ImageUrl}{<chr> URL to the media shared in the tweet.}
@@ -22,7 +22,6 @@ There are four types of entries:
 \item{HashtagList}{<list> List of hashtags used in the tweet.}
 \item{TweetDate}{<dttm> Date and time the tweet was posted. Ranges from January 1, 2019 to December 31, 2019.}
 \item{Year}{<dbl> Year the tweet was posted. Includes only 2019.}
-\item{Week}{<dbl> Week the tweet was posted. Ranges from week 1-53.}
 \item{UrlCheck}{<fct> Denotes whether the tweet included an external link.
 
 There are two types of entries:

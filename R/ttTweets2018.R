@@ -2,7 +2,7 @@
 #'
 #' A dataset containing the alternative text for media shared in 2018 as part of the TidyTuesday social project, and other attributes of 700+ tweets. 
 #'
-#' @format A tibble with 709 rows and 8 variables:
+#' @format A tibble with 709 rows and 7 variables:
 #' \describe{
 #'   \item{TweetId}{<chr> Unique tweet identifier.}
 #'   \item{ImageUrl}{<chr> URL to the media shared in the tweet.} 

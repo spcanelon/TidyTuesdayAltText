@@ -11,10 +11,6 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "100%"
 )
-
-# loading libraries
-library(TidyTuesdayAltText)
-library(tidyverse)
 ```
 
 # TidyTuesdayAltText
@@ -22,122 +18,23 @@ library(tidyverse)
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of `TidyTuesdayAltText` is to provide insight into the alternative (alt) text accompanying the data visualizations shared on Twitter as part of the TidyTuesday social project^[[rfordatascience/tidytuesday: Official repo for the #tidytuesday project](https://github.com/rfordatascience/tidytuesday#a-weekly-social-data-project-in-r)].
-
-The package contains 5 datasets:
-
-```{r eval=FALSE}
-library(TidyTuesdayAltText)
-
-?ttTweets2018
-?ttTweets2019
-?ttTweets2020
-?ttTweets2021
-?altTextSubset
-```
+The goal of TidyTuesdayAltText is to ...
 
 ## Installation
-<!--
+
 You can install the released version of TidyTuesdayAltText from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
 install.packages("TidyTuesdayAltText")
 ```
--->
-You can install the development version of `TidyTuesdayAltText` from [GitHub](https://github.com/) with:
+
+And the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
 devtools::install_github("spcanelon/TidyTuesdayAltText")
 ```
-### Note about installing from a private repo
-
-While this repo is private, you will first have to make sure to provide authentication to GitHub using a [Personal Access Token (PAT)](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) as a credential. You can follow the steps in the credential caching chapter of Happy Git with R (summarized below): [Chapter 10 Cache credentials for HTTPS | Happy Git and GitHub for the useR](https://happygitwithr.com/credential-caching.html)
-
-1. Create a personal access token using a [`usethis` package helper function](https://usethis.r-lib.org/reference/create_github_token.html) which pre-selects recommended scopes/permissions: `usethis::create_github_token()`
-
-1. Then store your token somewhere safe and treat it like you would a password.
-
-1. Call an R function to store your credentials using the [`credentials` package](https://docs.ropensci.org/credentials/) which will prompt you to enter your token: `credentials::set_github_pat()`<br>
-This populates the `GITHUB_PAT` environment variable that `install_github()` defaults to as the authentication token (i.e. **auth_token**) argument.
-
-1. Finally, proceed to install the package as usual: `devtools::install_github("spcanelon/TidyTuesdayAltText")`
-
-## Data dictionary
-
-```{r, echo=FALSE}
-# source: https://gist.github.com/jthomasmock/8fa5a1d4d6e8617b78369c1a8fccc850
-
-# extracting each variable name and class
-createNameClass <- function(x) {
-  tibble::tibble(variable = names(x)) %>%
-    dplyr::mutate(
-      class = purrr::map(
-        x,
-        typeof
-      )
-    )
-}
-
-dataNameClass <-
-  createNameClass(ttTweets2018)
-
-# source: https://twitter.com/felipe_mattioni/status/1356963631695597570/photo/1
-
-# parsing metadata from data Roxygen documentation
-docDataMeta <-
-  Rd2roxygen::parse_file(
-    here::here("man/ttTweets2018.Rd")
-  )
-
-# wrangling the metadata into a tidy tibble
-dataDescriptions <-
-  docDataMeta$format %>%
-  stringr::str_split(pattern = "\\\\") %>%
-  unlist(recursive = FALSE) %>%
-  dplyr::as_tibble() %>%
-  tail(-2) %>%
-  # removing extra strings and special characters
-  dplyr::mutate(
-    value = stringr::str_remove(
-      value,
-      pattern = "item\\{(.*?)\\}"),
-    value = stringr::str_remove(
-      value,
-      pattern = "\\}\n")
-  ) %>%
-  # filtering only the beginning of descriptions
-  filter(
-    stringr::str_starts(
-      value, 
-      pattern = "\\{")
-  ) %>%
-  # removing extra special characters
-  dplyr::mutate(
-    value = stringr::str_remove(
-      value,
-      pattern = "\\{"
-    )
-  ) %>%
-  # matching only the first sentence
-  mutate(
-    value = stringr::str_extract(
-      value, 
-      pattern = boundary("sentence"))
-  ) %>%
-  # renaming metadata variable
-  dplyr::rename(description = value)
-
-dataDictionary <-
-  dataNameClass %>%
-  dplyr::bind_cols(dataDescriptions)
-
-dataDictionary %>% knitr::kable()
-```
-
-<!--
 ## Example
-
 
 This is a basic example which shows you how to solve a common problem:
 
@@ -161,4 +58,3 @@ plot(pressure)
 ```
 
 In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
--->

@@ -5,7 +5,7 @@
 \alias{ttTweets2021}
 \title{TidyTuesday tweets from 2021 that contain media}
 \format{
-A tibble with 338 rows and 8 variables:
+A tibble with 1,034 rows and 7 variables:
 \describe{
 \item{TweetId}{<chr> Unique tweet identifier.}
 \item{ImageUrl}{<chr> URL to the media shared in the tweet.}
@@ -20,9 +20,8 @@ There are four types of entries:
 }
 
 \item{HashtagList}{<list> List of hashtags used in the tweet.}
-\item{TweetDate}{<dttm> Date and time the tweet was posted. Ranges from January 1, 2021 to March 27, 2021.}
+\item{TweetDate}{<dttm> Date and time the tweet was posted. Ranges from January 1, 2021 to April 4, 2021.}
 \item{Year}{<dbl> Year the tweet was posted. Includes only 2021.}
-\item{Week}{<dbl> Week the tweet was posted. Ranges from week 1-5.}
 \item{UrlCheck}{<fct> Denotes whether the tweet included an external link.
 
 There are two types of entries:
