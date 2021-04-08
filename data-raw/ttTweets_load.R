@@ -11,14 +11,13 @@ library(janitor)
 # resource: https://www.gerkelab.com/blog/2018/09/import-directory-csv-purrr-readr/
 
 # match Rds files with string "Tweets"
-files <- fs::dir_ls(here("data-raw"), regexp = "Tweets(.*).Rds")
+files <- fs::dir_ls(here("data-raw"), regexp = "Tweets(.*).[R|r]ds")
 
 # read in all files into one dataframe
 filesDF <-
   files %>%
   purrr::map_df(readr::read_rds) %>%
   distinct()
-
 
 # wrangle data ------------------------------------------------------------
 
@@ -75,7 +74,7 @@ filesDF_new <-
 
 # create relevant AltText subset dataset ----------------------------------
 
-altTextSubset <-
+AltTextSubset <-
   filesDF_new %>%
   filter(AltText != "Image")
 
@@ -92,6 +91,8 @@ ttTweets2019 <- dfSplits[[2]]
 ttTweets2020 <- dfSplits[[3]]
 ttTweets2021 <- dfSplits[[4]]
 
+# saving the current year tibble
+ttTweets2021 %>% write_rds("data-raw/ttTweets2021.rds")
 
 # exporting new data to `data` folder -------------------------------------
 
@@ -99,4 +100,4 @@ usethis::use_data(ttTweets2018, overwrite = TRUE)
 usethis::use_data(ttTweets2019, overwrite = TRUE)
 usethis::use_data(ttTweets2020, overwrite = TRUE)
 usethis::use_data(ttTweets2021, overwrite = TRUE)
-usethis::use_data(altTextSubset, overwrite = TRUE)
+usethis::use_data(AltTextSubset, overwrite = TRUE)
