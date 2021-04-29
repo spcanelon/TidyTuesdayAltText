@@ -20,7 +20,7 @@
 #'   
 #'   \item{HashtagList}{<list> List of hashtags used in the tweet.}
 #'   \item{TweetDate}{<dttm> Date and time the tweet was posted. Ranges from January 1, 2019 to December 31, 2019.}
-#'   \item{Year}{<dbl> Year the tweet was posted. Includes only 2019.}
+#'   \item{Year}{<fct> Year the tweet was posted. Includes only 2019.}
 #'   \item{UrlCheck}{<fct> Denotes whether the tweet included an external link. 
 #'   
 #'   There are two types of entries:

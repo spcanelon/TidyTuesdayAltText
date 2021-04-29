@@ -7,7 +7,7 @@ makeDataDictionary <- function(dataset) {
       variable = names(dataset)
       ) %>%
     dplyr::mutate(
-      class = purrr::map(
+      data_type = purrr::map(
         dataset,
         typeof
       )
