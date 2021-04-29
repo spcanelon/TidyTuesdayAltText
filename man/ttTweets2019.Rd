@@ -34,7 +34,7 @@ There are two types of entries:
 \source{
 {Tweets originally collected by Thomas Mock. Thomas Mock (2021). Tidy Tuesday: A weekly data project aimed at the R ecosystem.} \url{https://github.com/rfordatascience/tidytuesday}
 
-{Alternative text for tweets collected by Silvia Canelón.} \url{https://www.twitter.com}
+{Alternative text for tweets was scraped by Silvia Canelón after further processing.} \url{https://www.twitter.com}
 }
 \usage{
 ttTweets2019
