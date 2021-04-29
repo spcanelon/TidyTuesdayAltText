@@ -14,6 +14,7 @@ knitr::opts_chunk$set(
 # loading libraries
 library(TidyTuesdayAltText)
 library(tidyverse)
+source("data-raw/makeDataDictionary.R")
 ```
 
 # TidyTuesdayAltText
@@ -60,68 +61,77 @@ This populates the `GITHUB_PAT` environment variable that `install_github()` def
 
 1. Finally, proceed to install the package as usual: `devtools::install_github("spcanelon/TidyTuesdayAltText")`
 
-## Data dictionary
+## Data details
 
-```{r, echo=FALSE}
-# source: https://gist.github.com/jthomasmock/8fa5a1d4d6e8617b78369c1a8fccc850
-# extracting each variable name and class
-createNameClass <- function(x) {
-  tibble::tibble(variable = names(x)) %>%
-    dplyr::mutate(
-      class = purrr::map(
-        x,
-        typeof
-      )
-    )
-}
-dataNameClass <-
-  createNameClass(ttTweets2018)
-# source: https://twitter.com/felipe_mattioni/status/1356963631695597570/photo/1
-# parsing metadata from data Roxygen documentation
-docDataMeta <-
-  Rd2roxygen::parse_file(
-    here::here("man/ttTweets2018.Rd")
-  )
-# wrangling the metadata into a tidy tibble
-dataDescriptions <-
-  docDataMeta$format %>%
-  stringr::str_split(pattern = "\\\\") %>%
-  unlist(recursive = FALSE) %>%
-  dplyr::as_tibble() %>%
-  tail(-2) %>%
-  # removing extra strings and special characters
-  dplyr::mutate(
-    value = stringr::str_remove(
-      value,
-      pattern = "item\\{(.*?)\\}"),
-    value = stringr::str_remove(
-      value,
-      pattern = "\\}\n")
-  ) %>%
-  # filtering only the beginning of descriptions
-  filter(
-    stringr::str_starts(
-      value, 
-      pattern = "\\{")
-  ) %>%
-  # removing extra special characters
-  dplyr::mutate(
-    value = stringr::str_remove(
-      value,
-      pattern = "\\{"
-    )
-  ) %>%
-  # matching only the first sentence
-  mutate(
-    value = stringr::str_extract(
-      value, 
-      pattern = boundary("sentence"))
-  ) %>%
-  # renaming metadata variable
-  dplyr::rename(description = value)
-dataDictionary <-
-  dataNameClass %>%
-  dplyr::bind_cols(dataDescriptions)
+### AltTextSubset
+
+A dataset containing the alternative text for media shared between 2018 and 2021 as part of the TidyTuesday social project, and other attributes of 441 tweets. This is a subset of the 2018-2021 datasets, containing only tweets with alternative text that isn't "Image," the default alternative text added by the Twitter app in the absence of customized alternative text.
+
+- Dates included: April 10, 2018 to April 4, 2021.
+- Observations (rows): There are 465 rows in this dataset. Each row represents a single unique tweet post.
+- Variables (columns): There are 7 columns in this dataset. They are described below
+
+```{r echo=FALSE}
+makeDataDictionary(AltTextSubset)
+
+dataDictionary %>% knitr::kable()
+```
+
+### ttTweets2021
+
+Link to the raw data: [data-raw/ttTweets2021.csv](data-raw/ttTweets2021.csv)
+
+A dataset containing the alternative text for media shared in 2021 as part of the TidyTuesday social project, and other attributes. 
+
+- Dates included: January 1, 2021 to April 4, 2021.
+- Observations (rows): There are 1032 rows in this dataset. Each row represents a single unique tweet post.
+- Variables (columns): There are 7 columns in this dataset. They are described below
+
+```{r echo=FALSE}
+makeDataDictionary(ttTweets2021)
+
+dataDictionary %>% knitr::kable()
+```
+
+### ttTweets2020
+
+Link to the raw data: [data-raw/ttTweets2020.csv](data-raw/ttTweets2020.csv)
+
+- Dates included: January 1, 2020 to December 31, 2020
+- Observations (rows): There are 3374 rows in this dataset. Each row represents a single unique tweet post.
+- Variables (columns): There are 7 columns in this dataset. They are described below
+
+```{r echo=FALSE}
+makeDataDictionary(ttTweets2020)
+
+dataDictionary %>% knitr::kable()
+```
+
+### ttTweets2019
+
+Link to the raw data: [data-raw/ttTweets2019.csv](data-raw/ttTweets2019.csv)
+
+- Dates included: January 1, 2019 to December 31, 2019.
+- Observations (rows): There are 2022 rows in this dataset. Each row represents a single unique tweet post.
+- Variables (columns): There are 7 columns in this dataset. They are described below
+
+```{r echo=FALSE}
+makeDataDictionary(ttTweets2019)
+
+dataDictionary %>% knitr::kable()
+```
+
+### ttTweets2018
+
+Link to the raw data: [data-raw/ttTweets2018.csv](data-raw/ttTweets2018.csv)
+
+- Dates included: April 2, 2018 to December 31, 2018.
+- Observations (rows): There are 709 rows in this dataset. Each row represents a single unique tweet post.
+- Variables (columns): There are 7 columns in this dataset. They are described below
+
+```{r echo=FALSE}
+makeDataDictionary(ttTweets2018)
+
 dataDictionary %>% knitr::kable()
 ```
 

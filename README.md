@@ -66,7 +66,109 @@ useR](https://happygitwithr.com/credential-caching.html)
 4.  Finally, proceed to install the package as usual:
     `devtools::install_github("spcanelon/TidyTuesdayAltText")`
 
-## Data dictionary
+## Data details
+
+### AltTextSubset
+
+A dataset containing the alternative text for media shared between 2018
+and 2021 as part of the TidyTuesday social project, and other attributes
+of 441 tweets. This is a subset of the 2018-2021 datasets, containing
+only tweets with alternative text that isn’t “Image,” the default
+alternative text added by the Twitter app in the absence of customized
+alternative text.
+
+-   Dates included: April 10, 2018 to April 4, 2021.
+-   Observations (rows): There are 465 rows in this dataset. Each row
+    represents a single unique tweet post.
+-   Variables (columns): There are 7 columns in this dataset. They are
+    described below
+
+| variable    | class     | description                                                            |
+|:------------|:----------|:-----------------------------------------------------------------------|
+| TweetId     | character | <chr> Unique tweet identifier.                                         |
+| ImageUrl    | character | <chr> URL to the media shared in the tweet.                            |
+| AltText     | character | <chr> Alternative text corresponding to the media shared in the tweet. |
+| HashtagList | list      | <list> List of hashtags used in the tweet.                             |
+| TweetDate   | double    | <dttm> Date and time the tweet was posted.                             |
+| Year        | integer   | <dbl> Year the tweet was posted.                                       |
+| UrlCheck    | integer   | <fct> Denotes whether the tweet included an external link.             |
+
+### ttTweets2021
+
+Link to the raw data:
+[data-raw/ttTweets2021.csv](data-raw/ttTweets2021.csv)
+
+A dataset containing the alternative text for media shared in 2021 as
+part of the TidyTuesday social project, and other attributes.
+
+-   Dates included: January 1, 2021 to April 4, 2021.
+-   Observations (rows): There are 1032 rows in this dataset. Each row
+    represents a single unique tweet post.
+-   Variables (columns): There are 7 columns in this dataset. They are
+    described below
+
+| variable    | class     | description                                                            |
+|:------------|:----------|:-----------------------------------------------------------------------|
+| TweetId     | character | <chr> Unique tweet identifier.                                         |
+| ImageUrl    | character | <chr> URL to the media shared in the tweet.                            |
+| AltText     | character | <chr> Alternative text corresponding to the media shared in the tweet. |
+| HashtagList | list      | <list> List of hashtags used in the tweet.                             |
+| TweetDate   | double    | <dttm> Date and time the tweet was posted.                             |
+| Year        | integer   | <dbl> Year the tweet was posted.                                       |
+| UrlCheck    | integer   | <fct> Denotes whether the tweet included an external link.             |
+
+### ttTweets2020
+
+Link to the raw data:
+[data-raw/ttTweets2020.csv](data-raw/ttTweets2020.csv)
+
+-   Dates included: January 1, 2020 to December 31, 2020
+-   Observations (rows): There are 3374 rows in this dataset. Each row
+    represents a single unique tweet post.
+-   Variables (columns): There are 7 columns in this dataset. They are
+    described below
+
+| variable    | class     | description                                                            |
+|:------------|:----------|:-----------------------------------------------------------------------|
+| TweetId     | character | <chr> Unique tweet identifier.                                         |
+| ImageUrl    | character | <chr> URL to the media shared in the tweet.                            |
+| AltText     | character | <chr> Alternative text corresponding to the media shared in the tweet. |
+| HashtagList | list      | <list> List of hashtags used in the tweet.                             |
+| TweetDate   | double    | <dttm> Date and time the tweet was posted.                             |
+| Year        | integer   | <dbl> Year the tweet was posted.                                       |
+| UrlCheck    | integer   | <fct> Denotes whether the tweet included an external link.             |
+
+### ttTweets2019
+
+Link to the raw data:
+[data-raw/ttTweets2019.csv](data-raw/ttTweets2019.csv)
+
+-   Dates included: January 1, 2019 to December 31, 2019.
+-   Observations (rows): There are 2022 rows in this dataset. Each row
+    represents a single unique tweet post.
+-   Variables (columns): There are 7 columns in this dataset. They are
+    described below
+
+| variable    | class     | description                                                            |
+|:------------|:----------|:-----------------------------------------------------------------------|
+| TweetId     | character | <chr> Unique tweet identifier.                                         |
+| ImageUrl    | character | <chr> URL to the media shared in the tweet.                            |
+| AltText     | character | <chr> Alternative text corresponding to the media shared in the tweet. |
+| HashtagList | list      | <list> List of hashtags used in the tweet.                             |
+| TweetDate   | double    | <dttm> Date and time the tweet was posted.                             |
+| Year        | integer   | <dbl> Year the tweet was posted.                                       |
+| UrlCheck    | integer   | <fct> Denotes whether the tweet included an external link.             |
+
+### ttTweets2018
+
+Link to the raw data:
+[data-raw/ttTweets2018.csv](data-raw/ttTweets2018.csv)
+
+-   Dates included: April 2, 2018 to December 31, 2018.
+-   Observations (rows): There are 709 rows in this dataset. Each row
+    represents a single unique tweet post.
+-   Variables (columns): There are 7 columns in this dataset. They are
+    described below
 
 | variable    | class     | description                                                            |
 |:------------|:----------|:-----------------------------------------------------------------------|
