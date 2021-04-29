@@ -39,7 +39,7 @@ There are two types of entries:
 AltTextSubset
 }
 \description{
-A dataset containing the alternative text for media shared between 2018 and 2021 as part of the TidyTuesday social project, and other attributes of 441 tweets.
+A dataset containing the alternative text for media shared between 2018 and 2021 as part of the TidyTuesday social project, along with other tweet attributes.
 This is a subset of the 2018-2021 datasets, containing only tweets with alternative text that isn't "Image," the default alternative text added by the Twitter app in the absence of customized alternative text.
 }
 \keyword{datasets}

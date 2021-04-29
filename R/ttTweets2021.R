@@ -1,8 +1,8 @@
 #' TidyTuesday tweets from 2021 that contain media
 #'
-#' A dataset containing the alternative text for media shared in 2021 as part of the TidyTuesday social project, and other attributes of 330+ tweets. 
+#' A dataset containing the alternative text for media shared in 2021 as part of the TidyTuesday social project, along with other tweet attributes. 
 #'
-#' @format A tibble with 1,034 rows and 7 variables:
+#' @format A tibble with 1,032 rows and 7 variables:
 #' \describe{
 #'   \item{TweetId}{<chr> Unique tweet identifier.}
 #'   \item{ImageUrl}{<chr> URL to the media shared in the tweet.} 

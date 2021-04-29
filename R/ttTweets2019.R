@@ -1,6 +1,6 @@
 #' TidyTuesday tweets from 2019 that contain media 
 #'
-#' A dataset containing the alternative text for media shared in 2019 as part of the TidyTuesday social project, and other attributes of 2000+ tweets. 
+#' A dataset containing the alternative text for media shared in 2019 as part of the TidyTuesday social project, along with other tweet attributes. 
 #'
 #' @format A tibble with 2022 rows and 7 variables:
 #' \describe{

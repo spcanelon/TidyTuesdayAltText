@@ -40,6 +40,6 @@ There are two types of entries:
 ttTweets2018
 }
 \description{
-A dataset containing the alternative text for media shared in 2018 as part of the TidyTuesday social project, and other attributes of 700+ tweets.
+A dataset containing the alternative text for media shared in 2018 as part of the TidyTuesday social project, along with other tweet attributes.
 }
 \keyword{datasets}
