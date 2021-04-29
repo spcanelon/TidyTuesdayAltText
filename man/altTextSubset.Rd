@@ -5,7 +5,7 @@
 \alias{AltTextSubset}
 \title{TidyTuesday tweets from 2018-2021 that contain media and customized alternative (alt) text}
 \format{
-A tibble with 841 rows and 7 variables:
+A tibble with 465 rows and 7 variables:
 \describe{
 \item{TweetId}{<chr> Unique tweet identifier.}
 \item{ImageUrl}{<chr> URL to the media shared in the tweet.}
@@ -19,7 +19,7 @@ There are three types of entries:
 }
 
 \item{HashtagList}{<list> List of hashtags used in the tweet.}
-\item{TweetDate}{<dttm> Date and time the tweet was posted. Ranges from April 10, 2018 to March 27, 2021.}
+\item{TweetDate}{<dttm> Date and time the tweet was posted. Ranges from April 10, 2018 to April 4, 2021.}
 \item{Year}{<dbl> Year the tweet was posted. Includes 2018-2021.}
 \item{UrlCheck}{<fct> Denotes whether the tweet included an external link.
 

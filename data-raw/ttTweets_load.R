@@ -1,6 +1,6 @@
 # ttTweetsLoad.R
 
-library(tidyverse)
+library(magrittr)
 library(here)
 library(fs)
 library(janitor)
@@ -34,7 +34,8 @@ filesDF_new <-
                 Year,
                 UrlCheck) %>%
   # convert TweetId from numeric to character variable
-  dplyr::mutate(TweetId = as.character(TweetId))
+  dplyr::mutate(TweetId = as.character(TweetId)) %>%
+  distinct()
 
 
 # split HashtagList vector into individual hashtags -----------------------

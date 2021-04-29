@@ -3,7 +3,7 @@
 #' A dataset containing the alternative text for media shared between 2018 and 2021 as part of the TidyTuesday social project, and other attributes of 441 tweets.
 #' This is a subset of the 2018-2021 datasets, containing only tweets with alternative text that isn't "Image," the default alternative text added by the Twitter app in the absence of customized alternative text.
 #'
-#' @format A tibble with 841 rows and 7 variables:
+#' @format A tibble with 465 rows and 7 variables:
 #' \describe{
 #'   \item{TweetId}{<chr> Unique tweet identifier.}
 #'   \item{ImageUrl}{<chr> URL to the media shared in the tweet.} 
@@ -18,7 +18,7 @@
 #'   1. `NA`, denoting unavailable alternative text due to the media being non-static, like a gif or a video.}
 #'  
 #'   \item{HashtagList}{<list> List of hashtags used in the tweet.}
-#'   \item{TweetDate}{<dttm> Date and time the tweet was posted. Ranges from April 10, 2018 to March 27, 2021.}
+#'   \item{TweetDate}{<dttm> Date and time the tweet was posted. Ranges from April 10, 2018 to April 4, 2021.}
 #'   \item{Year}{<dbl> Year the tweet was posted. Includes 2018-2021.}
 #'   \item{UrlCheck}{<fct> Denotes whether the tweet included an external link. 
 #'   
