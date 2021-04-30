@@ -1,0 +1,14 @@
+citHeader("To cite TidyTuesdayAltText in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "TidyTuesdayAltText: Alternative text for media attached to TidyTuesday tweets",
+  author   = "Silvia P. Canelón, Thomas Mock",
+  year     = 2021,
+  note     = "R package version 0.0.9",
+  doi      = "",
+  url      = "https://github.com/spcanelon/TidyTuesdayAltText",
+  textVersion = paste(
+    "Canelón SP and Mock JT (2021). TidyTuesdayAltText: Alternative text for media attached to TidyTuesday tweets. R package version 0.0.9. https://github.com/spcanelon/TidyTuesdayAltText. doi: ???"
+  )
+)

@@ -12,11 +12,15 @@ Twitter as part of the TidyTuesday social project[1].
 
 ## Navigation
 
-[Installation](#installation) [About the data](#about-the-data) -
-[AltTextSubset](#AltTextSubset) - [ttTweets2021](#ttTweets2021) -
-[ttTweets2020](#ttTweets2020) - [ttTweets2019](#ttTweets2019) -
-[ttTweets2018](#ttTweets2018) [Examples](#exam)
-[References](#references)
+-   [Installation](#installation)
+-   [About the data](#about-the-data)
+    -   [AltTextSubset](#AltTextSubset)
+    -   [ttTweets2021](#ttTweets2021)
+    -   [ttTweets2020](#ttTweets2020)
+    -   [ttTweets2019](#ttTweets2019)
+    -   [ttTweets2018](#ttTweets2018)
+-   [Examples](#exam)
+-   [References](#references)
 
 The package contains 5 datasets:
 
@@ -90,14 +94,20 @@ Alternative (alt) text was scraped from tweet images using
 [{RSelenium}](https://docs.ropensci.org/RSelenium/). The first image
 attached to each tweet was considered the primary image and only the
 primary image from each tweet was scraped for alternative text. The
-following attributes were used to build the scraper: - CSS selector:
-`.css-1dbjc4n.r-1p0dtai.r-1mlwlqe.r-1d2f490.r-11wrixw` - Element
-attribute: `aria-label`
+following attributes were used to build the scraper:
 
-    <div class="figure" style="text-align: center">
-    <img src="man/figures/webInspection.png" alt="Web inspection tool being used to identify the CSS selector corresponding to the primary image of one of Silvia's tweets with alt text" width="100%" />
-    <p class="caption">Web inspection used to identify a CSS selector utilized for alt-text web scraping</p>
-    </div>
+-   CSS selector: `.css-1dbjc4n.r-1p0dtai.r-1mlwlqe.r-1d2f490.r-11wrixw`
+-   Element attribute: `aria-label`
+
+<div class="figure" style="text-align: center">
+
+<img src="man/figures/webInspection.png" alt="Web inspection tool being used to identify the CSS selector corresponding to the primary image of one of Silvia's tweets with alt text" width="100%" />
+<p class="caption">
+Web inspection used to identify a CSS selector utilized for alt-text web
+scraping
+</p>
+
+</div>
 
 This data package does not include data that could directly identify the
 tweet author in order to respect any author’s decision to delete a tweet
@@ -237,6 +247,34 @@ information can be found using `?ttTweets2018`.
 
 (placeholder)
 
+## License
+
+(placeholder)
+
+## Citation
+
+To cite the TidyTuesdayAltText package, please use:
+
+``` r
+citation("TidyTuesdayAltText")
+#> 
+#> To cite TidyTuesdayAltText in publications use:
+#> 
+#>   Canelón SP and Mock JT (2021). TidyTuesdayAltText: Alternative text
+#>   for media attached to TidyTuesday tweets. R package version 0.0.9.
+#>   https://github.com/spcanelon/TidyTuesdayAltText. doi: ???
+#> 
+#> A BibTeX entry for LaTeX users is
+#> 
+#>   @Manual{,
+#>     title = {TidyTuesdayAltText: Alternative text for media attached to TidyTuesday tweets},
+#>     author = {Silvia P. Canelón and Thomas Mock},
+#>     year = {2021},
+#>     note = {R package version 0.0.9},
+#>     url = {https://github.com/spcanelon/TidyTuesdayAltText},
+#>   }
+```
+
 ## References
 
 Data originally published in:
@@ -249,9 +287,12 @@ providing inspiration for this repo:
 
 -   The Pudding. Repo: [the-pudding/data –
     data/foundation-names](https://github.com/the-pudding/data/tree/master/foundation-names)
--   Allison Horst. Repo: [allisonhorst/palmerpenguins: A great intro
-    dataset for data exploration & visualization (alternative to
-    iris).](https://github.com/allisonhorst/palmerpenguins)
+-   Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer
+    Archipelago (Antarctica) penguin data. R package version 0.1.0.
+    <https://allisonhorst.github.io/palmerpenguins/>.
+    <doi:10.5281/zenodo.3960218>.
+
+## Additional resources
 
 <!--
 ## Example
@@ -279,7 +320,8 @@ You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-da
 [1] [rfordatascience/tidytuesday: Official repo for the \#tidytuesday
 project](https://github.com/rfordatascience/tidytuesday#a-weekly-social-data-project-in-r)
 
-[2] <https://developer.twitter.com/en/developer-terms/policy>
+[2] [Developer Policy – Twitter Developers \| Twitter
+Developer](https://developer.twitter.com/en/developer-terms/policy)
 
 [3] [Tweet object \| Twitter
 Developer](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/tweet)
