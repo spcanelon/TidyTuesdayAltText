@@ -3,7 +3,7 @@ citHeader("To cite TidyTuesdayAltText in publications use:")
 citEntry(
   entry    = "Manual",
   title    = "TidyTuesdayAltText: Alternative text for media attached to TidyTuesday tweets",
-  author   = "Silvia P. Canelón, Thomas Mock", "Elizabeth Hare",
+  author   = "Silvia P. Canelón, Thomas Mock, Elizabeth Hare",
   year     = 2021,
   note     = "R package version 0.0.9",
   doi      = "",

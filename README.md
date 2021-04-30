@@ -266,8 +266,6 @@ citation("TidyTuesdayAltText")
 #> 
 #> To cite TidyTuesdayAltText in publications use:
 #> 
-#> Elizabeth Hare
-#> 
 #>   Canelón SP, Mock JT, and Hare E (2021). TidyTuesdayAltText:
 #>   Alternative text for media attached to TidyTuesday tweets. R package
 #>   version 0.0.9. https://github.com/spcanelon/TidyTuesdayAltText. doi:
@@ -277,7 +275,7 @@ citation("TidyTuesdayAltText")
 #> 
 #>   @Manual{,
 #>     title = {TidyTuesdayAltText: Alternative text for media attached to TidyTuesday tweets},
-#>     author = {Silvia P. Canelón and Thomas Mock},
+#>     author = {Silvia P. Canelón and Thomas Mock and Elizabeth Hare},
 #>     year = {2021},
 #>     note = {R package version 0.0.9},
 #>     url = {https://github.com/spcanelon/TidyTuesdayAltText},
