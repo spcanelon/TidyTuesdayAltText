@@ -283,14 +283,21 @@ citation("TidyTuesdayAltText")
 
 ## References
 
-Data originally published in:
+Data and hex logo originally published in:
 
 -   Thomas Mock (2021). Tidy Tuesday: A weekly data project aimed at the
     R ecosystem. <https://github.com/rfordatascience/tidytuesday>
 
-Many thanks to the following dataset repository and package for
-providing inspiration for this repo:
+Many thanks to Liz Hare
+([@DogGeneticsLLC](https://twitter.com/DogGeneticsLLC)) for testing the
+package in development and performing the analyses that went into our
+[CSV Conf 2021 talk](https://github.com/spcanelon/csvConf2021).
 
+And thank you to the following resources for providing guidance and
+inspiration for how this package was organized and documented:
+
+-   [Chapter 12 Create a data package \|
+    rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/data-pkg.html)
 -   The Pudding. Repo:
     [the-pudding/data/foundation-names](https://github.com/the-pudding/data/tree/master/foundation-names)
 -   Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer
