@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 # loading libraries
 library(TidyTuesdayAltText)
 library(tidyverse)
-source("data-raw/makeDataDictionary.R")
+source("data-raw/createDataDictionary.R")
 ```
 
 # TidyTuesdayAltText
@@ -71,10 +71,10 @@ A dataset containing the alternative text for media shared between 2018 and 2021
 - Observations (rows): There are 465 rows in this dataset. Each row represents a single unique tweet post.
 - Variables (columns): There are 7 columns in this dataset. They are described below
 
-```{r echo=FALSE}
-makeDataDictionary(AltTextSubset)
+```{r echo=FALSE, results='asis'}
+createDataDictionary(AltTextSubset)
 
-dataDictionary %>% knitr::kable()
+dataDictionary %>% knitr::kable(escape = TRUE)
 ```
 
 ### ttTweets2021
@@ -88,7 +88,7 @@ A dataset containing the alternative text for media shared in 2021 as part of th
 - Variables (columns): There are 7 columns in this dataset. They are described below
 
 ```{r echo=FALSE}
-makeDataDictionary(ttTweets2021)
+createDataDictionary(ttTweets2021)
 
 dataDictionary %>% knitr::kable()
 ```
@@ -102,7 +102,7 @@ Link to the raw data: [data-raw/ttTweets2020.csv](data-raw/ttTweets2020.csv)
 - Variables (columns): There are 7 columns in this dataset. They are described below
 
 ```{r echo=FALSE}
-makeDataDictionary(ttTweets2020)
+createDataDictionary(ttTweets2020)
 
 dataDictionary %>% knitr::kable()
 ```
@@ -116,7 +116,7 @@ Link to the raw data: [data-raw/ttTweets2019.csv](data-raw/ttTweets2019.csv)
 - Variables (columns): There are 7 columns in this dataset. They are described below
 
 ```{r echo=FALSE}
-makeDataDictionary(ttTweets2019)
+createDataDictionary(ttTweets2019)
 
 dataDictionary %>% knitr::kable()
 ```
@@ -130,7 +130,7 @@ Link to the raw data: [data-raw/ttTweets2018.csv](data-raw/ttTweets2018.csv)
 - Variables (columns): There are 7 columns in this dataset. They are described below
 
 ```{r echo=FALSE}
-makeDataDictionary(ttTweets2018)
+createDataDictionary(ttTweets2018)
 
 dataDictionary %>% knitr::kable()
 ```

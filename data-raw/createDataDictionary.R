@@ -1,4 +1,4 @@
-makeDataDictionary <- function(dataset) {
+createDataDictionary <- function(dataset) {
   # source: https://gist.github.com/jthomasmock/8fa5a1d4d6e8617b78369c1a8fccc850
   
   # extracting each variable name and class
@@ -33,26 +33,11 @@ makeDataDictionary <- function(dataset) {
     unlist(recursive = FALSE) %>%
     dplyr::as_tibble() %>%
     tail(-2) %>%
-    # removing extra strings and special characters
-    dplyr::mutate(
-      value = stringr::str_remove(
-        value,
-        pattern = "item\\{(.*?)\\}"),
-      value = stringr::str_remove(
-        value,
-        pattern = "\\}\n")
-    ) %>%
     # filtering only the beginning of descriptions
     filter(
       stringr::str_starts(
-        value, 
-        pattern = "\\{")
-    ) %>%
-    # removing extra special characters
-    dplyr::mutate(
-      value = stringr::str_remove(
         value,
-        pattern = "\\{"
+        pattern = "item\\{"
       )
     ) %>%
     # matching only the first sentence
@@ -60,6 +45,22 @@ makeDataDictionary <- function(dataset) {
       value = stringr::str_extract(
         value, 
         pattern = boundary("sentence"))
+    ) %>%
+    # replacing extra strings and special characters, with two backslashes
+    # so that <class> notation comes through in GitHub README
+    dplyr::mutate(
+      value = stringr::str_replace(
+        value,
+        pattern = "item\\{(.*?)\\}\\{",
+        replacement = "\\\\"
+      )
+    ) %>%
+    # removing extra right curly bracket, }
+    dplyr::mutate(
+      value = stringr::str_remove_all(
+        value,
+        pattern = "[\\}|\n]"
+      )
     ) %>%
     # renaming metadata variable
     dplyr::rename(description = value)
