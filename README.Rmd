@@ -89,7 +89,7 @@ Tweets were processed and scraped for alternative text by Silvia Canelón ([\@sp
   - CSS selector: `.css-1dbjc4n.r-1p0dtai.r-1mlwlqe.r-1d2f490.r-11wrixw`
   - Element attribute: `aria-label` 
     
-```{r echo=FALSE, fig.align='center', fig.alt="Web inspection tool being used to identify the CSS selector corresponding to the primary image of one of Silvia's tweets with alt text", fig.cap="Web inspection used to identify a CSS selector utilized for alt-text web scraping"}
+```{r echo=FALSE, fig.align='center', fig.alt="Web inspection tool being used to identify the CSS selector corresponding to the primary image of one of Silvia's tweets with alt text", fig.cap="Example of web inspection being used to identify the CSS selector utilized for alt-text web scraping"}
 knitr::include_graphics("man/figures/webInspection.png")
 ```
 

@@ -109,8 +109,8 @@ Tweets were processed and scraped for alternative text by Silvia Canelón
 
 <img src="man/figures/webInspection.png" alt="Web inspection tool being used to identify the CSS selector corresponding to the primary image of one of Silvia's tweets with alt text" width="100%" />
 <p class="caption">
-Web inspection used to identify a CSS selector utilized for alt-text web
-scraping
+Example of web inspection being used to identify the CSS selector
+utilized for alt-text web scraping
 </p>
 
 </div>
