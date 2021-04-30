@@ -291,8 +291,8 @@ Data originally published in:
 Many thanks to the following dataset repository and package for
 providing inspiration for this repo:
 
--   The Pudding. Repo: [the-pudding/data –
-    data/foundation-names](https://github.com/the-pudding/data/tree/master/foundation-names)
+-   The Pudding. Repo:
+    [the-pudding/data/foundation-names](https://github.com/the-pudding/data/tree/master/foundation-names)
 -   Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer
     Archipelago (Antarctica) penguin data. R package version 0.1.0.
     <https://allisonhorst.github.io/palmerpenguins/>.
