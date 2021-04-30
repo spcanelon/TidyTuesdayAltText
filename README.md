@@ -83,15 +83,15 @@ alternative text.
 -   Variables (columns): There are 7 columns in this dataset. They are
     described below
 
-| variable    | data\_type | description                                                                  |
-|:------------|:-----------|:-----------------------------------------------------------------------------|
-| TweetId     | character  | &lt;chr&gt; Unique tweet identifier.                                         |
-| ImageUrl    | character  | &lt;chr&gt; URL to the media shared in the tweet.                            |
-| AltText     | character  | &lt;chr&gt; Alternative text corresponding to the media shared in the tweet. |
-| HashtagList | list       | &lt;list&gt; List of hashtags used in the tweet.                             |
-| TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted.                             |
-| Year        | integer    | &lt;fct&gt; Year the tweet was posted.                                       |
-| UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link.             |
+| variable    | data\_type | description                                                                 |
+|:------------|:-----------|:----------------------------------------------------------------------------|
+| TweetId     | character  | &lt;chr&gt; Unique tweet identifier                                         |
+| ImageUrl    | character  | &lt;chr&gt; URL to the media shared in the tweet                            |
+| AltText     | character  | &lt;chr&gt; Alternative text corresponding to the media shared in the tweet |
+| HashtagList | list       | &lt;list&gt; List of hashtags used in the tweet                             |
+| TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted                             |
+| Year        | integer    | &lt;fct&gt; Year the tweet was posted                                       |
+| UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link             |
 
 ### ttTweets2021
 
@@ -107,15 +107,15 @@ part of the TidyTuesday social project, and other attributes.
 -   Variables (columns): There are 7 columns in this dataset. They are
     described below
 
-| variable    | data\_type | description                                                                  |
-|:------------|:-----------|:-----------------------------------------------------------------------------|
-| TweetId     | character  | &lt;chr&gt; Unique tweet identifier.                                         |
-| ImageUrl    | character  | &lt;chr&gt; URL to the media shared in the tweet.                            |
-| AltText     | character  | &lt;chr&gt; Alternative text corresponding to the media shared in the tweet. |
-| HashtagList | list       | &lt;list&gt; List of hashtags used in the tweet.                             |
-| TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted.                             |
-| Year        | integer    | &lt;fct&gt; Year the tweet was posted.                                       |
-| UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link.             |
+| variable    | data\_type | description                                                                 |
+|:------------|:-----------|:----------------------------------------------------------------------------|
+| TweetId     | character  | &lt;chr&gt; Unique tweet identifier                                         |
+| ImageUrl    | character  | &lt;chr&gt; URL to the media shared in the tweet                            |
+| AltText     | character  | &lt;chr&gt; Alternative text corresponding to the media shared in the tweet |
+| HashtagList | list       | &lt;list&gt; List of hashtags used in the tweet                             |
+| TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted                             |
+| Year        | integer    | &lt;fct&gt; Year the tweet was posted                                       |
+| UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link             |
 
 ### ttTweets2020
 
@@ -128,15 +128,15 @@ Link to the raw data:
 -   Variables (columns): There are 7 columns in this dataset. They are
     described below
 
-| variable    | data\_type | description                                                                  |
-|:------------|:-----------|:-----------------------------------------------------------------------------|
-| TweetId     | character  | &lt;chr&gt; Unique tweet identifier.                                         |
-| ImageUrl    | character  | &lt;chr&gt; URL to the media shared in the tweet.                            |
-| AltText     | character  | &lt;chr&gt; Alternative text corresponding to the media shared in the tweet. |
-| HashtagList | list       | &lt;list&gt; List of hashtags used in the tweet.                             |
-| TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted.                             |
-| Year        | integer    | &lt;fct&gt; Year the tweet was posted.                                       |
-| UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link.             |
+| variable    | data\_type | description                                                                 |
+|:------------|:-----------|:----------------------------------------------------------------------------|
+| TweetId     | character  | &lt;chr&gt; Unique tweet identifier                                         |
+| ImageUrl    | character  | &lt;chr&gt; URL to the media shared in the tweet                            |
+| AltText     | character  | &lt;chr&gt; Alternative text corresponding to the media shared in the tweet |
+| HashtagList | list       | &lt;list&gt; List of hashtags used in the tweet                             |
+| TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted                             |
+| Year        | integer    | &lt;fct&gt; Year the tweet was posted                                       |
+| UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link             |
 
 ### ttTweets2019
 
@@ -149,15 +149,15 @@ Link to the raw data:
 -   Variables (columns): There are 7 columns in this dataset. They are
     described below
 
-| variable    | data\_type | description                                                                  |
-|:------------|:-----------|:-----------------------------------------------------------------------------|
-| TweetId     | character  | &lt;chr&gt; Unique tweet identifier.                                         |
-| ImageUrl    | character  | &lt;chr&gt; URL to the media shared in the tweet.                            |
-| AltText     | character  | &lt;chr&gt; Alternative text corresponding to the media shared in the tweet. |
-| HashtagList | list       | &lt;list&gt; List of hashtags used in the tweet.                             |
-| TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted.                             |
-| Year        | integer    | &lt;fct&gt; Year the tweet was posted.                                       |
-| UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link.             |
+| variable    | data\_type | description                                                                 |
+|:------------|:-----------|:----------------------------------------------------------------------------|
+| TweetId     | character  | &lt;chr&gt; Unique tweet identifier                                         |
+| ImageUrl    | character  | &lt;chr&gt; URL to the media shared in the tweet                            |
+| AltText     | character  | &lt;chr&gt; Alternative text corresponding to the media shared in the tweet |
+| HashtagList | list       | &lt;list&gt; List of hashtags used in the tweet                             |
+| TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted                             |
+| Year        | integer    | &lt;fct&gt; Year the tweet was posted                                       |
+| UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link             |
 
 ### ttTweets2018
 
@@ -170,15 +170,15 @@ Link to the raw data:
 -   Variables (columns): There are 7 columns in this dataset. They are
     described below
 
-| variable    | data\_type | description                                                                  |
-|:------------|:-----------|:-----------------------------------------------------------------------------|
-| TweetId     | character  | &lt;chr&gt; Unique tweet identifier.                                         |
-| ImageUrl    | character  | &lt;chr&gt; URL to the media shared in the tweet.                            |
-| AltText     | character  | &lt;chr&gt; Alternative text corresponding to the media shared in the tweet. |
-| HashtagList | list       | &lt;list&gt; List of hashtags used in the tweet.                             |
-| TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted.                             |
-| Year        | integer    | &lt;fct&gt; Year the tweet was posted.                                       |
-| UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link.             |
+| variable    | data\_type | description                                                                 |
+|:------------|:-----------|:----------------------------------------------------------------------------|
+| TweetId     | character  | &lt;chr&gt; Unique tweet identifier                                         |
+| ImageUrl    | character  | &lt;chr&gt; URL to the media shared in the tweet                            |
+| AltText     | character  | &lt;chr&gt; Alternative text corresponding to the media shared in the tweet |
+| HashtagList | list       | &lt;list&gt; List of hashtags used in the tweet                             |
+| TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted                             |
+| Year        | integer    | &lt;fct&gt; Year the tweet was posted                                       |
+| UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link             |
 
 <!--
 ## Example

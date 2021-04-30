@@ -46,6 +46,13 @@ createDataDictionary <- function(dataset) {
         value, 
         pattern = boundary("sentence"))
     ) %>%
+    # remove everything after and including the period at the end of the sentence
+    dplyr::mutate(
+      value = stringr::str_remove(
+        value,
+        pattern = "\\..*"
+      )
+    ) %>%
     # replacing extra strings and special characters, with two backslashes
     # so that <class> notation comes through in GitHub README
     dplyr::mutate(
@@ -53,13 +60,6 @@ createDataDictionary <- function(dataset) {
         value,
         pattern = "item\\{(.*?)\\}\\{",
         replacement = "\\\\"
-      )
-    ) %>%
-    # removing extra right curly bracket, }
-    dplyr::mutate(
-      value = stringr::str_remove_all(
-        value,
-        pattern = "[\\}|\n]"
       )
     ) %>%
     # renaming metadata variable
