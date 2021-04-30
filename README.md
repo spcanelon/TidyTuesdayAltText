@@ -19,19 +19,11 @@ Twitter as part of the TidyTuesday social project[1].
     -   [ttTweets2020](#ttTweets2020)
     -   [ttTweets2019](#ttTweets2019)
     -   [ttTweets2018](#ttTweets2018)
--   [Examples](#exam)
+-   [Examples](#examples)
+-   [License](#license)
+-   [Citation](#citation)
 -   [References](#references)
-
-The package contains 5 datasets:
-
-``` r
-library(TidyTuesdayAltText)
-?ttTweets2018
-?ttTweets2019
-?ttTweets2020
-?ttTweets2021
-?AltTextSubset
-```
+-   [Additional resources](#additional-resources)
 
 ## Installation
 
@@ -80,21 +72,35 @@ useR](https://happygitwithr.com/credential-caching.html)
 
 ## About the data
 
+The package contains 5 datasets:
+
+``` r
+library(TidyTuesdayAltText)
+?ttTweets2018
+?ttTweets2019
+?ttTweets2020
+?ttTweets2021
+?AltTextSubset
+```
+
 Original data were collected and made available by Tom Mock
-(\[@thomas\_mock\](<https://twitter.com/thomas_mock>) using
+([@thomas\_mock](https://twitter.com/thomas_mock)) using
 [{rtweet}](https://github.com/ropensci/rtweet).
 
 Tweets were processed and scraped for alternative text by Silvia Canelón
-(\[@spcanelon\](<https://twitter.com/spcanelon>)) 1. Data were filtered
-to remove tweets without attached media (e.g. images) 1. Data were
-supplemented with reply tweets collected using {rtweet}. This was done
-to identify whether the original tweet or a reply tweet contained an
-external link (e.g. data source, repository with source code) 1.
-Alternative (alt) text was scraped from tweet images using
-[{RSelenium}](https://docs.ropensci.org/RSelenium/). The first image
-attached to each tweet was considered the primary image and only the
-primary image from each tweet was scraped for alternative text. The
-following attributes were used to build the scraper:
+([@spcanelon](https://twitter.com/spcanelon))
+
+1.  Data were filtered to remove tweets without attached media
+    (e.g. images)
+2.  Data were supplemented with reply tweets collected using {rtweet}.
+    This was done to identify whether the original tweet or a reply
+    tweet contained an external link (e.g. data source, repository with
+    source code)
+3.  Alternative (alt) text was scraped from tweet images using
+    [{RSelenium}](https://docs.ropensci.org/RSelenium/). The first image
+    attached to each tweet was considered the primary image and only the
+    primary image from each tweet was scraped for alternative text. The
+    following attributes were used to build the scraper:
 
 -   CSS selector: `.css-1dbjc4n.r-1p0dtai.r-1mlwlqe.r-1d2f490.r-11wrixw`
 -   Element attribute: `aria-label`

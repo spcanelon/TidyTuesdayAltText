@@ -33,19 +33,11 @@ The goal of `TidyTuesdayAltText` is to provide insight into the alternative (alt
   - [ttTweets2020](#ttTweets2020)
   - [ttTweets2019](#ttTweets2019)
   - [ttTweets2018](#ttTweets2018)
-- [Examples](#exam)
+- [Examples](#examples)
+- [License](#license)
+- [Citation](#citation)
 - [References](#references)
-
-The package contains 5 datasets:
-
-```{r eval=FALSE}
-library(TidyTuesdayAltText)
-?ttTweets2018
-?ttTweets2019
-?ttTweets2020
-?ttTweets2021
-?AltTextSubset
-```
+- [Additional resources](#additional-resources)
 
 ## Installation
 <!--
@@ -75,9 +67,21 @@ This populates the `GITHUB_PAT` environment variable that `install_github()` def
 
 ## About the data
 
-Original data were collected and made available by Tom Mock ([@thomas_mock](https://twitter.com/thomas_mock) using [{rtweet}](https://github.com/ropensci/rtweet).
+The package contains 5 datasets:
 
-Tweets were processed and scraped for alternative text by Silvia Canelón ([@spcanelon](https://twitter.com/spcanelon))
+```{r eval=FALSE}
+library(TidyTuesdayAltText)
+?ttTweets2018
+?ttTweets2019
+?ttTweets2020
+?ttTweets2021
+?AltTextSubset
+```
+
+Original data were collected and made available by Tom Mock ([\@thomas_mock](https://twitter.com/thomas_mock)) using [{rtweet}](https://github.com/ropensci/rtweet).
+
+Tweets were processed and scraped for alternative text by Silvia Canelón ([\@spcanelon](https://twitter.com/spcanelon))
+
 1. Data were filtered to remove tweets without attached media (e.g. images)
 1. Data were supplemented with reply tweets collected using {rtweet}. This was done to identify whether the original tweet or a reply tweet contained an external link (e.g. data source, repository with source code)
 1. Alternative (alt) text was scraped from tweet images using [{RSelenium}](https://docs.ropensci.org/RSelenium/). The first image attached to each tweet was considered the primary image and only the primary image from each tweet was scraped for alternative text. The following attributes were used to build the scraper:
