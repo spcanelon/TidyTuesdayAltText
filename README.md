@@ -10,6 +10,14 @@ The goal of `TidyTuesdayAltText` is to provide insight into the
 alternative (alt) text accompanying the data visualizations shared on
 Twitter as part of the TidyTuesday social project[1].
 
+## Navigation
+
+[Installation](#installation) [About the data](#about-the-data) -
+[AltTextSubset](#AltTextSubset) - [ttTweets2021](#ttTweets2021) -
+[ttTweets2020](#ttTweets2020) - [ttTweets2019](#ttTweets2019) -
+[ttTweets2018](#ttTweets2018) [Examples](#exam)
+[References](#references)
+
 The package contains 5 datasets:
 
 ``` r
@@ -66,7 +74,39 @@ useR](https://happygitwithr.com/credential-caching.html)
 4.  Finally, proceed to install the package as usual:
     `devtools::install_github("spcanelon/TidyTuesdayAltText")`
 
-## Data details
+## About the data
+
+Original data were collected and made available by Tom Mock
+(\[@thomas\_mock\](<https://twitter.com/thomas_mock>) using
+[{rtweet}](https://github.com/ropensci/rtweet).
+
+Tweets were processed and scraped for alternative text by Silvia Canelón
+(\[@spcanelon\](<https://twitter.com/spcanelon>)) 1. Data were filtered
+to remove tweets without attached media (e.g. images) 1. Data were
+supplemented with reply tweets collected using {rtweet}. This was done
+to identify whether the original tweet or a reply tweet contained an
+external link (e.g. data source, repository with source code) 1.
+Alternative (alt) text was scraped from tweet images using
+[{RSelenium}](https://docs.ropensci.org/RSelenium/). The first image
+attached to each tweet was considered the primary image and only the
+primary image from each tweet was scraped for alternative text. The
+following attributes were used to build the scraper: - CSS selector:
+`.css-1dbjc4n.r-1p0dtai.r-1mlwlqe.r-1d2f490.r-11wrixw` - Element
+attribute: `aria-label`
+
+    <div class="figure" style="text-align: center">
+    <img src="man/figures/webInspection.png" alt="Web inspection tool being used to identify the CSS selector corresponding to the primary image of one of Silvia's tweets with alt text" width="100%" />
+    <p class="caption">Web inspection used to identify a CSS selector utilized for alt-text web scraping</p>
+    </div>
+
+This data package does not include data that could directly identify the
+tweet author in order to respect any author’s decision to delete a tweet
+or make their account private after the data was originally
+collected.[2]
+
+To obtain the tweet text, author screen name, and many other tweet
+attributes, you can “rehydrate” the `TweetId`s (or “status” ids[3])
+using the {rtweet} package.[4]
 
 ### AltTextSubset
 
@@ -75,7 +115,7 @@ and 2021 as part of the TidyTuesday social project, and other attributes
 of 441 tweets. This is a subset of the 2018-2021 datasets, containing
 only tweets with alternative text that isn’t “Image,” the default
 alternative text added by the Twitter app in the absence of customized
-alternative text.
+alternative text. More information can be found using `?AltTextSubset`.
 
 -   Dates included: April 10, 2018 to April 4, 2021.
 -   Observations (rows): There are 465 rows in this dataset. Each row
@@ -99,7 +139,8 @@ Link to the raw data:
 [data-raw/ttTweets2021.csv](data-raw/ttTweets2021.csv)
 
 A dataset containing the alternative text for media shared in 2021 as
-part of the TidyTuesday social project, and other attributes.
+part of the TidyTuesday social project, and other attributes. More
+information can be found using `?ttTweets2021`.
 
 -   Dates included: January 1, 2021 to April 4, 2021.
 -   Observations (rows): There are 1032 rows in this dataset. Each row
@@ -122,6 +163,10 @@ part of the TidyTuesday social project, and other attributes.
 Link to the raw data:
 [data-raw/ttTweets2020.csv](data-raw/ttTweets2020.csv)
 
+A dataset containing the alternative text for media shared in 2021 as
+part of the TidyTuesday social project, and other attributes. More
+information can be found using `?ttTweets2020`.
+
 -   Dates included: January 1, 2020 to December 31, 2020
 -   Observations (rows): There are 3374 rows in this dataset. Each row
     represents a single unique tweet post.
@@ -142,6 +187,10 @@ Link to the raw data:
 
 Link to the raw data:
 [data-raw/ttTweets2019.csv](data-raw/ttTweets2019.csv)
+
+A dataset containing the alternative text for media shared in 2021 as
+part of the TidyTuesday social project, and other attributes. More
+information can be found using `?ttTweets2019`.
 
 -   Dates included: January 1, 2019 to December 31, 2019.
 -   Observations (rows): There are 2022 rows in this dataset. Each row
@@ -164,6 +213,10 @@ Link to the raw data:
 Link to the raw data:
 [data-raw/ttTweets2018.csv](data-raw/ttTweets2018.csv)
 
+A dataset containing the alternative text for media shared in 2021 as
+part of the TidyTuesday social project, and other attributes. More
+information can be found using `?ttTweets2018`.
+
 -   Dates included: April 2, 2018 to December 31, 2018.
 -   Observations (rows): There are 709 rows in this dataset. Each row
     represents a single unique tweet post.
@@ -179,6 +232,26 @@ Link to the raw data:
 | TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted                             |
 | Year        | integer    | &lt;fct&gt; Year the tweet was posted                                       |
 | UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link             |
+
+## Examples
+
+(placeholder)
+
+## References
+
+Data originally published in:
+
+-   Thomas Mock (2021). Tidy Tuesday: A weekly data project aimed at the
+    R ecosystem. <https://github.com/rfordatascience/tidytuesday>
+
+Many thanks to the following dataset repository and package for
+providing inspiration for this repo:
+
+-   The Pudding. Repo: [the-pudding/data –
+    data/foundation-names](https://github.com/the-pudding/data/tree/master/foundation-names)
+-   Allison Horst. Repo: [allisonhorst/palmerpenguins: A great intro
+    dataset for data exploration & visualization (alternative to
+    iris).](https://github.com/allisonhorst/palmerpenguins)
 
 <!--
 ## Example
@@ -201,10 +274,16 @@ summary(cars)
 #>  Max.   :25.0   Max.   :120.00
 ```
 You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this. You could also use GitHub Actions to re-render `README.Rmd` every time you push. An example workflow can be found here: <https://github.com/r-lib/actions/tree/master/examples>.
-You can also embed plots, for example:
-<img src="man/figures/README-pressure-1.png" width="100%" />
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
 -->
 
 [1] [rfordatascience/tidytuesday: Official repo for the \#tidytuesday
 project](https://github.com/rfordatascience/tidytuesday#a-weekly-social-data-project-in-r)
+
+[2] <https://developer.twitter.com/en/developer-terms/policy>
+
+[3] [Tweet object \| Twitter
+Developer](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/tweet)
+
+[4] [Get tweets data for given statuses (status IDs). — lookup\_tweets •
+rOpenSci:
+rtweet](https://docs.ropensci.org/rtweet/reference/lookup_tweets.html)
