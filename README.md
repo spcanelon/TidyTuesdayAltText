@@ -266,9 +266,12 @@ citation("TidyTuesdayAltText")
 #> 
 #> To cite TidyTuesdayAltText in publications use:
 #> 
-#>   Canelón SP and Mock JT (2021). TidyTuesdayAltText: Alternative text
-#>   for media attached to TidyTuesday tweets. R package version 0.0.9.
-#>   https://github.com/spcanelon/TidyTuesdayAltText. doi: ???
+#> Elizabeth Hare
+#> 
+#>   Canelón SP, Mock JT, and Hare E (2021). TidyTuesdayAltText:
+#>   Alternative text for media attached to TidyTuesday tweets. R package
+#>   version 0.0.9. https://github.com/spcanelon/TidyTuesdayAltText. doi:
+#>   ???
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 

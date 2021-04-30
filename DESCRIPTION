@@ -11,9 +11,14 @@ Authors@R: c(
            family = "Mock",
            role = c("aut"),
            email = "j.thomasmock@gmail.com",
+           comment = c(ORCID = "")),
+    person(given = "Elizabeth",
+           family = "Hare",
+           role = c("anl", "csl"),
+           email = "",
            comment = c(ORCID = ""))
            )
-Description: Alternative (alt) text for media attached to tweets participating in the TidyTuesday social project (i.e. using the #TidyTuesday hashtag). Most often the media is an image of a data visualization.
+Description: Alternative (alt) text for media attached to tweets participating in the TidyTuesday data visualization learning community.
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
