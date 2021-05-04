@@ -1,4 +1,3 @@
-
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # TidyTuesdayAltText <a href='https://github.com/spcanelon/TidyTuesdayAltText'><img src='man/figures/ttat_hex.png' align="right" height="138.5" alt='Hex logo for the package. White with a thick black border. Inside, the TidyTuesday logo on the top half which are the words TidyTuesday in white against a broad brush stroke of black paint. On the bottom half, the words alt = "text" in black against a white background and within angle brackets to simulate html code.'/></a>
@@ -79,7 +78,7 @@ Tweets were processed and scraped for alternative text by Silvia Canelón
 
 <div class="figure" style="text-align: center">
 
-<img src="man/figures/webInspection.png" alt="Web inspection tool being used to identify the CSS selector corresponding to the primary image of one of Silvia's tweets with alt text" width="70%"/>
+<img src="https://raw.githubusercontent.com/spcanelon/csvConf2021/master/slides/img/webInspection.png" alt="Web inspection tool being used to identify the CSS selector corresponding to the primary image of one of Silvia's tweets with alt text" width="80%"/>
 <p class="caption">
 Example of web inspection being used to identify the CSS selector
 utilized for alt-text web scraping
