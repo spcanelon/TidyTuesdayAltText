@@ -1,3 +1,4 @@
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # TidyTuesdayAltText <a href='https://github.com/spcanelon/TidyTuesdayAltText'><img src='man/figures/ttat_hex.png' align="right" height="138.5" alt='Hex logo for the package. White with a thick black border. Inside, the TidyTuesday logo on the top half which are the words TidyTuesday in white against a broad brush stroke of black paint. On the bottom half, the words alt = "text" in black against a white background and within angle brackets to simulate html code.'/></a>
@@ -41,6 +42,34 @@ You can install the development version of `TidyTuesdayAltText` from
 devtools::install_github("spcanelon/TidyTuesdayAltText")
 ```
 
+### Note about installing from a private repo
+
+While this repo is private, you will first have to make sure to provide
+authentication to GitHub using a [Personal Access Token
+(PAT)](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
+as a credential. You can follow the steps in the credential caching
+chapter of Happy Git with R (summarized below): [Chapter 10 Cache
+credentials for HTTPS \| Happy Git and GitHub for the
+useR](https://happygitwithr.com/credential-caching.html)
+
+1.  Create a personal access token using a [`usethis` package helper
+    function](https://usethis.r-lib.org/reference/create_github_token.html)
+    which pre-selects recommended scopes/permissions:
+    `usethis::create_github_token()`
+
+2.  Then store your token somewhere safe and treat it like you would a
+    password.
+
+3.  Call an R function to store your credentials using the
+    [`credentials` package](https://docs.ropensci.org/credentials/)
+    which will prompt you to enter your token:
+    `credentials::set_github_pat()`<br> This populates the `GITHUB_PAT`
+    environment variable that `install_github()` defaults to as the
+    authentication token (i.e. **auth\_token**) argument.
+
+4.  Finally, proceed to install the package as usual:
+    `devtools::install_github("spcanelon/TidyTuesdayAltText")`
+
 ## About the data
 
 The package contains 5 datasets:
@@ -78,7 +107,7 @@ Tweets were processed and scraped for alternative text by Silvia Canelón
 
 <div class="figure" style="text-align: center">
 
-<img src="https://raw.githubusercontent.com/spcanelon/csvConf2021/master/slides/img/webInspection.png" alt="Web inspection tool being used to identify the CSS selector corresponding to the primary image of one of Hao Ye's (@Hao_and_Y) tweets with alt text" width="80%"/>
+<img src="man/figures/webInspection.png" alt="Web inspection tool being used to identify the CSS selector corresponding to the primary image of one of Silvia's tweets with alt text" width="100%" />
 <p class="caption">
 Example of web inspection being used to identify the CSS selector
 utilized for alt-text web scraping
@@ -219,6 +248,14 @@ information can be found using `?ttTweets2018`.
 | TweetDate   | double     | &lt;dttm&gt; Date and time the tweet was posted                             |
 | Year        | integer    | &lt;fct&gt; Year the tweet was posted                                       |
 | UrlCheck    | integer    | &lt;fct&gt; Denotes whether the tweet included an external link             |
+
+## Examples
+
+(placeholder)
+
+## License
+
+(placeholder)
 
 ## Citation
 
