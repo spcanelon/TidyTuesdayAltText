@@ -150,7 +150,7 @@ information can be found using `?ttTweets2021`.
 Link to the raw data:
 [data-raw/ttTweets2020.csv](data-raw/ttTweets2020.csv)
 
-A dataset containing the alternative text for media shared in 2021 as
+A dataset containing the alternative text for media shared in 2020 as
 part of the TidyTuesday social project, and other attributes. More
 information can be found using `?ttTweets2020`.
 
@@ -175,7 +175,7 @@ information can be found using `?ttTweets2020`.
 Link to the raw data:
 [data-raw/ttTweets2019.csv](data-raw/ttTweets2019.csv)
 
-A dataset containing the alternative text for media shared in 2021 as
+A dataset containing the alternative text for media shared in 2019 as
 part of the TidyTuesday social project, and other attributes. More
 information can be found using `?ttTweets2019`.
 
@@ -200,7 +200,7 @@ information can be found using `?ttTweets2019`.
 Link to the raw data:
 [data-raw/ttTweets2018.csv](data-raw/ttTweets2018.csv)
 
-A dataset containing the alternative text for media shared in 2021 as
+A dataset containing the alternative text for media shared in 2018 as
 part of the TidyTuesday social project, and other attributes. More
 information can be found using `?ttTweets2018`.
 
