@@ -131,7 +131,7 @@ dataDictionary %>% knitr::kable()
 
 Link to the raw data: [data-raw/ttTweets2020.csv](data-raw/ttTweets2020.csv)
 
-A dataset containing the alternative text for media shared in 2021 as part of the TidyTuesday social project, and other attributes. More information can be found using `?ttTweets2020`.
+A dataset containing the alternative text for media shared in 2020 as part of the TidyTuesday social project, and other attributes. More information can be found using `?ttTweets2020`.
 
 - Dates included: January 1, 2020 to December 31, 2020
 - Observations (rows): There are 3374 rows in this dataset. Each row represents a single unique tweet post.
@@ -147,7 +147,7 @@ dataDictionary %>% knitr::kable()
 
 Link to the raw data: [data-raw/ttTweets2019.csv](data-raw/ttTweets2019.csv)
 
-A dataset containing the alternative text for media shared in 2021 as part of the TidyTuesday social project, and other attributes. More information can be found using `?ttTweets2019`.
+A dataset containing the alternative text for media shared in 2019 as part of the TidyTuesday social project, and other attributes. More information can be found using `?ttTweets2019`.
 
 - Dates included: January 1, 2019 to December 31, 2019.
 - Observations (rows): There are 2022 rows in this dataset. Each row represents a single unique tweet post.
@@ -163,7 +163,7 @@ dataDictionary %>% knitr::kable()
 
 Link to the raw data: [data-raw/ttTweets2018.csv](data-raw/ttTweets2018.csv)
 
-A dataset containing the alternative text for media shared in 2021 as part of the TidyTuesday social project, and other attributes. More information can be found using `?ttTweets2018`.
+A dataset containing the alternative text for media shared in 2018 as part of the TidyTuesday social project, and other attributes. More information can be found using `?ttTweets2018`.
 
 - Dates included: April 2, 2018 to December 31, 2018.
 - Observations (rows): There are 709 rows in this dataset. Each row represents a single unique tweet post.
