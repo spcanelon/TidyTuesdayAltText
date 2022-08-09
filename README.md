@@ -5,9 +5,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of `TidyTuesdayAltText` is to provide insight into the
+The goal of the `TidyTuesdayAltText` R data package is to provide insight into the
 alternative (alt) text accompanying the data visualizations shared on
-Twitter as part of the TidyTuesday social project[1].
+Twitter as part of the TidyTuesday social project.[^1]
 
 ## Navigation
 
@@ -89,11 +89,11 @@ utilized for alt-text web scraping
 This data package does not include data that could directly identify the
 tweet author in order to respect any author’s decision to delete a tweet
 or make their account private after the data was originally
-collected.[2]
+collected.[^2]
 
 To obtain the tweet text, author screen name, and many other tweet
-attributes, you can “rehydrate” the `TweetId`s (or “status” ids[3])
-using the {rtweet} package.[4]
+attributes, you can “rehydrate” the `TweetId`s (or “status” ids[^3])
+using the {rtweet} package.[^4]
 
 ### AltTextSubset
 
@@ -269,8 +269,6 @@ inspiration for how this package was organized and documented:
     <https://allisonhorst.github.io/palmerpenguins/>.
     <doi:10.5281/zenodo.3960218>.
 
-## Additional resources
-
 <!--
 ## Example
 This is a basic example which shows you how to solve a common problem:
@@ -294,15 +292,15 @@ summary(cars)
 You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this. You could also use GitHub Actions to re-render `README.Rmd` every time you push. An example workflow can be found here: <https://github.com/r-lib/actions/tree/master/examples>.
 -->
 
-[1] [rfordatascience/tidytuesday: Official repo for the \#tidytuesday
+[^1]: [rfordatascience/tidytuesday: Official repo for the \#tidytuesday
 project](https://github.com/rfordatascience/tidytuesday#a-weekly-social-data-project-in-r)
 
-[2] [Developer Policy – Twitter Developers \| Twitter
+[^2]: [Developer Policy – Twitter Developers \| Twitter
 Developer](https://developer.twitter.com/en/developer-terms/policy)
 
-[3] [Tweet object \| Twitter
+[^3]: [Tweet object \| Twitter
 Developer](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/tweet)
 
-[4] [Get tweets data for given statuses (status IDs). — lookup\_tweets •
+[^4]: [Get tweets data for given statuses (status IDs). — lookup\_tweets •
 rOpenSci:
 rtweet](https://docs.ropensci.org/rtweet/reference/lookup_tweets.html)
